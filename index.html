@@ -1,0 +1,40 @@
+---
+layout: default
+title: Make Lab
+description: Interaction, Design, HCI, Make Lab, KAIST, Korea
+---
+
+
+
+<section class="portfolio">
+
+	<div class="content-wrap portfolio-wrap">
+
+		{% assign allPrjs = site.projects | sort: 'year' %}
+
+		{% for project in allPrjs reversed %}
+
+		<div class="portfolio-item">
+
+			<a class="portfolio-item__link" href="{{ project.url }}">
+
+				<div class="portfolio-item__image">
+					<img src="{{ project.featured_image  }}" alt="{{ project.title }}">
+				</div>
+
+				<div class="portfolio-item__content">
+					<div class="portfolio-item__info">
+						<h2 class="portfolio-item__title">{{ project.title }}</h2>
+						<p class="portfolio-item__subtitle">{{ project.subtitle }} ({{ project.year }})</p>
+					</div>
+				</div>
+
+			</a>
+
+		</div>
+
+		{% endfor %}
+
+	</div>
+
+</section>
