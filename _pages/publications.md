@@ -1,6 +1,6 @@
 ---
 title: Awards & Publications
-description: Publications at MAKinteract lab
+description: Publications at the Make Lab
 ---
 
 <head>

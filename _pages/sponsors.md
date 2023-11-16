@@ -1,10 +1,9 @@
 ---
 title: Sponsors
-description: Who supported the MAKinteract lab at KAIST
+description: Who supported the Make Lab at KAIST
 ---
 
 Our research was only possible thanks to the kind support of funding agencies, companies and the Korean government.
-
 
 <div class="container-fluid">
     <div class="row justify-content-md-center">
@@ -19,6 +18,7 @@ Our research was only possible thanks to the kind support of funding agencies, c
         {% endfor %}
 
     </div>
+
 </div>
 
 ---
@@ -28,6 +28,3 @@ Our research was only possible thanks to the kind support of funding agencies, c
 If you are interested in sponsoring our research, collaborating with us, visiting the lab or discussing about patent transactions and licensing options, please contact us.
 
 <a href="contact.html" class="button button--large">Contact us</a>
-
-
-

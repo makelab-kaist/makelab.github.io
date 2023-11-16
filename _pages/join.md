@@ -1,6 +1,6 @@
 ---
 title: Join Us
-description: How to join the MAKinteract lab
+description: How to join the Make Lab at KAIST
 ---
 
 ## TL;DR
@@ -24,13 +24,13 @@ Students are encouraged to apply by initially sending an <a href="#" onclick="(f
 
 ## For Master's program applicants
 
-MAKinteract lan in the department of Industrial Design at KAIST (ID KAIST) offers a **fully-funded** Master's opening position **every** _spring_ and _fall_ semesters. The MS program is **research-oriented**, which means that on top of your coursework, you are expected to conduct research. The Master's program lasts two years. We also offer a **Masters+Ph.D. combined** program. The way it works is that you would apply to the MS program first, and then during your first semester you internally apply to move to the Ph.D. track.
+**Make Lab** in the department of Industrial Design at KAIST (ID KAIST) offers a **fully-funded** Master's opening position **every** _spring_ and _fall_ semesters. The MS program is **research-oriented**, which means that on top of your coursework, you are expected to conduct research. The Master's program lasts two years. We also offer a **Masters+Ph.D. combined** program. The way it works is that you would apply to the MS program first, and then during your first semester you internally apply to move to the Ph.D. track.
 
 Strong candidates are encouraged to contact directly the lab. If you are interested in our Master's program, please go ahead and apply [here](https://admission.kaist.ac.kr).
 
 ## Tips for your application
 
-- Include **specific reasons** why you want to apply to our department and the MAKinteract lab.
+- Include **specific reasons** why you want to apply to our department and the Make Lab.
 - Include material that **demonstrates your technical, analytical, or artistic capabilities**: this includes source code of projects, images or videos or prototypes, a personal website, previous research papers, videos you made, etc...
 - Make sure to take a **look at our previous research** projects: which project do you like and why? How do you suggest contributing to our lab?
 
@@ -38,7 +38,7 @@ Strong candidates are encouraged to contact directly the lab. If you are interes
 
 For the application process, please refer to the [KAIST admission site](https://admission.kaist.ac.kr).
 
-Labs cannot directly accept students. Instead, students interested in our graduate programs should apply to KAIST and indicate in which department and lab (_Professor Andrea Bianchi's MAKinteract Lab_) they would like to work. A committee composed of all the professors will judge each candidate and grant or deny admission through the reviewing process. Admitted graduate students receive a basic scholarship from KAIST and a stipend from the lab, depending on the availability of projects and student involvement (a minimum national stipend is anyway always guaranteed by law). For further questions please refer to this list of [Q&As](https://id.kaist.ac.kr/index.php?mid=FAQ).
+Labs cannot directly accept students. Instead, students interested in our graduate programs should apply to KAIST and indicate in which department and lab (_Professor Andrea Bianchi's Make Lab_) they would like to work. A committee composed of all the professors will judge each candidate and grant or deny admission through the reviewing process. Admitted graduate students receive a basic scholarship from KAIST and a stipend from the lab, depending on the availability of projects and student involvement (a minimum national stipend is anyway always guaranteed by law). For further questions please refer to this list of [Q&As](https://id.kaist.ac.kr/index.php?mid=FAQ).
 
 ### For international applicants (Master's or Ph.D.)
 

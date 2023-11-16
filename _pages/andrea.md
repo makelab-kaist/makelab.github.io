@@ -1,6 +1,6 @@
 ---
 title: Andrea Bianchi
-description: Andrea Bianchi, Interaction, Design, HCI, Haptics, VR, Digital Fabrication, Physical computing, Prototyping tools, MAKinteract, KAIST, Korea
+description: Andrea Bianchi, Interaction, Design, HCI, Haptics, VR, Digital Fabrication, Physical computing, Prototyping tools, KAIST, Korea
 subtitle: Associate Professor - Lab director
 ---
 
@@ -55,7 +55,7 @@ subtitle: Associate Professor - Lab director
 </head>
 
 <span class="profile"> 
-My name is Andrea Bianchi (Korean: 안두리), and I am an Associate Professor (tenured) in the [Department of Industrial Design](https://id.kaist.ac.kr) and an Adjunct Professor in the [School of Computing](https://cs.kaist.ac.kr) at [KAIST](https://id.kaist.ac.kr), and the director of the **MAKinteract lab**. I research in the field of Human-Computer Interaction (_HCI_).
+My name is Andrea Bianchi (Korean: 안두리), and I am an Associate Professor (tenured) in the [Department of Industrial Design](https://id.kaist.ac.kr) and an Adjunct Professor in the [School of Computing](https://cs.kaist.ac.kr) at [KAIST](https://id.kaist.ac.kr), and the director of the **Make Lab**. I research in the field of Human-Computer Interaction (_HCI_).
 </span>
 
 <img src="/images/people/andreaHD.jpg" alt="{{prof.name}}" class="profileImage"/>

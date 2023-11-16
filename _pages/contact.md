@@ -1,7 +1,7 @@
 ---
 title: Contact
 subtitle: Drop us a line for questions or suggestions.
-description: Contact MAKinteract lab
+description: Contact Make Lab
 ---
 
 {% include contact-form.html %}
