@@ -10,8 +10,8 @@ description: How to join the Make Lab at KAIST
 - MS is **2** years, Ph.D. is **4**. MS+PhD combined is **5** years
 - All programs are in **English**
 - For PhD, I expect some prior research **experience** and some proven technical **capabilities** (e.g., coding, making, stats, research methods...)
-- OK with many majors of origin - not a disadvantage or advance per se. OK no prior design background
-- For **internship** we welcome KAIST students and consider applicants from elsewhere with strong recommendations
+- We welcome students with many majors of origin. It is OK to not have a formal background in design
+- For **internship** we welcome KAIST students and only consider applicants from elsewhere with strong recommendations
 - For inquiries reach out directly via <a href="#" onclick="(function(){window.open('mailto:andrea@kaist.ac.kr');})()">email <i class="fas fa-envelope"></i></a> or the [contact form](./contact.md)
 
 ## For prospective Ph.D. students
