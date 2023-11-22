@@ -19,6 +19,8 @@ menu_settings:
       url: '/andrea'
     - title: 'Open-source'
       url: '/opensource'
+    - title: 'Sponsors'
+      url: '/sponsors'
     - title: 'Join us'
       url: '/join'
     - title: 'Contact'

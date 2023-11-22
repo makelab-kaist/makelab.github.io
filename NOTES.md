@@ -1,6 +1,12 @@
 # Running Jekyll
 
-Assuming to be on Fish shell
+To run Jekyll make sure you are using Ruby 2.7
+
+```
+mcr.microsoft.com/devcontainers/jekyll:2.7-bullseye
+```
+
+Alternatively, you need to run these commands manually.  Assuming to be on Fish shell:
 
 ```
 rvm install ruby-2.7.2

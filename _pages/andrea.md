@@ -79,19 +79,16 @@ Before joining KAIST, he worked at [Sungkyunkwan University](http://www.skku.edu
 
 ## Experience
 
-**KAIST**
+- **KAIST, Associate Professor** - Department of Industrial Design (9/2019 - present)
+- **University of Sydney, Visiting Researcher** - Faculty of Engineering (Computer Science) (20/11/2023 - 16/2/2024)
+- **KAIST, Adjunct Professor** - School of Computing (1/10/2022 - present)
+- **KAIST, Adjunct Professor** - Human-Robot Interaction Center (3/2022 - present)
 
-- **Associate Professor** - Department of Industrial Design (9/2019 - present)
-- **Adjunct Professor** - School of Computing (1/10/2022 - present)
-- **Adjunct Professor** - Human-Robot Interaction Center (3/2022 - present)
-- **Assistant Professor** - Department of Industrial Design (9/2015 - 8/2019)
 
-**Sungkyunkwan University**
+**Previous roles**
 
-- **Assistant Professor** - Department of Computer Science (3/2013 - 8/2015)
-
-**SIGCHI**
-
+- **KAIST, Assistant Professor** - Department of Industrial Design (9/2015 - 8/2019)
+- **Sungkyunkwan University, Assistant Professor** - Department of Computer Science (3/2013 - 8/2015)
 - **Vice-chair** - SIGCHI Korea Local Chapter (4/2022 - 3/2023)
 
 ## Awards
@@ -113,13 +110,13 @@ Before joining KAIST, he worked at [Sungkyunkwan University](http://www.skku.edu
 
 **Design**
 
-- **iF Design Award 2021** Mobile Clinic Module Control UX/UI
-- **IDSA 2021 Bronze Design Award** Mobile Clinic Module Control UX/UI
+- **iF Design Award 2021** 
+- **IDSA 2021 Bronze Design Award** 
 
 **Others**
 
-- **KAIST 2020 Technology Innovation Award (공과대학 2020 기술혁신 우수상)**
-- **KAIST Breakthroughs Readers' Choice Award 2021** (College of Engineering)
+- **KAIST 2020 Technology Innovation Award**
+- **Breakthroughs Readers' Choice Award 2021** KAIST College of Engineering 
 - **Excellence Teaching Award Fall 2017** Industrial Design, KAIST
 
 ## Academic Services
