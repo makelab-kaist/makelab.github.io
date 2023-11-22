@@ -96,6 +96,8 @@ Before joining KAIST, he worked at [Sungkyunkwan University](http://www.skku.edu
 
 ## Awards
 
+**Papers**
+
 - **Best Paper Award** UIST 2020
 - **Best Paper Award** TEI 2021
 - **Best Paper Award** MobileHCI 2013
@@ -108,8 +110,14 @@ Before joining KAIST, he worked at [Sungkyunkwan University](http://www.skku.edu
 - **Honorable Mention Award** MobileHCI 2017
 - **Honorable Mention Award** MobileHCI 2016
 - **Best Poster Award** UIST 2016
+
+**Design**
+
 - **iF Design Award 2021** Mobile Clinic Module Control UX/UI
 - **IDSA 2021 Bronze Design Award** Mobile Clinic Module Control UX/UI
+
+**Others**
+
 - **KAIST 2020 Technology Innovation Award (공과대학 2020 기술혁신 우수상)**
 - **KAIST Breakthroughs Readers' Choice Award 2021** (College of Engineering)
 - **Excellence Teaching Award Fall 2017** Industrial Design, KAIST
@@ -145,16 +153,16 @@ Before joining KAIST, he worked at [Sungkyunkwan University](http://www.skku.edu
 
 ## Teaching
 
-I have tried to explain a little about my teaching philospjy in this [interview](https://youtu.be/bZnS8IFA_OQ):
+I have tried to explain a little about my teaching philosophy in this [interview](https://youtu.be/bZnS8IFA_OQ):
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bZnS8IFA_OQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**ID311 - Software Prototyping ([current](https://software.prototyping.id))**
+**ID311 - Software Prototyping** ([current](https://software.prototyping.id))
 
 - Fall: 2016, 2017
 - Spring: 2016, 2018-2023
 
-**ID220 - Interaction Prototyping ([archive](https://sites.google.com/view/interaction-prototyping/home))**
+**ID220 - Interaction Prototyping** ([archive](https://sites.google.com/view/interaction-prototyping/home))
 
 - Fall: 2018-2022
 

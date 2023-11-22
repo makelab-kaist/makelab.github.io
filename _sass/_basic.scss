@@ -145,6 +145,8 @@ p, ul, ol {
 
 	strong {
 		font-weight: $bold-weight;
+		color: $text-medium-color;
+		// color: $text-dark-color;
 	}
 
 	&:first-child {
@@ -192,10 +194,11 @@ blockquote {
 
 a {
 	text-decoration: none;
-	color: $text-dark-color;
-	font-weight: $bold-weight;
+	// color: $text-dark-color;
+	color: $text-medium-color;
+	// font-weight: $bold-weight;
 	@include transition(all 0.15s ease-in-out);
-
+	
 	&:hover {
 		color: $accent-color;
 	}
