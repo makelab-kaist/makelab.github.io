@@ -64,7 +64,7 @@ The focus of my work is to investigate _how physical interaction can enable rich
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U54PDYC_d4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Before joining KAIST, he worked at [Sungkyunkwan University](http://www.skku.edu/eng/index.do) (Korea) as a faculty member in the Department of Computer Science, and as a video game programmer for a New York startup. Andrea received a [Ph.D. from KAIST](https://ct.kaist.ac.kr/main.php?lang=1) (Korea) in 2012, an MS in Computer Science from [NYU](http://www.nyu.edu) (USA), and a Laurea (BSc+MS) in business administration from [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home) (Italy). Andrea has an _Erdős number_ of 3 and collects [eyeglasses](https://www.dropbox.com/s/f9ckj7usmhk95b3/glasses.jpg?dl=0).
+Before joining KAIST, he worked at [Sungkyunkwan University](http://www.skku.edu/eng/index.do) (Korea) as a faculty member in the Department of Computer Science, and as a video game programmer for a New York [startup](https://www.crunchbase.com/organization/rebelmonkey). Andrea received a [Ph.D. from KAIST](https://ct.kaist.ac.kr/main.php?lang=1) (Korea) in 2012, an MS in Computer Science from [NYU](http://www.nyu.edu) (USA), and a Laurea (BSc+MS) in business administration from [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home) (Italy). Andrea has an [Erdős number](https://en.wikipedia.org/wiki/Erdős_number) of 3 and collects [eyeglasses](https://www.dropbox.com/s/f9ckj7usmhk95b3/glasses.jpg?dl=0).
 
 {% assign prof = site.data.people[0] %}
 
@@ -164,9 +164,9 @@ I have tried to explain a little about my teaching philospjy in this [interview]
 
 ## Additional Resources
 
-- [Resume (long)](http://andrea.kaist.id)
-- [Short Resume (PDF)](https://www.dropbox.com/s/1oby67w9i81cnq4/CV_andrea_bianchi_onePage.pdf?dl=0)
-- [My calendar](https://calendar.makinteract.com)
+- [Resume](http://andrea.kaist.id)
+<!-- - [Short Resume (PDF)](https://www.dropbox.com/s/1oby67w9i81cnq4/CV_andrea_bianchi_onePage.pdf?dl=0) -->
+- [My calendar](https://calendar.kaist.id)
 - [Website with old projects (Ph.D. and before)](https://alsoplantsfly.kaist.id)
 - [YouTube channel](https://www.youtube.com/channel/UC5A_g3GYEGeoqBqSSJ11NoQ)
-- [About me page](https://about.me/andreabianchi)
+<!-- - [About me page](https://about.me/andreabianchi) -->
