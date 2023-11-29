@@ -48,7 +48,7 @@ Hye-Young Jo, Laurenz Seidel, Michel Pahud, Mike Sinclair, and Andrea Bianchi. 2
 
 Wooje Chang, Seungwoo Je, Michel Pahud, Mike Sinclair, and Andrea Bianchi, **Rendering Perceived Terrain Stiffness in VR Via Preload Variation Against Body-Weight**. In _IEEE Transactions on Haptics_ [https://doi.org/10.1109/TOH.2023.3275136](https://doi.org/10.1109/TOH.2023.3275136) (**Best student presentation award** 🏆)
 
-Andrea Bianchi, Steve Hodges, David Cuartielles, Hyunjoo Oh, Mannu Lambrichts, and Anne Roudaut. **Beyond prototyping boards: future paradigms for electronics toolkits** ([Workshop](https://beyond.prototyping.id)). In Extended Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (_CHI EA ’23_) [[paper]]({{ site.url }}/files/2023/Bianchi_BeyondPrototypingboards_CHI23.pdf).
+Andrea Bianchi, Steve Hodges, David Cuartielles, Hyunjoo Oh, Mannu Lambrichts, and Anne Roudaut. **Beyond prototyping boards: future paradigms for electronics toolkits** ([Workshop](https://beyondprototyping.github.io/WorkshopWeb2023)). In Extended Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (_CHI EA ’23_) [[paper]]({{ site.url }}/files/2023/Bianchi_BeyondPrototypingboards_CHI23.pdf).
 
 Nargiz Askarbekkyzy, Yilong Lin, Kongpyung (Justin) Moon, Andrea Bianchi, and Seungwoo Je. **Designing visuo-haptic illusions for Virtual Reality applications using floor-based shape-changing displays**. In Proceedings of the tenth Congress of the International Association of Societies of Design Research (_IASDR 2023_) [[paper]({{ site.url }}/files/2023/Askarbekkyzy_FloorIlusion_IASDR23.pdf)].
 
