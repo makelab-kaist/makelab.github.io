@@ -7,7 +7,7 @@ description: How to join the Make Lab at KAIST
 
 - We are **looking for grad students** interested in interactive systems, VR, haptics and robots, digital fabrication, etc...
 - MS and Ph.D. students are **fully funded** and receive a government scholarship plus a lab stipend
-- MS is **2** years, Ph.D. is **4**. MS+PhD combined is **5** years
+- MS is **2** years, Ph.D. is **4** years, and the MS+PhD combined program is **5** years
 - All programs are in **English**
 - For PhD, I expect some prior research **experience** and some proven technical **capabilities** (e.g., coding, making, stats, research methods...)
 - We welcome students with many majors of origin. It is OK to not have a formal background in design
