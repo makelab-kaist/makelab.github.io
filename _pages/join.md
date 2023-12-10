@@ -12,7 +12,7 @@ description: How to join the Make Lab at KAIST
 - For PhD, I expect some prior research **experience** and some proven technical **capabilities** (e.g., coding, making, stats, research methods...)
 - We welcome students with many majors of origin. It is OK to not have a formal background in design
 - For **internship** we welcome KAIST students and only consider applicants from elsewhere with strong recommendations
-- For inquiries reach out directly via <a href="#" onclick="(function(){window.open('mailto:andrea@kaist.ac.kr');})()">email <i class="fas fa-envelope"></i></a> or the [contact form](./contact.md)
+- For inquiries reach out directly via <a href="#" onclick="(function(){window.open('mailto:andrea@kaist.ac.kr');})()">email <i class="fas fa-envelope"></i></a> or through the [contact form](./contact)
 
 ## For prospective Ph.D. students
 
