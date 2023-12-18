@@ -84,7 +84,6 @@ Before joining KAIST, he worked at [Sungkyunkwan University](http://www.skku.edu
 - **KAIST, Adjunct Professor** - School of Computing (1/10/2022 - present)
 - **KAIST, Adjunct Professor** - Human-Robot Interaction Center (3/2022 - present)
 
-
 **Previous roles**
 
 - **KAIST, Assistant Professor** - Department of Industrial Design (9/2015 - 8/2019)
@@ -110,13 +109,14 @@ Before joining KAIST, he worked at [Sungkyunkwan University](http://www.skku.edu
 
 **Design**
 
-- **iF Design Award 2021** 
-- **IDSA 2021 Bronze Design Award** 
+- **iF Design Award 2021**
+- **IDSA 2021 Bronze Design Award**
 
 **Others**
 
+- **KAIST 2023 Global Research Cooperation** Excellence Award
 - **KAIST 2020 Technology Innovation Award**
-- **Breakthroughs Readers' Choice Award 2021** KAIST College of Engineering 
+- **Breakthroughs Readers' Choice Award 2021** KAIST College of Engineering
 - **Excellence Teaching Award Fall 2017** Industrial Design, KAIST
 
 ## Academic Services
