@@ -46,7 +46,7 @@ description: Publications at the Make Lab
 
 Hye-Young Jo, Laurenz Seidel, Michel Pahud, Mike Sinclair, and Andrea Bianchi. 2023. **FlowAR: How Different Augmented Reality Visualizations of Online Fitness Videos Support Flow for At-Home Yoga Exercises**. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (_CHI ’23_ ), April 23–28, 2023, Hamburg, Germany. ACM, New York, NY, USA, 17 pages. [https://doi.org/10.1145/3544548.3580897](https://doi.org/10.1145/3544548.3580897).
 
-Wooje Chang, Seungwoo Je, Michel Pahud, Mike Sinclair, and Andrea Bianchi, **Rendering Perceived Terrain Stiffness in VR Via Preload Variation Against Body-Weight**. In _IEEE Transactions on Haptics_ [https://doi.org/10.1109/TOH.2023.3275136](https://doi.org/10.1109/TOH.2023.3275136) (**Best student presentation award** 🏆)
+Wooje Chang, Seungwoo Je, Michel Pahud, Mike Sinclair, and Andrea Bianchi, **Rendering Perceived Terrain Stiffness in VR Via Preload Variation Against Body-Weight**. In _IEEE Transactions on Haptics_ [https://doi.org/10.1109/TOH.2023.3275136](https://doi.org/10.1109/TOH.2023.3275136) (**Best student presentation award at IEEE World Haptics 2023** 🏆)
 
 Andrea Bianchi, Steve Hodges, David Cuartielles, Hyunjoo Oh, Mannu Lambrichts, and Anne Roudaut. **Beyond prototyping boards: future paradigms for electronics toolkits** ([Workshop](https://beyondprototyping.github.io/WorkshopWeb2023)). In Extended Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (_CHI EA ’23_) [[paper]]({{ site.url }}/files/2023/Bianchi_BeyondPrototypingboards_CHI23.pdf).
 
