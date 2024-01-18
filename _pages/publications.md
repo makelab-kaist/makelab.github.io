@@ -42,6 +42,12 @@ description: Publications at the Make Lab
 
 # Academic papers
 
+## 2024
+
+Jungwoo Rhee, Andrea Bianchi. 2024. **How Professionals Use Visual Asset Management: An Exploration through Interviews**. In _HCI Korea 2024_ [[paper]]({{ site.url }}/files/2024/Rhee_VAM_KHCI24.pdf) (2023.01.24 - 2024.01.26).
+
+Jiwon Kim, Andrea Bianchi. 2024. **Where should we put wearable batteries for better usability?**. In _HCI Korea 2024_ [[paper]]({{ site.url }}/files/2024/Kim_Batteries_KHCI24.pdf) (2023.01.24 - 2024.01.26).
+
 ## 2023
 
 Hye-Young Jo, Laurenz Seidel, Michel Pahud, Mike Sinclair, and Andrea Bianchi. 2023. **FlowAR: How Different Augmented Reality Visualizations of Online Fitness Videos Support Flow for At-Home Yoga Exercises**. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (_CHI ’23_ ), April 23–28, 2023, Hamburg, Germany. ACM, New York, NY, USA, 17 pages. [https://doi.org/10.1145/3544548.3580897](https://doi.org/10.1145/3544548.3580897).
