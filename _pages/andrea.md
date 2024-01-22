@@ -148,6 +148,10 @@ Before joining KAIST, he worked at [Sungkyunkwan University](http://www.skku.edu
 - IEEE World Haptics 2013 art chair
 - HAID 2013 poster chair
 
+## Talks
+
+For a list of recent talk engagments please see [this link](http://andrea.kaist.id).
+
 ## Teaching
 
 I have tried to explain a little about my teaching philosophy in this [interview](https://youtu.be/bZnS8IFA_OQ):
