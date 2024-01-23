@@ -56,7 +56,7 @@ Wooje Chang, Seungwoo Je, Michel Pahud, Mike Sinclair, and Andrea Bianchi, **Ren
 
 Andrea Bianchi, Steve Hodges, David Cuartielles, Hyunjoo Oh, Mannu Lambrichts, and Anne Roudaut. **Beyond prototyping boards: future paradigms for electronics toolkits** ([Workshop](https://beyondprototyping.github.io/WorkshopWeb2023)). In Extended Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (_CHI EA ’23_) [[paper]]({{ site.url }}/files/2023/Bianchi_BeyondPrototypingboards_CHI23.pdf).
 
-Nargiz Askarbekkyzy, Yilong Lin, Kongpyung (Justin) Moon, Andrea Bianchi, and Seungwoo Je. **Designing visuo-haptic illusions for Virtual Reality applications using floor-based shape-changing displays**. In Proceedings of the tenth Congress of the International Association of Societies of Design Research (_IASDR 2023_) [[paper]({{ site.url }}/files/2023/Askarbekkyzy_FloorIlusion_IASDR23.pdf)] [doi](https://doi.org/10.21606/iasdr.2023.899).
+Nargiz Askarbekkyzy, Yilong Lin, Kongpyung (Justin) Moon, Andrea Bianchi, and Seungwoo Je. **Designing visuo-haptic illusions for Virtual Reality applications using floor-based shape-changing displays**. In Proceedings of the tenth Congress of the International Association of Societies of Design Research (_IASDR 2023_) [https://doi.org/10.21606/iasdr.2023.899](https://doi.org/10.21606/iasdr.2023.899) [[paper]({{ site.url }}/files/2023/Askarbekkyzy_FloorIlusion_IASDR23.pdf)].
 
 Zofia Marciniak, Kongpyung Moon, Andrea Bianchi. 2023. **3D Printing Slicer for Computational Texture Generation**. In _HCI Korea 2023_ [[paper]]({{ site.url }}/files/2023/Marciniak_Slicer_KHCI23.pdf) (2023.02.01 - 2023.02.03).
 
