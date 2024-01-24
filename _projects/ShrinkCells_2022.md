@@ -19,7 +19,7 @@ The unique behaviors of thermoplastic polymers enable shape-changing interfaces 
 
 ### References
 
-Kongpyung (Justin) Moon, Haeun Lee, Jeeeun Kim, and Andrea Bianchi. 2022. **ShrinkCells: Localized and Sequential Shape-Changing Actuation of 3D-Printed Objects via Selective Heating**. In proceedings of UIST’22.
+Kongpyung (Justin) Moon, Haeun Lee, Jeeeun Kim, and Andrea Bianchi. 2022. **ShrinkCells: Localized and Sequential Shape-Changing Actuation of 3D-Printed Objects via Selective Heating**. In proceedings of _UIST’22_.
 
 <!-- DO NOT CHANGE MANUALLY -->
 

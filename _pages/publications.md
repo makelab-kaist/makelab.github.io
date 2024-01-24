@@ -44,6 +44,9 @@ description: Publications at the Make Lab
 
 ## 2024
 
+Andrea Bianchi, Kongpyung Justin Moon, Artem Dementyev, Seungwoo Je. 2024. **BlinkBoard: Guiding and monitoring circuit assembly for synchronous and remote physical computing education**. In _HardwareX_ 2024,
+e00511, ISSN 2468-0672, DOI: [https://doi.org/10.1016/j.ohx.2024.e00511](https://doi.org/10.1016/j.ohx.2024.e00511).
+
 Jungwoo Rhee, Andrea Bianchi. 2024. **How Professionals Use Visual Asset Management: An Exploration through Interviews**. In _HCI Korea 2024_ [[paper]]({{ site.url }}/files/2024/Rhee_VAM_KHCI24.pdf) (2023.01.24 - 2024.01.26).
 
 Jiwon Kim, Andrea Bianchi. 2024. **Where should we put wearable batteries for better usability?**. In _HCI Korea 2024_ [[paper]]({{ site.url }}/files/2024/Kim_Batteries_KHCI24.pdf) (2023.01.24 - 2024.01.26).
