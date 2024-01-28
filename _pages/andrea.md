@@ -176,6 +176,6 @@ I have tried to explain a little about my teaching philosophy in this [interview
 - [Resume](http://andrea.kaist.id)
 <!-- - [Short Resume (PDF)](https://www.dropbox.com/s/1oby67w9i81cnq4/CV_andrea_bianchi_onePage.pdf?dl=0) -->
 - [My calendar](https://calendar.kaist.id)
-- [Website with old projects (Ph.D. and before)](https://alsoplantsfly.kaist.id)
+<!-- - [Website with old projects (Ph.D. and before)](https://alsoplantsfly.kaist.id) -->
 - [YouTube channel](https://www.youtube.com/channel/UC5A_g3GYEGeoqBqSSJ11NoQ)
 <!-- - [About me page](https://about.me/andreabianchi) -->
