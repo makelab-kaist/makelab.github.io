@@ -4,7 +4,7 @@ subtitle: 'Rendering Perceived Terrain Stiffness in VR Via Preload Variation Aga
 description: 'Rendering Perceived Terrain Stiffness in VR Via Preload Variation Against Body-Weight'
 year: 2023
 featured_image: /images/projects/preloadsteps.png # width must be 1600px
-pdf_file: Chang_PreloadStep_TOH23.pdf # put file in the directory FILESii
+pdf_file: Chang_PreloadStep_ToH23.pdf # put file in the directory FILESii
 doi_link: https://doi.org/10.1109/TOH.2023.3275136
 featured: true
 ---
