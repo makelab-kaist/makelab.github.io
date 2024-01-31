@@ -123,7 +123,7 @@ Before joining KAIST, he worked at [Sungkyunkwan University](http://www.skku.edu
 
 **Program committee and editor**
 
-- CHI 2015/16/18/19/21/22/23
+- CHI 2015/16/18/19/21/22/23/24
 - UIST 2020/23
 - DIS 2018/20
 - TEI 2016/18
