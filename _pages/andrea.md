@@ -60,7 +60,7 @@ My name is Andrea Bianchi (Korean: 안두리), and I am an Associate Professor (
 
 <img src="/images/people/andreaHD.jpg" alt="{{prof.name}}" class="profileImage"/>
 
-The focus of my work is to investigate _how physical interaction can enable rich and expressive ways to interact with computers_ that are symbiotic or alternative to mainstream graphical user interfaces. The physical interfaces resulting from this vision are **tangible UIs**, **mechatronics devices** for interacting with digital content, **toolkits for fabrication and electronics**, and **wearable devices**. My lab work has been recognized with 9+ Best Paper and Honorable Mention Awards at the premiere HCI venues.
+The focus of my work is to _design tools for computationally augmented physical interaction_. In practice, I investigate how physical experiences can be augmented with digital artifacts, and how physical materials -including the human body- can be used as computational elements to expend the design space of computer-enabled interactions with the physical world. The physical interfaces resulting from this vision are **tangible UIs**, **mechatronics devices** for interacting with digital content, **toolkits for fabrication and electronics**, and **wearable devices**. My lab work has been recognized with 9+ Best Paper and Honorable Mention Awards at the premiere HCI venues.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U54PDYC_d4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
