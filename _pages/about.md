@@ -33,7 +33,7 @@ Rooted in user-centered experience design and with deep understanding and expert
                     <a href="https://www.linkedin.com/in/{{prof.linkedin}}"><i class="fab fa-linkedin-in" aria-hidden="true"></i></a>
                     {% endif %}
                     {% if prof.twitter %}
-                    <a href="https://www.twitter.com/{{prof.twitter}}"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+                    <a href="https://www.twitter.com/{{prof.twitter}}"><i class="fab fa-x-twitter" aria-hidden="true"></i></a>
                     {%endif%}
                     {% if prof.facebook %}
                     <a href="https://www.facebook.com/{{prof.facebook}}"><i class="fab fa-facebook" aria-hidden="true"></i></a>
