@@ -44,7 +44,15 @@ description: Publications at the Make Lab
 
 ## 2024
 
+Andrea Bianchi, Zhi Lin Yap, Punn Lertjaturaphat, Austin Henley, Kongpyung (Justin) Moon, and Yoonji Kim. 2024. **Inline Visualization and Manipulation of Real-Time Hardware Log for Supporting Debugging of Embedded Programs**. In Proceedings of the ACM (_EICS '24_).
+
+Kongpyung (Justin) Moon, Jaeseong Yi, Valkyrie Savage, and Andrea Bianchi. 2024. **3D Printed Pyrography: Using Wood Filament and Dynamic Control of Nozzle Temperature for Embedding Shades of Color in Objects**. In Additive Manufacturing, 104064, ISSN 2214-8604, DOI: [https://doi.org/10.1016/j.addma.2024.104064](https://doi.org/10.1016/j.addma.2024.104064).
+
 Myung Jin Kim, Eyal Ofek, Michel Pahud, Mike Sinclair, and Andrea Bianchi. 2024. **Big or Small, It’s All in Your Head: Visuo-Haptic Illusion of Size-Change Using Finger-Repositioning**. In CHI Conference on Human Factors in Computing Systems (_CHI '24_).
+
+Kongpyung (Justin) Moon, Zofia Marciniak, Ryo Suzuki, and Andrea Bianchi. 2024. **3D Printing Locally Activated Visual-Displays Embedded in 3D Objects via Electrically Conductive and Thermochromic Materials**. In CHI Conference on Human Factors in Computing Systems (_CHI '24_).
+
+Himani Deshpande, Bo Han, Kongpyung (Justin) Moon, Andrea Bianchi, Clement Zheng, and Jeeeun Kim. 2024. **Reconfigurable Interfaces by Shape Change and Embedded Magnets**. In CHI Conference on Human Factors in Computing Systems (_CHI '24_).
 
 Andrea Bianchi, Kongpyung Justin Moon, Artem Dementyev, Seungwoo Je. 2024. **BlinkBoard: Guiding and monitoring circuit assembly for synchronous and remote physical computing education**. In _HardwareX_, ISSN 2468-0672, DOI: [https://doi.org/10.1016/j.ohx.2024.e00511](https://doi.org/10.1016/j.ohx.2024.e00511).
 
