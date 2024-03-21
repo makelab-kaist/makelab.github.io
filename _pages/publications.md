@@ -46,7 +46,7 @@ description: Publications at the Make Lab
 
 Andrea Bianchi, Zhi Lin Yap, Punn Lertjaturaphat, Austin Henley, Kongpyung (Justin) Moon, and Yoonji Kim. 2024. **Inline Visualization and Manipulation of Real-Time Hardware Log for Supporting Debugging of Embedded Programs**. To appear in Proceedings of the ACM Hum.-Comput. Interact. _EICS '24_.
 
-Kongpyung (Justin) Moon, Jaeseong Yi, Valkyrie Savage, and Andrea Bianchi. 2024. **3D Printed Pyrography: Using Wood Filament and Dynamic Control of Nozzle Temperature for Embedding Shades of Color in Objects**. In _Additive Manufacturing_, 104064, ISSN 2214-8604, DOI: [https://doi.org/10.1016/j.addma.2024.104064](https://doi.org/10.1016/j.addma.2024.104064).
+Kongpyung (Justin) Moon, Jaeseong Yi, Valkyrie Savage, and Andrea Bianchi. **3D printed pyrography: Using wood filament and dynamic control of nozzle temperature for embedding shades of color in objects**. In _Additive Manufacturing_ Volume 83, 2024, 104064, ISSN 2214-8604. DOI: [https://doi.org/10.1016/j.addma.2024.104064](https://doi.org/10.1016/j.addma.2024.104064).
 
 Myung Jin Kim, Eyal Ofek, Michel Pahud, Mike Sinclair, and Andrea Bianchi. 2024. **Big or Small, It’s All in Your Head: Visuo-Haptic Illusion of Size-Change Using Finger-Repositioning**. In CHI Conference on Human Factors in Computing Systems (_CHI '24_).
 
