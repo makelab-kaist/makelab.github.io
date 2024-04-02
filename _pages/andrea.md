@@ -81,7 +81,8 @@ Before joining KAIST, he worked at [Sungkyunkwan University](http://www.skku.edu
 ## Experience
 
 - **KAIST, Associate Professor** - Department of Industrial Design (9/2019 - present)
-- **University of Sydney, Visiting Researcher** - Faculty of Engineering (Computer Science) (20/11/2023 - 16/2/2024)
+- **The University of Sydney, Visiting Researcher** - Faculty of Engineering (Computer Science) (20/11/2023 - 16/2/2024)
+- **The University of Tokyo, JSPS Fellow for Research** - RCAST, Information Somatics Lab (1/4/2024 - 5/6/2024)
 - **KAIST, Adjunct Professor** - School of Computing (1/10/2022 - present)
 - **KAIST, Adjunct Professor** - Human-Robot Interaction Center (3/2022 - present)
 
@@ -136,7 +137,8 @@ Before joining KAIST, he worked at [Sungkyunkwan University](http://www.skku.edu
 
 **Conference chair/organizer**
 
-- UIST 2024 Doctoral Symposium co-chair
+- UIST 2024 Doctoral Symposium Panelist
+- Korean Society of Design Science (KSDS) 이사
 - CHI 2023 Student Design Competition jury
 - UIST 2022 Student Design Competition jury
 - TEI 2022 poster co-chair
