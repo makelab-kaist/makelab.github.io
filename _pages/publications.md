@@ -192,7 +192,7 @@ Andrea Bianchi and Ian Oakley. **Wearable authentication: Trends and opportuniti
 
 ---
 
-For papers published _before 2016_ please refer to [http://alsoplantsfly.kaist.id](http://alsoplantsfly.kaist.id).
+For papers published _before 2016_ please refer to [Google Scholar](https://scholar.google.com/citations?user=wVDtZB0AAAAJ&hl=en).
 
 ---
 
