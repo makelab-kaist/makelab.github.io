@@ -30,7 +30,7 @@ description: Publications at the Make Lab
 - 🏆 **Best Paper Award** HCI Korea 2018
 - 🏆 **Best Paper Award** HCI Korea 2015
 - 🏆 **Best Poster Award** UIST 2016
-- 🏅 **Honorable Mention Award** CHI 2023
+- 🏅 **Honorable Mention Award** CHI 2024
 - 🏅 **Honorable Mention Award** CHI 2022
 - 🏅 **Honorable Mention Award** CHI 2021
 - 🏅 **Honorable Mention Award** Augmented Humans 2021
