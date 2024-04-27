@@ -17,7 +17,7 @@ featured: true
 
 # {{page.title}}: {{page.subtitle}} ({{page.year}})
 
-🏆 _Best paper award (top 1%)_
+🏆 _Best Paper Award (top 1%)_
 
 Haptic controllers have an important role in providing rich and immersive Virtual Reality (VR) experiences. While previous works have succeeded in creating handheld devices that simu- late dynamic properties of rigid objects, such as weight, shape, and movement, recreating the behavior of flexible objects with different stiffness using ungrounded controllers remains an open challenge. In this paper we present ElaStick, a variable- stiffness controller that simulates the dynamic response resulting from shaking or swinging flexible virtual objects. This is achieved by dynamically changing the stiffness of four custom elastic tendons along a joint that effectively increase and reduce the overall stiffness of a perceived object in 2-DoF. We show that with the proposed mechanism, we can render stiffness with high precision and granularity in a continuous range between 10.8 and 71.5Nmm/degree. We estimate the thresh- old of the human perception of stiffness with a just-noticeable difference (JND) study and investigate the levels of immersion, realism and enjoyment using a VR application.
 

@@ -15,8 +15,9 @@ featured: false
 
 # {{page.title}}: {{page.subtitle}} ({{page.year}})
 
-Haptic perception of physical sizes increases the realism and immer- sion in Virtual Reality (VR). Prior work rendered sizes by exerting pressure on the user’s fingertips or employing tangible, shape- changing devices. These interfaces are constrained by the physical shapes they can assume, making it challenging to simulate objects growing larger or smaller than the perceived size of the interface. Motivated by literature on pseudo-haptics describing the strong influence of visuals over haptic perception, this work investigates modulating the perception of size beyond this range. We developed a fixed-sized VR controller leveraging finger-repositioning to create a visuo-haptic illusion of dynamic size-change of handheld virtual objects. Through two user studies, we found that with an accom- panying size-changing visual context, users can perceive virtual object sizes up to 44.2% smaller to 160.4% larger than the perceived size of the device. Without the accompanying visuals, a constant size (141.4% of device size) was perceived.
+🏅 _Honorable Mention Award_
 
+Haptic perception of physical sizes increases the realism and immer- sion in Virtual Reality (VR). Prior work rendered sizes by exerting pressure on the user’s fingertips or employing tangible, shape- changing devices. These interfaces are constrained by the physical shapes they can assume, making it challenging to simulate objects growing larger or smaller than the perceived size of the interface. Motivated by literature on pseudo-haptics describing the strong influence of visuals over haptic perception, this work investigates modulating the perception of size beyond this range. We developed a fixed-sized VR controller leveraging finger-repositioning to create a visuo-haptic illusion of dynamic size-change of handheld virtual objects. Through two user studies, we found that with an accom- panying size-changing visual context, users can perceive virtual object sizes up to 44.2% smaller to 160.4% larger than the perceived size of the device. Without the accompanying visuals, a constant size (141.4% of device size) was perceived.
 
 ### References
 
@@ -25,6 +26,7 @@ Myung Jin Kim, Eyal Ofek, Michel Pahud, Mike Sinclair, and Andrea Bianchi. 2024.
 <!-- DO NOT CHANGE MANUALLY -->
 
 <!-- <a href="{{ site.url }}/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp; -->
+
 <a href="{{ page.doi_link }}" target="_blank">doi</a>
 
 ---
