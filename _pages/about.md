@@ -29,9 +29,9 @@ Rooted in user-centered experience design and with deep understanding and expert
                     {% if prof.github %}
                     <a href="http://github.com/{{prof.github}}"><i class="fab fa-github" aria-hidden="true"></i></a>
                     {% endif %}
-                    {% if prof.linkedin %}
+                    <!-- {% if prof.linkedin %}
                     <a href="https://www.linkedin.com/in/{{prof.linkedin}}"><i class="fab fa-linkedin-in" aria-hidden="true"></i></a>
-                    {% endif %}
+                    {% endif %} -->
                     {% if prof.twitter %}
                     <a href="https://www.twitter.com/{{prof.twitter}}"><i class="fab fa-x-twitter" aria-hidden="true"></i></a>
                     {%endif%}
