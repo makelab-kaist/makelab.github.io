@@ -74,7 +74,7 @@ Before joining KAIST, he worked at [Sungkyunkwan University](http://www.skku.edu
 <a href="http://github.com/{{prof.github}}"><i class="fab fa-2x fa-github" aria-hidden="true"></i></a>
 <a href="https://twitter.com/{{prof.twitter}}"><i class="fab fa-2x fa-x-twitter" aria-hidden="true"></i></a>
 <a href="https://scholar.google.co.kr/citations?user={{prof.scholar}}"><i class="fas fa-2x fa-graduation-cap" aria-hidden="true"></i></a>
-<a href="https://scholar.google.co.kr/citations?user={{prof.linkedin}}"><i class="fab fa-2x fa-linkedin-in" aria-hidden="true"></i></a>
+<!-- <a href="https://scholar.google.co.kr/citations?user={{prof.linkedin}}"><i class="fab fa-2x fa-linkedin-in" aria-hidden="true"></i></a> -->
 <a href="#" onclick="(function(){window.open('mailto:{{ prof.email }}');})()"><i class="fas fa-2x fa-envelope"></i></a>
 </div>
 
