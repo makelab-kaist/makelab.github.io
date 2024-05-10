@@ -25,7 +25,7 @@ Myung Jin Kim, Eyal Ofek, Michel Pahud, Mike Sinclair, and Andrea Bianchi. 2024.
 
 <!-- DO NOT CHANGE MANUALLY -->
 
-<!-- <a href="{{ site.url }}/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp; -->
+<a href="{{ site.url }}/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp;
 
 <a href="{{ page.doi_link }}" target="_blank">doi</a>
 
