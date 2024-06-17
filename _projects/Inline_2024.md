@@ -4,8 +4,8 @@ subtitle: 'Inline Visualization and Manipulation of Real-Time Hardware Log for S
 description: 'Inline Visualization and Manipulation of Real-Time Hardware Log for Supporting Debugging of Embedded Programs'
 year: 2024
 featured_image: /images/projects/inline.png # width must be 1600px
-# pdf_file: Bianchi_Incline_PACM2024.pdf # put file in the directory FILES
-# doi_link: https://doi.org/
+pdf_file: Bianchi_Incline_PACM2024.pdf # put file in the directory FILES
+doi_link: https://doi.org/10.1145/3660250
 featured: true
 ---
 
@@ -23,8 +23,8 @@ Andrea Bianchi, Zhi Lin Yap, Punn Lertjaturaphat, Austin Henley, Kongpyung (Just
 
 <!-- DO NOT CHANGE MANUALLY -->
 
-<!-- <a href="{{ site.url }}/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp;
-<a href="{{ page.doi_link }}" target="_blank">doi</a> -->
+<a href="{{ site.url }}/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp;
+<a href="{{ page.doi_link }}" target="_blank">doi</a>
 
 ### Source code and material
 
