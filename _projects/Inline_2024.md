@@ -4,7 +4,7 @@ subtitle: 'Inline Visualization and Manipulation of Real-Time Hardware Log for S
 description: 'Inline Visualization and Manipulation of Real-Time Hardware Log for Supporting Debugging of Embedded Programs'
 year: 2024
 featured_image: /images/projects/inline.png # width must be 1600px
-pdf_file: Bianchi_Incline_PACM2024.pdf # put file in the directory FILES
+pdf_file: Bianchi_Inline_PACM2024.pdf # put file in the directory FILES
 doi_link: https://doi.org/10.1145/3660250
 featured: true
 ---
