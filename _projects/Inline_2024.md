@@ -30,8 +30,7 @@ Andrea Bianchi, Zhi Lin Yap, Punn Lertjaturaphat, Austin Henley, Kongpyung (Just
 
 [GitHub](https://github.com/makelab-kaist/inline-extension)
 
-<a href="{{ site.url }}/files/various/Inline_slides.pdf" target="_blank">Slides</a>&nbsp;&nbsp;&nbsp;
-
+<a href="{{ site.url }}/files/various/Inline_slides.pdf" target="_blank">Slides</a>
 
 ---
 
