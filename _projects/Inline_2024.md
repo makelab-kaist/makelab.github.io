@@ -15,6 +15,8 @@ featured: true
 
 # {{page.subtitle}} ({{page.year}})
 
+🏅 _Honorable Mention Award_
+
 The advent of user-friendly embedded prototyping systems, exemplified by platforms like Arduino, has significantly democratized the creation of interactive devices that combine software programs with electronic hardware. This interconnection between hardware and software, however, makes the identification of bugs very difficult, as problems could be rooted in the program, in the circuit, or at their intersection. While there are tools to assist in identifying and resolving bugs, they typically require hardware instrumentation or visualizing logs in serial monitors. Based on the findings of a formative study, we designed Inline a programming tool that simplifies debugging of embedded systems by making explicit the internal state of the hardware and the program's execution flow using visualizations of the hardware logs directly within the user's code. The system's key characteristics are 1) an inline presentation of logs within the code, 2) real-time tracking of the execution flow, and 3) an expression language to manipulate and filter the logs. The paper presents the detailed implementation of the system and a study with twelve users, which demonstrates what features were adopted and how they were leveraged to complete debugging tasks.
 
 ### References
