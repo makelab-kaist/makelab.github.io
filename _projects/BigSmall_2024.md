@@ -5,7 +5,7 @@ description: Big or Small, It’s All in Your Head - Visuo-Haptic Illusion of Si
 year: 2024
 featured_image: /images/projects/bigsmall.jpg # width must be 1600px
 pdf_file: Kim_BigSmall_CHI24.pdf # put file in the directory FILESii
-# doi_link: https://doi.org/10.1145/3491102.3517724
+doi_link: https://doi.org/10.1145/3613904.3642254
 featured: false
 ---
 
@@ -21,7 +21,7 @@ Haptic perception of physical sizes increases the realism and immer- sion in Vir
 
 ### References
 
-Myung Jin Kim, Eyal Ofek, Michel Pahud, Mike Sinclair, and Andrea Bianchi. 2024. **Big or Small, It’s All in Your Head: Visuo-Haptic Illusion of Size-Change Using Finger-Repositioning**. In CHI Conference on Human Factors in Computing Systems (_CHI '24_). To Appear.
+Myung Jin Kim, Eyal Ofek, Michel Pahud, Mike J Sinclair, and Andrea Bianchi. 2024. **Big or Small, It’s All in Your Head: Visuo-Haptic Illusion of Size-Change Using Finger-Repositioning**. In Proceedings of the CHI Conference on Human Factors in Computing Systems (_CHI '24_). Association for Computing Machinery, New York, NY, USA, Article 751, 1–15. DOI: https://doi.org/10.1145/3613904.3642254
 
 <!-- DO NOT CHANGE MANUALLY -->
 

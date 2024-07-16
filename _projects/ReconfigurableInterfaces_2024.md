@@ -5,7 +5,7 @@ description: 'Reconfigurable Interfaces by Shape Change and Embedded Magnets'
 year: 2024
 featured_image: /images/projects/reconfigurable.png
 pdf_file: Deshpande_ReconfigurableInterfaces_CHI24.pdf # put file in the directory FILES
-# doi_link: https://doi.org/10.1016/j.addma.2024.104064
+doi_link: https://doi.org/10.1145/3613904.3642802
 featured: false
 ---
 
@@ -19,7 +19,7 @@ Reconfigurable physical interfaces empower users to swiftly adapt them for tailo
 
 ### References
 
-Himani Deshpande, Bo Han, Kongpyung (Justin) Moon, Andrea Bianchi, Clement Zheng, and Jeeeun Kim. **Reconfigurable Interfaces by Shape Change and Embedded Magnets**. In CHI Conference on Human Factors in Computing Systems (_CHI '24_).
+Himani Deshpande, Bo Han, Kongpyung (Justin) Moon, Andrea Bianchi, Clement Zheng, and Jeeeun Kim. 2024. **Reconfigurable Interfaces by Shape Change and Embedded Magnets**. In Proceedings of the CHI Conference on Human Factors in Computing Systems (_CHI '24_). Association for Computing Machinery, New York, NY, USA, Article 325, 1–12. DOI: https://doi.org/10.1145/3613904.3642802
 
 <!-- DO NOT CHANGE MANUALLY -->
 

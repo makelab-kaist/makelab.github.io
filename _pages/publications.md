@@ -50,11 +50,11 @@ Andrea Bianchi, Zhi Lin Yap, Punn Lertjaturaphat, Austin Z. Henley, Kongpyung Ju
 
 Kongpyung (Justin) Moon, Jaeseong Yi, Valkyrie Savage, and Andrea Bianchi. **3D printed pyrography: Using wood filament and dynamic control of nozzle temperature for embedding shades of color in objects**. In _Additive Manufacturing_ Volume 83, 2024, 104064, ISSN 2214-8604. DOI: [https://doi.org/10.1016/j.addma.2024.104064](https://doi.org/10.1016/j.addma.2024.104064).
 
-Myung Jin Kim, Eyal Ofek, Michel Pahud, Mike Sinclair, and Andrea Bianchi. 2024. **Big or Small, It’s All in Your Head: Visuo-Haptic Illusion of Size-Change Using Finger-Repositioning**. In CHI Conference on Human Factors in Computing Systems (_CHI '24_) (**Honorable Mention Award 🏅**).
+Myung Jin Kim, Eyal Ofek, Michel Pahud, Mike J Sinclair, and Andrea Bianchi. 2024. **Big or Small, It’s All in Your Head: Visuo-Haptic Illusion of Size-Change Using Finger-Repositioning**. In Proceedings of the CHI Conference on Human Factors in Computing Systems (_CHI '24_). Association for Computing Machinery, New York, NY, USA, Article 751, 1–15. DOI: https://doi.org/10.1145/3613904.3642254 (**Honorable Mention Award 🏅**).
 
-Kongpyung (Justin) Moon, Zofia Marciniak, Ryo Suzuki, and Andrea Bianchi. 2024. **3D Printing Locally Activated Visual-Displays Embedded in 3D Objects via Electrically Conductive and Thermochromic Materials**. In CHI Conference on Human Factors in Computing Systems (_CHI '24_).
+Kongpyung (Justin) Moon, Zofia Marciniak, Ryo Suzuki, and Andrea Bianchi. 2024. **3D Printing Locally Activated Visual-Displays Embedded in 3D Objects via Electrically Conductive and Thermochromic Materials**. In Proceedings of the CHI Conference on Human Factors in Computing Systems (_CHI '24_). Association for Computing Machinery, New York, NY, USA, Article 343, 1–15. DOI: https://doi.org/10.1145/3613904.3642537
 
-Himani Deshpande, Bo Han, Kongpyung (Justin) Moon, Andrea Bianchi, Clement Zheng, and Jeeeun Kim. 2024. **Reconfigurable Interfaces by Shape Change and Embedded Magnets**. In CHI Conference on Human Factors in Computing Systems (_CHI '24_).
+Himani Deshpande, Bo Han, Kongpyung (Justin) Moon, Andrea Bianchi, Clement Zheng, and Jeeeun Kim. 2024. **Reconfigurable Interfaces by Shape Change and Embedded Magnets**. In Proceedings of the CHI Conference on Human Factors in Computing Systems (_CHI '24_). Association for Computing Machinery, New York, NY, USA, Article 325, 1–12. DOI: https://doi.org/10.1145/3613904.3642802
 
 Andrea Bianchi, Kongpyung Justin Moon, Artem Dementyev, Seungwoo Je. 2024. **BlinkBoard: Guiding and monitoring circuit assembly for synchronous and remote physical computing education**. In _HardwareX_, ISSN 2468-0672, DOI: [https://doi.org/10.1016/j.ohx.2024.e00511](https://doi.org/10.1016/j.ohx.2024.e00511).
 

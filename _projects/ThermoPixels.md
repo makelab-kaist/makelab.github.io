@@ -5,7 +5,7 @@ description: '3D Printing Locally Activated Visual-Displays Embedded in 3D Objec
 year: 2024
 featured_image: /images/projects/thermopixels.png # width must be 1600px
 pdf_file: Moon_ThermoPixels_CHI24.pdf
-# doi_link: https://doi.org/
+doi_link: https://doi.org/10.1145/3613904.3642537
 featured: true
 ---
 
@@ -19,7 +19,7 @@ featured: true
 
 ### References
 
-Kongpyung (Justin) Moon, Zofia Marciniak, Ryo Suzuki, and Andrea Bianchi. 2024. **3D Printing Locally Activated Visual-Displays Embedded in 3D Objects via Electrically Conductive and Thermochromic Materials**. In CHI Conference on Human Factors in Computing Systems (_CHI '24_).
+Kongpyung (Justin) Moon, Zofia Marciniak, Ryo Suzuki, and Andrea Bianchi. 2024. **3D Printing Locally Activated Visual-Displays Embedded in 3D Objects via Electrically Conductive and Thermochromic Materials**. In Proceedings of the CHI Conference on Human Factors in Computing Systems (_CHI '24_). Association for Computing Machinery, New York, NY, USA, Article 343, 1–15. DOI: https://doi.org/10.1145/3613904.3642537
 
 <!-- DO NOT CHANGE MANUALLY -->
 
