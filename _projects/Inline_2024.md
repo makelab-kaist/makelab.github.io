@@ -21,7 +21,7 @@ The advent of user-friendly embedded prototyping systems, exemplified by platfor
 
 ### References
 
-Andrea Bianchi, Zhi Lin Yap, Punn Lertjaturaphat, Austin Henley, Kongpyung (Justin) Moon, and Yoonji Kim. 2024. **Inline Visualization and Manipulation of Real-Time Hardware Log for Supporting Debugging of Embedded Programs**. To appear in Proceedings of the ACM Hum.-Comput. Interact. _EICS '24_.
+Andrea Bianchi, Zhi Lin Yap, Punn Lertjaturaphat, Austin Z. Henley, Kongpyung Justin Moon, and Yoonji Kim. 2024. **Inline Visualization and Manipulation of Real-Time Hardware Log for Supporting Debugging of Embedded Programs**. Proc. ACM Hum.-Comput. Interact. (_PACM_) 8, _EICS_, Article 248 (June 2024), 26 pages. DOI: https://doi.org/10.1145/3660250
 
 <!-- DO NOT CHANGE MANUALLY -->
 
