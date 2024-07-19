@@ -5,6 +5,7 @@ description: How to join the Make Lab at KAIST
 
 ## TL;DR
 
+- If interested in joining the lab, let us know by filling [this form](https://forms.gle/i1aJLuJLCiLXvmGL7)
 - We are **looking for grad students** interested in interactive systems, VR, haptics and robots, digital fabrication, etc...
 - MS and Ph.D. students are **fully funded** and receive a government scholarship plus a lab stipend
 - MS is **2** years, Ph.D. is **4** years, and the MS+PhD combined program is **5** years
@@ -12,7 +13,6 @@ description: How to join the Make Lab at KAIST
 - For PhD, I expect some prior research **experience** and some proven technical **capabilities** (e.g., coding, making, stats, research methods...)
 - We welcome students with many majors of origin. It is OK to not have a formal background in design
 - For **internship** we welcome KAIST students and only consider applicants from elsewhere with strong recommendations
-- For inquiries reach out directly via <a href="#" onclick="(function(){window.open('mailto:andrea@kaist.ac.kr');})()">email <i class="fas fa-envelope"></i></a> or through the [contact form](./contact)
 
 ## For prospective Ph.D. students
 
@@ -20,13 +20,13 @@ We are always looking for passionate students interested in our Ph.D. program in
 
 Ideal candidates for the Ph.D. program should have some **prior research experience** (preferably in the field of HCI) and **proven technical capabilities** in designing or building interactive systems (e.g., programming, electronics, mechanical design, fabrication, user studies). We encourage students from a _variety of majors_ to apply. Current and past lab members came from diverse fields such as **design, art, business, architecture, computer science, and mechanical engineering**.
 
-Students are encouraged to apply by initially sending an <a href="#" onclick="(function(){window.open('mailto:andrea@kaist.ac.kr');})()">email <i class="fas fa-envelope"></i></a> directly to professor Bianchi expressing the intention to formally apply. In your email include links to your personal website, examples of code from your repositories (e.g., a link to GitHub), titles of publications, or any other information that could help us see your potential as a researcher. Finally, hand in your applications using [the KAIST admission system](https://admission.kaist.ac.kr).
+Students are encouraged to express their intention to apply by filling out [this form](https://forms.gle/i1aJLuJLCiLXvmGL7). Please note that this form is just a preliminary and optional expression of interest, and for admission, you will still have to go through the official application process via [the KAIST admission system](https://admission.kaist.ac.kr). Students interested in obtaining a degree under my supervision should apply to the Department of Industrial Design at KAIST and indicate Prof. Andrea Bianchi as a potential advisor.
 
 ## For Master's program applicants
 
 **Make Lab** in the department of Industrial Design at KAIST (ID KAIST) offers a **fully-funded** Master's opening position **every** _spring_ and _fall_ semesters. The MS program is **research-oriented**, which means that on top of your coursework, you are expected to conduct research. The Master's program lasts two years. We also offer a **Masters+Ph.D. combined** program. The way it works is that you would apply to the MS program first, and then during your first semester you internally apply to move to the Ph.D. track.
 
-Strong candidates are encouraged to contact directly the lab. If you are interested in our Master's program, please go ahead and apply [here](https://admission.kaist.ac.kr).
+Strong candidates are encouraged to contact directly the lab. If you are interested in our Master's program, please let us know by filling [this form](https://forms.gle/i1aJLuJLCiLXvmGL7) or go ahead and directly apply [here](https://admission.kaist.ac.kr).
 
 ## Tips for your application
 
@@ -47,7 +47,7 @@ Labs cannot directly accept students. Instead, students interested in our gradua
 
 ## For perspective internships
 
-If you are currently registered as a KAIST student (including a visiting student) and are interested in an internship in our lab or in starting a URP (Undergraduate Research Program) under the supervision of Professor Bianchi, please contact him directly via <a href="#" onclick="(function(){window.open('mailto:andrea@kaist.ac.kr');})()">email <i class="fas fa-envelope"></i></a>.
+If you are currently registered as a KAIST student (including a visiting student) and are interested in an internship in our lab or in starting a URP (Undergraduate Research Program) under the supervision of Professor Bianchi, please fill [this form](https://forms.gle/i1aJLuJLCiLXvmGL7).
 
 Our lab welcomes visiting researchers from other institutions in Korea or abroad with a similar research interest to ours. However, **we only consider applicants recommended by colleagues or peers in the HCI field**. We also only consider international applicants that can commit to staying for **at least 6 months**. If you are a foreigner, you also need to obtain a valid VISA through our school's [Visiting Research Program](https://io.kaist.ac.kr/menu/io.do?mguid=D4CD2D0A-21E5-E511-940C-2C44FD7DF8B9). For further information, please contact [KAIST International Office](https://io.kaist.ac.kr/).
 
