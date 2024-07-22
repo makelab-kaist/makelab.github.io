@@ -7,7 +7,7 @@ description: Interaction, Design, HCI, Haptics, VR, Digital Fabrication, Physica
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FaTROXhY3-A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Rooted in user-centered experience design and with deep understanding and expertise in various engineering fields (computing, mechanical engineering, electronics), we explore emerging technologies in the areas of _physical interaction with computers_ that require combinations of software and hardware. Current research topics are related to **novel tools for electronics**, **digital fabrication**, **mixed-reality interaction**, and **haptic interfaces**.
+Rooted in user-centered experience design and with deep understanding and expertise in various engineering fields (computing, mechanical engineering, electronics), we explore emerging technologies in the areas of _physical interaction with computers_ that require combinations of software and hardware. Current research topics are related to **novel tools for electronics**, **digital fabrication**, **mixed-reality interaction**, and **haptic or robotic interfaces**.
 
 ---
 
