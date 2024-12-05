@@ -55,7 +55,7 @@ subtitle: Associate Professor - Lab director
 </head>
 
 <span class="profile"> 
-My name is Andrea Bianchi (Korean: 안두리), and I am an Associate Professor (tenured) in the [Department of Industrial Design](https://id.kaist.ac.kr) and an Adjunct Professor in the [School of Computing](https://cs.kaist.ac.kr) at [KAIST](https://id.kaist.ac.kr), and the director of the **Make Lab**. I research in the field of Human-Computer Interaction (_HCI_).
+My name is Andrea Bianchi (Korean: 안두리), and I am an Associate Professor (tenured) in the [Department of Industrial Design](https://id.kaist.ac.kr) and an Adjunct Professor in the [School of Computing](https://cs.kaist.ac.kr) at [KAIST](https://id.kaist.ac.kr), and the director of the **Make Lab**. I research in the field of Human-Computer Interaction (_HCI_). I currently serve as Paper Co-Chair for UIST 2025 and Subcommittee Chair at CHI 2025 (Blending Interaction: Engineering Interactive Systems & Tools).
 </span>
 
 <img src="/images/people/andreaHD.jpg" alt="{{prof.name}}" class="profileImage"/>
@@ -127,10 +127,13 @@ Before joining KAIST, he worked at [Sungkyunkwan University](http://www.skku.edu
 
 **Program committee and editor**
 
+- UIST 2025 Paper Co-Chair
+- CHI 2025 Subcomittee Chair "Blending Interaction: Engineering Interactive Systems & Tools"
 - CHI 2015/16/18/19/21/22/23/24
 - UIST 2020/23
 - DIS 2018/20
 - TEI 2016/18
+  IEEE World Haptics 2025 Demo Co-Chair
 - SIGGRAPH E-Tech 2019
 - IEEE TOH 2020/2021 guest editor
 - Eurohaptics 2018
