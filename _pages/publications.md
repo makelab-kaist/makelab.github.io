@@ -44,6 +44,16 @@ description: Publications at the Make Lab
 
 # Academic papers
 
+## 2025
+
+Hongyu Zhou, Tom Kip, Yihao Dong, Andrea Bianchi, Zhanna Sarsenbayeva, and Anusha Withana. 2025. **Juggling Extra Limbs: Identifying Control Strategies for Supernumerary Multi-Arms in Virtual Reality**. To appear in the 2025 CHI Conference on Human Factors in Computing Systems (_CHI ’25_).
+
+Hyewon Lee, Christopher Bannon, and Andrea Bianchi. 2025. **CamARa: Exploring and Creating Camera Movements with Spatial Reference in Augmented Reality**. To appear in the 2025 CHI Conference on Human Factors in Computing Systems Extended Abstracts (_CHI ’25 EA_).
+
+Yihao Dong, Pamuditha Somarathne, Craig T Jin, Juno Kim, Andrea Bianchi and Anusha Withana. 2025. **Just Before Touch: Manipulating Perceived Haptic Sensations through Proactive Vibrotactile Cues in Virtual Reality**. To appear in Augmented Humans Conference 2025 (_AHs’25_).
+
+Jee Youn Kim, and Andrea Bianchi. 2025. **Current state of research about Diary-AI interaction in HCI**. In _HCI Korea 2025_ [[paper]]({{ site.url }}/files/2025/Kim_Diary_KHCI25.pdf) (2025.02.10 - 2025.02.12).
+
 ## 2024
 
 Andrea Bianchi, Zhi Lin Yap, Punn Lertjaturaphat, Austin Z. Henley, Kongpyung Justin Moon, and Yoonji Kim. 2024. **Inline Visualization and Manipulation of Real-Time Hardware Log for Supporting Debugging of Embedded Programs**. Proc. ACM Hum.-Comput. Interact. (_PACM_) 8, _EICS_, Article 248 (June 2024), 26 pages. https://doi.org/10.1145/3660250 (**Honorable Mention Award 🏅**).
@@ -60,9 +70,9 @@ Andrea Bianchi, Kongpyung Justin Moon, Artem Dementyev, Seungwoo Je. 2024. **Bli
 
 Zofia Marciniak, Kongpyung Moon, Andrea Bianchi. 2024. **Decoupling Geometry from Surface Finish by Parameterizing Texture Directly in G-code for Fused Deposition Modeling (FDM) Printing**. Archives of Design Research, 37(1), 7-23 (_AODR'24_) [[paper]]({{ site.url }}/files/2024/Marciniak_Decoupling_AODR24.pdf) DOI: [http://dx.doi.org/10.15187/adr.2024.05.37.2.7](http://dx.doi.org/10.15187/adr.2024.05.37.2.7).
 
-Jungwoo Rhee, Andrea Bianchi. 2024. **How Professionals Use Visual Asset Management: An Exploration through Interviews**. In _HCI Korea 2024_ [[paper]]({{ site.url }}/files/2024/Rhee_VAM_KHCI24.pdf) (2023.01.24 - 2024.01.26).
+Jungwoo Rhee, Andrea Bianchi. 2024. **How Professionals Use Visual Asset Management: An Exploration through Interviews**. In _HCI Korea 2024_ [[paper]]({{ site.url }}/files/2024/Rhee_VAM_KHCI24.pdf) (2024.01.24 - 2024.01.26).
 
-Jiwon Kim, Andrea Bianchi. 2024. **Where should we put wearable batteries for better usability?**. In _HCI Korea 2024_ [[paper]]({{ site.url }}/files/2024/Kim_Batteries_KHCI24.pdf) (2023.01.24 - 2024.01.26).
+Jiwon Kim, Andrea Bianchi. 2024. **Where should we put wearable batteries for better usability?**. In _HCI Korea 2024_ [[paper]]({{ site.url }}/files/2024/Kim_Batteries_KHCI24.pdf) (2024.01.24 - 2024.01.26).
 
 Josh Andres, Chris Danta, Andrea Bianchi, Sungyeon Hong, Zhuying Li, Eduardo Benitez Sandoval, Charles Patrick Martin, and Ned Cooper. 2024. **Understanding and Shaping Human-Technology Assemblages in the Age of Generative AI**. In Companion Publication of the 2024 ACM Designing Interactive Systems Conference (_DIS '24 Companion_). Association for Computing Machinery, New York, NY, USA, 413–416. DOI: [https://doi.org/10.1145/3656156.3658403](https://doi.org/10.1145/3656156.3658403)
 
