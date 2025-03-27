@@ -30,6 +30,7 @@ description: Publications at the Make Lab
 - 🏆 **Best Paper Award** HCI Korea 2018
 - 🏆 **Best Paper Award** HCI Korea 2015
 - 🏆 **Best Poster Award** UIST 2016
+- 🏅 **Honorable Mention Award** CHI 2025
 - 🏅 **Honorable Mention Award** EICS 2024
 - 🏅 **Honorable Mention Award** CHI 2024
 - 🏅 **Honorable Mention Award** CHI 2022
@@ -46,7 +47,7 @@ description: Publications at the Make Lab
 
 ## 2025
 
-Hongyu Zhou, Tom Kip, Yihao Dong, Andrea Bianchi, Zhanna Sarsenbayeva, and Anusha Withana. 2025. **Juggling Extra Limbs: Identifying Control Strategies for Supernumerary Multi-Arms in Virtual Reality**. To appear in the 2025 CHI Conference on Human Factors in Computing Systems (_CHI ’25_).
+Hongyu Zhou, Tom Kip, Yihao Dong, Andrea Bianchi, Zhanna Sarsenbayeva, and Anusha Withana. 2025. **Juggling Extra Limbs: Identifying Control Strategies for Supernumerary Multi-Arms in Virtual Reality**. To appear in the 2025 CHI Conference on Human Factors in Computing Systems (_CHI ’25_) (**Honorable Mention Award 🏅**).
 
 Hyewon Lee, Christopher Bannon, and Andrea Bianchi. 2025. **CamARa: Exploring and Creating Camera Movements with Spatial Reference in Augmented Reality**. To appear in the 2025 CHI Conference on Human Factors in Computing Systems Extended Abstracts (_CHI ’25 EA_).
 
