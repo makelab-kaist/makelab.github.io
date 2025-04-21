@@ -55,7 +55,7 @@ Yihao Dong, Pamuditha Somarathne, Craig T Jin, Juno Kim, Andrea Bianchi and Anus
 
 Jee Youn Kim, and Andrea Bianchi. 2025. **Current state of research about Diary-AI interaction in HCI**. In _HCI Korea 2025_ [[paper]]({{ site.url }}/files/2025/Kim_Diary_KHCI25.pdf) (2025.02.10 - 2025.02.12).
 
-Sang Ho Yoon, Andrea Bianchi, Hasti Seifi, Jin Ryong Kim, Radu-Daniel Vatavu, Jeongmi Lee, Geehyuk Lee. **Beyond Glasses: Future Directions for XR Interactions within the Physical World** ([Workshop](https://sites.google.com/view/xr-phy-2025/home)). In Extended Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (_CHI EA ’25_) [[paper]]({{ site.url }}/files/2025/Yoon_XRPHY_Workshop_CHI25).
+Sang Ho Yoon, Andrea Bianchi, Hasti Seifi, Jin Ryong Kim, Radu-Daniel Vatavu, Jeongmi Lee, Geehyuk Lee. **Beyond Glasses: Future Directions for XR Interactions within the Physical World** ([Workshop](https://sites.google.com/view/xr-phy-2025/home)). In Extended Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (_CHI EA ’25_) [[paper]]({{ site.url }}/files/2025/Yoon_XRPHY_Workshop_CHI25.pdf).
 
 ## 2024
 
