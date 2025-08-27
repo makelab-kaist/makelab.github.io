@@ -1,25 +1,24 @@
 name,lastname,position,status,homepage,github,linkedin,twitter,facebook,scholar,email
 Andrea,Bianchi,Associate Professor,current,/andrea,makinteract,,AndreaHCI,,wVDtZB0AAAAJ&hl,andrea@kaist.ac.kr
 Anam Ahmad,Khan,Postdoc,current,,,anam-ahmad-khan,,,j5thF_4AAAAJ&hl,anam.khan@kaist.ac.kr
-Zofia,Marciniak,Master student,current,https://zosia-hci.github.io,ZosiaZamoyska,zosia-marciniak-a2a7a9133,,,,zofia.marciniak@kaist.ac.kr
-Jiwon,Kim,Master student,current,https://quazycrystal.github.io,,,,,,jiwonder@kaist.ac.kr
-Jungwoo,Rhee,Master student,current,https://jungwoorhee.com,,jungwoo-rhee,,,,jwoorhee@kaist.ac.kr
+Jungwoo,Rhee,Ph.D student,current,https://jungwoorhee.com,,jungwoo-rhee,,,,jwoorhee@kaist.ac.kr
+SeungHui,Huh,Ph.D student,current,,,,,,,seunghui@kaist.ac.kr
 Jee Youn,Kim,Master student,current,https://missingscreuu.com,,jee-youn-kim-9a93b01a1,,,,jounkimm@kaist.ac.kr
 Heeji,Kim,Master student,current,,,jolieheejikim,,,,jolieheejikim@kaist.ac.kr
-Atul,Chaudhary,Visitor 2025,current,,,aayteeatul,,,,atul.aaytee@gmail.com
-Sylvain,Malacria,Visitor 2025,current,https://www.malacria.com,,sylvain-malacria,,,,sylvain.malacria@inria.fr
-Lwam Z.,Araya,Intern 2024,current,https://lwamzeche.site/#/about,,,,,,lwamzeche93@gmail.com
-Hyewon,Lee,Intern 2024,current,https://www.hyewon.me,hye1ee,hye1ee,,,,hyewon0809@kaist.ac.kr 
+Guhn,Lee,Master student,current,leeguhn.github.io,leeguhn,leeguhn,,,,leeguhn@kaist.ac.kr
+Wonseok,Jang,Master student,current,,Cotidie,,,,,cotidie@kaist.ac.kr
 Punn,Lertjaturaphat,Intern 2023-25,current,http://punnlert.github.io,,punn-lertjaturaphat,,,,punnlert@kaist.ac.kr
 
-Kongpyung,Moon,Ph.D. student,alumni,https://www.kpmoon.com,Mjkp,jkpmoon,,,,jkpmoon@kaist.ac.kr
-Myung Jin,Kim,Ph.D. student,alumni,https://sites.google.com/view/kimmj/home,,myung-jin-kim-044b63135,mjHCI,,ypCkHjEAAAAJ&hl,dkmj@kaist.ac.kr
+Kongpyung,Moon,Ph.D. 2025,alumni,https://www.kpmoon.com,Mjkp,jkpmoon,,,,jkpmoon@kaist.ac.kr
+Myung Jin,Kim,Ph.D. 2025,alumni,https://sites.google.com/view/kimmj/home,,myung-jin-kim-044b63135,mjHCI,,ypCkHjEAAAAJ&hl,dkmj@kaist.ac.kr
 Seungwoo,Je,Ph.D. 2022,alumni,http://www.seungwooje.com,,seungwooje,,,yecBkvAAAAAJ&hl,jeboungho@gmail.com
 Joongi,Shin,Ph.D. 2021,alumni,https://www.joongishin.com,,joongi-shin,,,l5RYWKAAAAAJ,joongishin@gmail.com
 Yoonji,Kim,Ph.D. 2020,alumni,http://www.yoonji-kim.com,yoonji-kim,yoonji-kim,,,,yoonji@kaist.ac.kr
-Jaeseong,Yi,Master student,alumni,,,jaeseongyi,,,,jaeseongyi@kaist.ac.kr
-Haeun,Lee,Master student,alumni,https://leehaeun.com,,,,,,chromium0624@kaist.ac.kr
-Wooje,Chang,Master student,alumni,https://www.woojechang.com/,,wooje-chang,,,,wooje.chang@kaist.ac.kr
+Zofia,Marciniak,Master 2025,alumni,https://zosia-hci.github.io,ZosiaZamoyska,zosia-marciniak-a2a7a9133,,,,zofia.marciniak@kaist.ac.kr
+Jiwon,Kim,Master 2025,alumni,https://quazycrystal.github.io,,,,,,jiwonder@kaist.ac.kr
+Jaeseong,Yi,Master 2024,alumni,,,jaeseongyi,,,,jaeseongyi@kaist.ac.kr
+Haeun,Lee,Master 2024,alumni,https://leehaeun.com,,,,,,chromium0624@kaist.ac.kr
+Wooje,Chang,Master 2023,alumni,https://www.woojechang.com/,,wooje-chang,,,,wooje.chang@kaist.ac.kr
 Hye-Young,Jo,Master 2022,alumni,https://www.hyeyoungjo.com,,hye-young-jo-2743b189,,,,hyeyoungjo@kaist.ac.kr
 Neung,Ryu,Master 2021,alumni,http://www.neungryu.com,,,,,,ababc100564@gmail.com
 Daye,Kang,Master 2021,alumni,https://www.dayekang.info,,,,,,dayekang@kaist.ac.kr
@@ -27,7 +26,12 @@ Hyein,Lee,Master 2020,alumni,http://hyein.me,,,,,,hyein.l@kaist.ac.kr
 Youngkyung,Choi,Master 2020,alumni,,,,,,,youngkyung.che@gmail.com
 Okyu,Choi,Master 2019,alumni,,,okyu-choi-692324a6,,,,okyu59@kaist.ac.kr
 Minkyeong,Lee,Master 2019,alumni,,,,,,,minkyeong.lee@gmail.com
+
+Atul,Chaudhary,Visitor 2025,alumni,,,aayteeatul,,,,atul.aaytee@gmail.com
+Sylvain,Malacria,Visitor 2025,alumni,https://www.malacria.com,,sylvain-malacria,,,,sylvain.malacria@inria.fr
 Nihar,Sabnis,Visitor 2024,alumni,,,nihar-sabnis,,,1FU5pTAAAAAJ,nsabnis@mpi-inf.mpg.de
+Hyewon,Lee,Intern 2024,alumni,https://www.hyewon.me,hye1ee,hye1ee,,,,hyewon0809@kaist.ac.kr 
+Lwam Z.,Araya,Intern 2024,alumni,https://lwamzeche.site/#/about,,,,,,lwamzeche93@gmail.com
 Takuya,Takahashi,Visitor 2022,alumni,https://takuya-13068.github.io/portfolio,takuya-13068,,,,,takuya.egyzbob8416@gmail.com
 Laurenz,Seidel,Visitor 2021,alumni,,,,,,,Laurenz.Seidel@student.hpi.uni-potsdam.de
 Yumin,Jung,Intern 2024,alumni,https://www.yumin.blog,yumin-jung,alex-yumin-jung,,,,jungym887@gmail.com
