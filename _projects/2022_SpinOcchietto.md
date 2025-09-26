@@ -1,6 +1,6 @@
 ---
 title: SpinOcchietto
-subtitle: 'A Wearable Skin-Slip Haptic Device for Rendering Width and Motion of Objects Gripped Between the Fingertips'
+subtitle: 'A Wearable Skin-Slip Haptic Device for Rendering Width and Motion of Gripped Objects'
 description: 'A Wearable Skin-Slip Haptic Device for Rendering Width and Motion of Objects Gripped Between the Fingertips'
 year: 2022
 featured_image: /images/projects/spinocchietto.jpg # width must be 1600px
@@ -15,11 +15,11 @@ featured: false
 
 # {{page.title}}: {{page.subtitle}} ({{page.year}})
 
-Various haptic feedback techniques have been explored to enable users to interact with their virtual surroundings using their hands. However, investigation on interactions with virtual objects slipping against the skin using skin-slip haptic feedback is still at its early stages. Prior skin-slip virtual reality (VR) haptic display implementations involved bulky actuation mechanisms and were not suitable for multi-finger and bimanual interactions. As a solution to this limitation, we present SpinOcchietto, a wearable skin-slip haptic feedback device using spinning discs for rendering the width and movement of virtual objects gripped between the fingertips. SpinOcchietto was developed to miniaturize and simplify SpinOcchio, a 6-DoF handheld skin-slip haptic display. With its smaller, lighter, and wearable form factor, SpinOcchietto enables users with a wide range of hand sizes to interact with virtual objects with their thumb and index fingers while freeing the rest of the hand. Users can perceive the speed of virtual objects slipping against the fingertips and can use varying grip strengths to grab and release the objects. Three demo applications were developed to showcase the different types of virtual object interactions enabled by the prototype.
+Various haptic feedback techniques for hand interactions in virtual environments have been explored, but skin-slip feedback remains underdeveloped. Existing devices are bulky and unsuitable for multi-finger or bimanual use. To address this, SpinOcchietto, a wearable skin-slip haptic device with spinning discs, was developed to simulate virtual objects slipping between the thumb and index finger. It is a miniaturized, lighter version of the 6-DoF handheld SpinOcchio, accommodating different hand sizes and allowing free movement of the rest of the hand. Users can perceive slip speed and adjust grip strength to interact with virtual objects. Three demo applications showcase its capabilities.
 
 ### References
 
-Myung Jin Kim and Andrea Bianchi. 2022. **SpinOcchietto: A Wearable Skin-Slip Haptic Device for Rendering Width and Motion of Objects Gripped Between the Fingertips**. To appear in The 35th Annual ACM Symposium on User Interface Software and Technology (_UIST '22 Extended Abstracts_). <!--Association for Computing Machinery, New York, NY, USA, Article 433, 1–14.--> DOI: [https://doi.org/10.1145/3526114.3558651](https://doi.org/10.1145/3526114.3558651)
+Myung Jin Kim and Andrea Bianchi. 2022. **SpinOcchietto: A Wearable Skin-Slip Haptic Device for Rendering Width and Motion of Objects Gripped Between the Fingertips**. To appear in The 35th Annual ACM Symposium on User Interface Software and Technology (_UIST '22 Extended Abstracts_). DOI: [https://doi.org/10.1145/3526114.3558651](https://doi.org/10.1145/3526114.3558651)
 
 <!-- DO NOT CHANGE MANUALLY -->
 
