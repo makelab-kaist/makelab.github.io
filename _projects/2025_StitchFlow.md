@@ -1,6 +1,6 @@
 ---
 title: StitchFlow
-subtitle: 'StitchFlow: Crochet Patterns With Stitch Tracking and Process Sharing'
+subtitle: 'Crochet Patterns With Stitch Tracking and Process Sharing'
 description: 'StitchFlow: Enabling In-Situ Creative Explorations of Crochet Patterns With Stitch Tracking and Process Sharing'
 year: 2025
 featured_image: /images/projects/stitchflow.png # width must be 1600px
