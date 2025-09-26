@@ -19,7 +19,7 @@ PassBYOP is a graphical password system for public terminals that uses personali
 
 ### References
 
-Andrea Bianchi, Ian Oakley and Hyoungshick Kim. 2016. **PassBYOP: Bring Your Own Picture for Securing Graphical Passwords**. In IEEE Transactions on Human-Machine Systems, vol. 46, no. 3, pp. 380-389, June 2016. doi: [10.1109/THMS.2015.2487511](https://ieeexplore.ieee.org/document/7307177)
+Andrea Bianchi, Ian Oakley and Hyoungshick Kim. 2016. **PassBYOP: Bring Your Own Picture for Securing Graphical Passwords**. In _IEEE Transactions on Human-Machine Systems_, vol. 46, no. 3, pp. 380-389, June 2016. doi: [10.1109/THMS.2015.2487511](https://ieeexplore.ieee.org/document/7307177)
 
 <!-- DO NOT CHANGE MANUALLY -->
 

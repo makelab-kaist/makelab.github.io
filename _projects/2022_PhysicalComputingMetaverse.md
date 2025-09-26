@@ -29,7 +29,7 @@ This project was in collaboration with the **KAIST Global Strategy Institute**.
 
 ### References
 
-Hye-Young Jo, Wooje Chang, Hoonjin Jung, Andrea Bianchi. 2022. **Design of Virtual Reality Application for Interaction Prototyping Remote Education**. In HCI Korea 2022 (2022.02.09 - 02.11).
+Hye-Young Jo, Wooje Chang, Hoonjin Jung, Andrea Bianchi. 2022. **Design of Virtual Reality Application for Interaction Prototyping Remote Education**. In _HCI Korea 2022_ (2022.02.09 - 02.11).
 
 <!-- DO NOT CHANGE MANUALLY -->
 

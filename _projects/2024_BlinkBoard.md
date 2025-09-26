@@ -19,7 +19,7 @@ _BlinkBoard_ is an augmented breadboard designed to help and monitor students as
 
 ### References
 
-Andrea Bianchi, Kongpyung Justin Moon, Artem Dementyev, Seungwoo Je. 2024. **BlinkBoard: Guiding and monitoring circuit assembly for synchronous and remote physical computing education**. In HardwareX 2024,
+Andrea Bianchi, Kongpyung Justin Moon, Artem Dementyev, Seungwoo Je. 2024. **BlinkBoard: Guiding and monitoring circuit assembly for synchronous and remote physical computing education**. In _HardwareX_ 2024,
 e00511, ISSN 2468-0672, DOI: [https://doi.org/10.1016/j.ohx.2024.e00511](https://doi.org/10.1016/j.ohx.2024.e00511).
 
 <!-- DO NOT CHANGE MANUALLY -->

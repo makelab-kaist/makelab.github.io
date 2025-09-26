@@ -26,7 +26,7 @@ We present RealPen, an augmented stylus for capacitive tablet screens that simul
 
 ### References
 
-Youngjun Cho, Andrea Bianchi, Nicolai Marquardt, and Nadia Bianchi-Berthouze. 2016. **RealPen: Providing Realism in Handwriting Tasks on Touch Surfaces using Auditory-Tactile Feedback**. In Proceedings of the 29th Annual Symposium on User Interface Software and Technology (UIST '16). ACM, New York, NY, USA, 195-205. DOI: [https://doi.org/10.1145/2984511.2984550](https://doi.org/10.1145/2984511.2984550)
+Youngjun Cho, Andrea Bianchi, Nicolai Marquardt, and Nadia Bianchi-Berthouze. 2016. **RealPen: Providing Realism in Handwriting Tasks on Touch Surfaces using Auditory-Tactile Feedback**. In Proceedings of the 29th Annual Symposium on User Interface Software and Technology (_UIST '16_). ACM, New York, NY, USA, 195-205. DOI: [https://doi.org/10.1145/2984511.2984550](https://doi.org/10.1145/2984511.2984550)
 
 <!-- DO NOT CHANGE MANUALLY -->
 

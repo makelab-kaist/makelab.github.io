@@ -18,7 +18,7 @@ WatchMI is a system that enhances smartwatch touch interaction by supporting con
 
 ### References
 
-Hui-Shyong Yeo, Juyoung Lee, Andrea Bianchi, and Aaron Quigley. 2016. **WatchMI: pressure touch, twist and pan gesture input on unmodified smartwatches**. In Proceedings of the 18th International Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI '16). ACM, New York, NY, USA, 394-399. DOI: [https://doi.org/10.1145/2935334.2935375](https://doi.org/10.1145/2935334.2935375)
+Hui-Shyong Yeo, Juyoung Lee, Andrea Bianchi, and Aaron Quigley. 2016. **WatchMI: pressure touch, twist and pan gesture input on unmodified smartwatches**. In Proceedings of the 18th International Conference on Human-Computer Interaction with Mobile Devices and Services (_MobileHCI '16_). ACM, New York, NY, USA, 394-399. DOI: [https://doi.org/10.1145/2935334.2935375](https://doi.org/10.1145/2935334.2935375)
 
 <!-- DO NOT CHANGE MANUALLY -->
 

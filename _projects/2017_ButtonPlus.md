@@ -23,11 +23,11 @@ featured: false
 
 # {{page.title}}: {{page.subtitle}} ({{page.year}})
 
-Shape-changing interfaces are an emerging topic in HCI research: they merge the simplicity of tangible interfaces with the expressiveness of dynamic physical affordances. However, while prior work largely focused on technical aspects and proposed classifications of shape-changing interfaces based on the physical properties of the actuators and the user's levels of control, this work presents a classification of shape-changing interfaces based on the context and identity of the users. After introducing a new prototype for a shape-changing pushbutton, we conducted a series of workshop studies with designers and engineers to explore the design space and potential applications for this interface. We used the result of our workshops to propose a generalized taxonomy of interactions, and built two applications that reflect the proposed model. The paper concludes by highlighting future possible research directions for context and user aware shape-changing interfaces.
+Shape-changing interfaces combine the simplicity of tangible interfaces with dynamic physical affordances and are an emerging area in HCI research. Unlike previous work that focused on technical aspects and actuator properties, this study classifies shape-changing interfaces based on user context and identity. After introducing a new shape-changing pushbutton prototype, workshops with designers and engineers explored its design space and applications. The findings led to a generalized taxonomy of interactions and the development of two applications reflecting this model. The paper concludes by suggesting future research directions for context- and user-aware shape-changing interfaces.
 
 ### References
 
-Jihoon Suh, Wooshik Kim, and Andrea Bianchi. 2017. **Button+: Supporting User and Context Aware Interaction through Shape-Changing Interfaces**. In Proceedings of the Eleventh International Conference on Tangible, Embedded, and Embodied Interaction (TEI '17). ACM, New York, NY, USA, 261-268. DOI: https://doi.org/10.1145/3024969.3024980
+Jihoon Suh, Wooshik Kim, and Andrea Bianchi. 2017. **Button+: Supporting User and Context Aware Interaction through Shape-Changing Interfaces**. In Proceedings of the Eleventh International Conference on Tangible, Embedded, and Embodied Interaction (_TEI '17_). ACM, New York, NY, USA, 261-268. DOI: [https://doi.org/10.1145/3024969.3024980](https://doi.org/10.1145/3024969.3024980)
 
 <!-- DO NOT CHANGE MANUALLY -->
 

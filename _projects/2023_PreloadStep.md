@@ -19,7 +19,7 @@ PreloadStep is an innovative platform that simulates walking on various virtual 
 
 ### References
 
-Wooje Chang, Seungwoo Je, Michel Pahud, Mike Sinclair, and Andrea Bianchi, **Rendering Perceived Terrain Stiffness in VR Via Preload Variation Against Body-Weight**. In IEEE Transactions on Haptics. doi: [10.1109/TOH.2023.3275136](https://ieeexplore.ieee.org/document/10123010)
+Wooje Chang, Seungwoo Je, Michel Pahud, Mike Sinclair, and Andrea Bianchi, **Rendering Perceived Terrain Stiffness in VR Via Preload Variation Against Body-Weight**. In _IEEE Transactions on Haptics_. doi: [10.1109/TOH.2023.3275136](https://ieeexplore.ieee.org/document/10123010)
 
 <!-- DO NOT CHANGE MANUALLY -->
 
