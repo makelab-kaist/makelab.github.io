@@ -47,11 +47,17 @@ description: Publications at the Make Lab
 
 ## 2025
 
-Hongyu Zhou, Tom Kip, Yihao Dong, Andrea Bianchi, Zhanna Sarsenbayeva, and Anusha Withana. 2025. **Juggling Extra Limbs: Identifying Control Strategies for Supernumerary Multi-Arms in Virtual Reality**. To appear in the 2025 CHI Conference on Human Factors in Computing Systems (_CHI ’25_) (**Honorable Mention Award 🏅**).
+Zofia Marciniak, Punn Lertjaturaphat, and Andrea Bianchi. 2025. **StitchFlow: Enabling In-Situ Creative Explorations of Crochet Patterns With Stitch Tracking and Process Sharing**. To appear in the Proceedings of the Annual ACM Symposium on User Interface Software and Technology (_UIST 2025_).
 
-Hyewon Lee, Christopher Bannon, and Andrea Bianchi. 2025. **CamARa: Exploring and Creating Camera Movements with Spatial Reference in Augmented Reality**. To appear in the 2025 CHI Conference on Human Factors in Computing Systems Extended Abstracts (_CHI ’25 EA_).
+Hongyu Zhou, Tom Kip, Yihao Dong, Andrea Bianchi, Zhanna Sarsenbayeva, and Anusha Withana. 2025. **Juggling Extra Limbs: Identifying Control Strategies for Supernumerary Multi-Arms in Virtual Reality**. In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (_CHI '25)_. Association for Computing Machinery, New York, NY, USA, Article 1156, 1–16. [https://doi.org/10.1145/3706598.3713647](https://doi.org/10.1145/3706598.3713647) (**Honorable Mention Award 🏅**).
 
-Yihao Dong, Pamuditha Somarathne, Craig T Jin, Juno Kim, Andrea Bianchi and Anusha Withana. 2025. **Just Before Touch: Manipulating Perceived Haptic Sensations through Proactive Vibrotactile Cues in Virtual Reality**. To appear in Augmented Humans Conference 2025 (_AHs’25_).
+Hyung Il Yi, Kun-Woo Song, Nihar Sabnis, Andrea Bianchi, Sang Ho Yoon. 2025. **InvisiBow: Finger-Held Device for Bimanual Haptic Illusions during Virtual Archery**. To appear in _IMWUT 2025_.
+
+Josh Andres, Chris Danta, Andrea Bianchi, Sahar Farzanfar, Gloria Milena Fernandez-Nieto, AlexaBecker, Tara Capel, Frances Liddell, Shelby Hagemann, Ned Cooper, Sungyeon Hong, Li Lin, EduardoBenitez Sandoval, Anna Brynskov, Hubert Dariusz Zając, Zhuying Li, Tianyi Zhang, Arngeir Berge. **A Scenario-Based Design Pack for Exploring Multimodal Human–GenAI Relations**. To Appear in _ICMI 2025_.
+
+Hyewon Lee, Christopher Bannon, and Andrea Bianchi. 2025. **CamARa: Exploring and Creating Camera Movements with Spatial Reference in Augmented Reality**. In Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (_CHI EA '25_). Association for Computing Machinery, New York, NY, USA, Article 703, 1–5. [https://doi.org/10.1145/3706599.3721180](https://doi.org/10.1145/3706599.3721180)
+
+Yihao Dong, Pamuditha Somarathne, Craig T Jin, Juno Kim, Andrea Bianchi and Anusha Withana. 2025. **Just Before Touch: Manipulating Perceived Haptic Sensations through Proactive Vibrotactile Cues in Virtual Reality**. To appear in Augmented Humans Conference 2025 (_AHs’25_). [[paper]]({{ site.url }}/files/2025/Dong_JustBeforeTouch_AH25.pdf).
 
 Jee Youn Kim, and Andrea Bianchi. 2025. **Current state of research about Diary-AI interaction in HCI**. In _HCI Korea 2025_ [[paper]]({{ site.url }}/files/2025/Kim_Diary_KHCI25.pdf) (2025.02.10 - 2025.02.12).
 
