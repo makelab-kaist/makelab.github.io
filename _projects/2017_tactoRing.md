@@ -36,7 +36,7 @@ Seungwoo Je, Brendan Rooney, Liwei Chan, and Andrea Bianchi. 2017. **tactoRing: 
 
 ---
 
-Pin-Cheng Lin, HyunJoo Oh, Mark D. Gross, Michael Eisenberg, Sherry His, Becca Rose Glowacki, Mark Wonnacott, Amy Rose, Emma Powell, Liv Bargman, Seungwoo Je, Brendan Rooney, Liwei Chan, and Andrea Bianchi. 2018. _Demo hour_. Interactions 25, 2 (February 2018), 6-9. DOI: [https://doi.org/10.1145/3183514](https://doi.org/10.1145/3183514)
+Pin-Cheng Lin, HyunJoo Oh, Mark D. Gross, Michael Eisenberg, Sherry His, Becca Rose Glowacki, Mark Wonnacott, Amy Rose, Emma Powell, Liv Bargman, Seungwoo Je, Brendan Rooney, Liwei Chan, and Andrea Bianchi. 2018. _**Demo hour**_. _Interactions_ 25, 2 (February 2018), 6-9. DOI: [https://doi.org/10.1145/3183514](https://doi.org/10.1145/3183514)
 
 <!-- DO NOT CHANGE MANUALLY -->
 
