@@ -15,14 +15,12 @@ featured: false
 
 # {{page.title}}: {{page.subtitle}} ({{page.year}})
 
-Motivated by the necessity of guiding and monitoring students when assembling electronic circuits during in-class activities, we propose BlinkBoard, an augmented breadboard that enhances synchronous and remote physical computing classes. BlinkBoard uses LEDs placed on each row of a breadboard to guide, via four distinct blinking patterns, how to place and connect components and wires. It also uses a set of Input/Output pins to sense voltage levels or to generate voltage output at user-specified rows. Our hardware uses an open protocol of JSON commands and responses that can be used directly via a command line interface to control the hardware. Alternatively, these commands can be issued within a front-end graphical application hosted on a computer for a more user-friendly interface, and to ensure bidirectional and real-time communication between the instructor’s guiding and monitoring panel, and all the students’ remote BlinkBoards. The BlinkBoard hardware is affordable and simple, partially due to a customized circuit configured via a hardware description language that handles the LEDs’ patterns with minimal load on the Arduino microcontroller. Finally, we briefly show BlinkBoard in use during a workshop with high-school students and an undergraduate design course.
+_BlinkBoard_ is an augmented breadboard designed to help and monitor students assembling electronic circuits in both in-person and remote classes. It uses LEDs with four blinking patterns to guide component and wire placement and includes Input/Output pins for voltage sensing or generation. Controlled via an open JSON protocol through command line or graphical interface, it enables real-time communication between instructors and students. BlinkBoard is affordable, simple, and efficiently manages LED patterns with minimal microcontroller load. Its effectiveness was proven in workshops with high-school and undergraduate students.
 
 ### References
 
-
 Andrea Bianchi, Kongpyung Justin Moon, Artem Dementyev, Seungwoo Je. 2024. **BlinkBoard: Guiding and monitoring circuit assembly for synchronous and remote physical computing education**. In HardwareX 2024,
 e00511, ISSN 2468-0672, DOI: [https://doi.org/10.1016/j.ohx.2024.e00511](https://doi.org/10.1016/j.ohx.2024.e00511).
-
 
 <!-- DO NOT CHANGE MANUALLY -->
 
@@ -34,7 +32,6 @@ e00511, ISSN 2468-0672, DOI: [https://doi.org/10.1016/j.ohx.2024.e00511](https:/
 - [Official BlinkBoard website](https://blinkboard.kaist.ac.kr)
 - [BlinkBoard Hardware on **GitHub**](https://github.com/makinteractlab/BlinkBoard)
 - [BlinkBoard App on **GitHub**](https://github.com/makinteractlab/BlinkBoardApp)
-
 
 ---
 

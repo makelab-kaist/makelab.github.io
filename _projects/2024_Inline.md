@@ -1,6 +1,6 @@
 ---
 title: Inline
-subtitle: 'Inline Visualization and Manipulation of Real-Time Hardware Log for Supporting Debugging of Embedded Programs'
+subtitle: 'Inline Visualization and Manipulation of Real-Time Hardware Logs for Embedded Programs'
 description: 'Inline Visualization and Manipulation of Real-Time Hardware Log for Supporting Debugging of Embedded Programs'
 year: 2024
 featured_image: /images/projects/inline.png # width must be 1600px
@@ -17,11 +17,11 @@ featured: true
 
 🏅 _Honorable Mention Award_
 
-The advent of user-friendly embedded prototyping systems, exemplified by platforms like Arduino, has significantly democratized the creation of interactive devices that combine software programs with electronic hardware. This interconnection between hardware and software, however, makes the identification of bugs very difficult, as problems could be rooted in the program, in the circuit, or at their intersection. While there are tools to assist in identifying and resolving bugs, they typically require hardware instrumentation or visualizing logs in serial monitors. Based on the findings of a formative study, we designed Inline a programming tool that simplifies debugging of embedded systems by making explicit the internal state of the hardware and the program's execution flow using visualizations of the hardware logs directly within the user's code. The system's key characteristics are 1) an inline presentation of logs within the code, 2) real-time tracking of the execution flow, and 3) an expression language to manipulate and filter the logs. The paper presents the detailed implementation of the system and a study with twelve users, which demonstrates what features were adopted and how they were leveraged to complete debugging tasks.
+The development of user-friendly embedded prototyping systems like Arduino has made creating interactive devices more accessible. However, debugging these systems is challenging due to the intertwined nature of software and hardware issues. Existing tools often require hardware instrumentation or log visualization through serial monitors. To address this, the authors designed Inline, a programming tool that simplifies debugging by displaying hardware logs directly within the code, providing real-time execution flow tracking and an expression language for log manipulation. A study with twelve users demonstrated the tool's effectiveness in aiding debugging tasks.
 
 ### References
 
-Andrea Bianchi, Zhi Lin Yap, Punn Lertjaturaphat, Austin Z. Henley, Kongpyung Justin Moon, and Yoonji Kim. 2024. **Inline Visualization and Manipulation of Real-Time Hardware Log for Supporting Debugging of Embedded Programs**. Proc. ACM Hum.-Comput. Interact. (_PACM_) 8, _EICS_, Article 248 (June 2024), 26 pages. DOI: https://doi.org/10.1145/3660250
+Andrea Bianchi, Zhi Lin Yap, Punn Lertjaturaphat, Austin Z. Henley, Kongpyung Justin Moon, and Yoonji Kim. 2024. **Inline Visualization and Manipulation of Real-Time Hardware Log for Supporting Debugging of Embedded Programs**. Proc. ACM Hum.-Comput. Interact. (_PACM_) 8, _EICS_, Article 248 (June 2024), 26 pages. DOI: [https://doi.org/10.1145/3660250](https://doi.org/10.1145/3660250)
 
 <!-- DO NOT CHANGE MANUALLY -->
 
@@ -30,9 +30,8 @@ Andrea Bianchi, Zhi Lin Yap, Punn Lertjaturaphat, Austin Z. Henley, Kongpyung Ju
 
 ### Source code and material
 
-[GitHub](https://github.com/makelab-kaist/inline-extension)
-
-<a href="{{ site.url }}/files/various/Inline_slides.pdf" target="_blank">Slides</a>
+- [GitHub](https://github.com/makelab-kaist/inline-extension)  
+- <a href="{{ site.url }}/files/various/Inline_slides.pdf" target="_blank">Slides</a>
 
 ---
 

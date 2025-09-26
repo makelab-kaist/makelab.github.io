@@ -13,7 +13,7 @@ featured: true
 
 <!-- DO NOT CHANGE MANUALLY -->
 
-# {{page.subtitle}} ({{page.year}})
+# {{page.title}}: {{page.subtitle}} ({{page.year}})
 
 3D printed displays have the potential to create unique visual interfaces for physical objects, but current methods either require specialized post-processing or are limited to passive color changes triggered by environmental factors. This paper presents ThermoPixels, a method for designing and 3D printing actively controlled, visually rich thermochromic displays embedded in arbitrary shapes. By studying the color-changing and thermal properties of thermochromic and conductive filaments, the authors developed ThermoPixels and a software tool that enables embedding these displays in various 3D geometries, including flat, curved, textured, multicolored, or flexible forms.
 

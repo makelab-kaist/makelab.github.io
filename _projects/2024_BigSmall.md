@@ -17,16 +17,15 @@ featured: false
 
 🏅 _Honorable Mention Award_
 
-Haptic perception of physical sizes increases the realism and immer- sion in Virtual Reality (VR). Prior work rendered sizes by exerting pressure on the user’s fingertips or employing tangible, shape- changing devices. These interfaces are constrained by the physical shapes they can assume, making it challenging to simulate objects growing larger or smaller than the perceived size of the interface. Motivated by literature on pseudo-haptics describing the strong influence of visuals over haptic perception, this work investigates modulating the perception of size beyond this range. We developed a fixed-sized VR controller leveraging finger-repositioning to create a visuo-haptic illusion of dynamic size-change of handheld virtual objects. Through two user studies, we found that with an accom- panying size-changing visual context, users can perceive virtual object sizes up to 44.2% smaller to 160.4% larger than the perceived size of the device. Without the accompanying visuals, a constant size (141.4% of device size) was perceived.
+Haptic perception of physical sizes enhances realism and immersion in Virtual Reality (VR). Traditional methods use pressure on fingertips or shape-changing devices, which are limited by their physical forms, restricting the simulation of objects larger or smaller than the device. Inspired by pseudo-haptics research on visual influence over haptic perception, this study developed a fixed-size VR controller that uses finger repositioning to create a visuo-haptic illusion of dynamic size changes in virtual objects. Two user studies showed that with size-changing visual context, users perceived virtual objects as 44.2% smaller to 160.4% larger than the device size, while without visuals, a constant size of 141.4% of the device size was perceived.
 
 ### References
 
-Myung Jin Kim, Eyal Ofek, Michel Pahud, Mike J Sinclair, and Andrea Bianchi. 2024. **Big or Small, It’s All in Your Head: Visuo-Haptic Illusion of Size-Change Using Finger-Repositioning**. In Proceedings of the CHI Conference on Human Factors in Computing Systems (_CHI '24_). Association for Computing Machinery, New York, NY, USA, Article 751, 1–15. DOI: https://doi.org/10.1145/3613904.3642254
+Myung Jin Kim, Eyal Ofek, Michel Pahud, Mike J Sinclair, and Andrea Bianchi. 2024. **Big or Small, It’s All in Your Head: Visuo-Haptic Illusion of Size-Change Using Finger-Repositioning**. In Proceedings of the CHI Conference on Human Factors in Computing Systems (_CHI '24_). Association for Computing Machinery, New York, NY, USA, Article 751, 1–15. DOI: [https://doi.org/10.1145/3613904.3642254](https://doi.org/10.1145/3613904.3642254)
 
 <!-- DO NOT CHANGE MANUALLY -->
 
 <a href="{{ site.url }}/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp;
-
 <a href="{{ page.doi_link }}" target="_blank">doi</a>
 
 ---
