@@ -12,7 +12,7 @@ description: How to join the Make Lab at KAIST
 - All programs are in **English**, and knowledge of Korean is not necessary (though certainly appreciated).
 - For Ph.D., I expect some prior research **experience** and some proven technical **capabilities** (e.g., coding, making, stats, research methods, statistics).
 - We welcome students with many majors of origin. It is OK to not have a formal background in design.
-- For **internships** and **visitors**, we welcome KAIST students and only consider applicants from elsewhere with strong recommendations.
+- For **internships** and **visitors**, we welcome KAIST students and only consider applicants from elsewhere with strong recommendations. Additionally, undergraduate students should be at least in their third year (junior) and have taken courses such as [Software Prototyping](https://software.prototyping.id) and [Interaction Prototyping](https://sites.google.com/view/interaction-prototyping/home).
 
 ## For prospective Ph.D. students
 
