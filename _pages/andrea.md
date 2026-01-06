@@ -55,16 +55,18 @@ subtitle: Associate Professor - Lab director
 </head>
 
 <span class="profile"> 
-My name is Andrea Bianchi (Korean: 안두리), and I am an Associate Professor (tenured) in the [Department of Industrial Design](https://id.kaist.ac.kr) at [KAIST](https://id.kaist.ac.kr), and the director of the **Make Lab**. I research in the field of Human-Computer Interaction (_HCI_). I currently serve as Paper Co-Chair for UIST 2025 and Subcommittee Chair at CHI 2025 (Blending Interaction: Engineering Interactive Systems & Tools).
+My name is Andrea Bianchi (Korean: 안두리), and I am an Associate Professor (tenured) in the [Department of Industrial Design](https://id.kaist.ac.kr) at [KAIST](https://id.kaist.ac.kr), and the director of the **Make Lab**. I research in the field of Human-Computer Interaction (_HCI_). I currently serve as Paper Co-Chair for UIST 2025 and Subcommittee Chair at CHI 2025 and 2026 (Blending Interaction: Engineering Interactive Systems & Tools).
 </span>
 
 <img src="/images/people/andreaHD.jpg" alt="{{prof.name}}" class="profileImage"/>
 
-The focus of my work is to _design tools for computationally augmented physical interaction_. In practice, I investigate how physical experiences can be augmented with digital artifacts, and how physical materials -including the human body- can be used as computational elements to expend the design space of computer-enabled interactions with the physical world. The physical interfaces resulting from this vision are **tangible UIs**, **mechatronics devices** for interacting with digital content, **toolkits for fabrication and electronics**, and **wearable devices**. My lab work has been recognized with 9+ Best Paper and Honorable Mention Awards at the premiere HCI venues.
+I am interested in the process of _making_ as a means to creative explorations, problem framing, and knowledge construction. I devise systems to support creative making by blending physical experiences (artifacts, materials, and embodiment) and computational interaction. My lab work has been recognized with 9+ Best Paper and Honorable Mention Awards at the premiere HCI venues.
+
+<!-- The focus of my work is to _design tools for computationally augmented physical interaction_. In practice, I investigate how physical experiences can be augmented with digital artifacts, and how physical materials -including the human body- can be used as computational elements to expend the design space of computer-enabled interactions with the physical world. The physical interfaces resulting from this vision are **tangible UIs**, **mechatronics devices** for interacting with digital content, **toolkits for fabrication and electronics**, and **wearable devices**. My lab work has been recognized with 9+ Best Paper and Honorable Mention Awards at the premiere HCI venues. -->
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/U54PDYC_d4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
-Before joining KAIST, he worked at [Sungkyunkwan University](http://www.skku.edu/eng/index.do) (Korea) as a faculty member in the Department of Computer Science, and as a video game programmer for a New York [startup](https://www.crunchbase.com/organization/rebelmonkey). Andrea received a [Ph.D. from KAIST](https://ct.kaist.ac.kr/main.php?lang=1) (Korea) in 2012, an MS in Computer Science from [NYU](http://www.nyu.edu) (USA), and a Laurea (BSc+MS) in business administration from [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home) (Italy). Andrea has an [Erdős number](https://en.wikipedia.org/wiki/Erdős_number) of 3 and collects [eyeglasses](https://www.dropbox.com/scl/fi/gqnzkks4o9whyvgar3tth/glasses.pdf?rlkey=qcpytc9f10otdj135vbwahrl9&dl=0).
+Before joining KAIST, I worked at [Sungkyunkwan University](http://www.skku.edu/eng/index.do) (Korea) as a faculty member in the Department of Computer Science, and as a video game programmer for a New York [startup](https://www.crunchbase.com/organization/rebelmonkey). I received a [Ph.D. from KAIST](https://ct.kaist.ac.kr/main.php?lang=1) (Korea) in 2012, an MS in Computer Science from [NYU](http://www.nyu.edu) (USA), and a Laurea (BSc+MS) in business administration from [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home) (Italy). I have an [Erdős number](https://en.wikipedia.org/wiki/Erdős_number) of 3 and collects [eyeglasses](https://www.dropbox.com/scl/fi/gqnzkks4o9whyvgar3tth/glasses.pdf?rlkey=qcpytc9f10otdj135vbwahrl9&dl=0).
 
 {% assign prof = site.data.people[0] %}
 
@@ -128,6 +130,7 @@ Before joining KAIST, he worked at [Sungkyunkwan University](http://www.skku.edu
 **Program committee and editor**
 
 - UIST 2025 Paper Co-Chair
+- CHI 2026 Subcomittee Chair "Blending Interaction: Engineering Interactive Systems & Tools"
 - CHI 2025 Subcomittee Chair "Blending Interaction: Engineering Interactive Systems & Tools"
 - CHI 2015/16/18/19/21/22/23/24
 - UIST 2020/23
