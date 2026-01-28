@@ -45,6 +45,14 @@ description: Publications at the Make Lab
 
 # Academic papers
 
+## 2026
+
+Haeri Kim, Anam Ahmad Khan, and Andrea Bianchi. 2026. **CUnderstanding XR-Supported Creative Collaboration through a Domain-Specific Lens**. In _HCI Korea 2026_ [[paper]]({{ site.url }}/files/2026/KimH_XRconcert_KHCI26.pdf) (2026.01.26 - 2025.01.28).
+
+Jee Youn Kim and Andrea Bianchi. 2026. **Dining in XR: empirical study**. In _HCI Korea 2026_ [[paper]]({{ site.url }}/files/2026/KimJY_XRfood_KHCI26.pdf) (2026.01.26 - 2025.01.28).
+
+Guhn Lee, Anam Ahmad Khan, and Andrea Bianchi. 2026. **Passthrough Interpretive Assistant: Revealing Hidden Intent and Bias in eXtended Reality with AI**. In _HCI Korea 2026_ [[paper]]({{ site.url }}/files/2026/LeeG_Bias_KHCI26.pdf) (2026.01.26 - 2025.01.28).
+
 ## 2025
 
 Zofia Marciniak, Punn Lertjaturaphat, and Andrea Bianchi. 2025. **StitchFlow: Enabling In-Situ Creative Explorations of Crochet Patterns With Stitch Tracking and Process Sharing**. To appear in the Proceedings of the Annual ACM Symposium on User Interface Software and Technology (_UIST 2025_).
