@@ -44,14 +44,21 @@
 				{% endif %}
 				{% endfor %}
 			</ul>
+
+			{% include socials.html %}
 		</div>
 
 		<div class="header__lower">
 
-			{% include socials.html %}
-
+			<!-- KAIST logo	 -->
+			<div style="width: 100%; margin-bottom: 0.2em;">
+				<a href="https://kaist.ac.kr/kr/">
+					<img src="/images/sponsors/kaist.png" alt="KAIST Logo"
+						style="height: 26px; width: auto; filter: grayscale(100%); opacity: 0.8; display: block;" />
+				</a>
+			</div>
 			<div class="footer__copyright">
-				<span>© {{ 'now' | date: "%Y" }} {{ site.data.settings.basic_settings.site_title }} lab</span>
+				<span>© {{ 'now' | date: "%Y" }} {{ site.data.settings.basic_settings.site_title }}::lab</span>
 			</div>
 
 		</div>
