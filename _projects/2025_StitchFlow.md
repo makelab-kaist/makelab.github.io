@@ -19,7 +19,7 @@ Crochet is a manual craft characterized by improvisation and creative flow, whic
 
 ### References
 
-Zofia Marciniak, Punn Lertjaturaphat, and Andrea Bianchi. 2025. **StitchFlow: Enabling In-Situ Creative Explorations of Crochet Patterns With Stitch Tracking and Process Sharing**. To appear in the Proceedings of the Annual ACM Symposium on User Interface Software and Technology (_UIST 2025_).
+Zofia Marciniak, Punn Lertjaturaphat, and Andrea Bianchi. 2025. **StitchFlow: Enabling In-Situ Creative Explorations of Crochet Patterns With Stitch Tracking and Process Sharing**. In Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology (_UIST '25_). Association for Computing Machinery, New York, NY, USA, Article 7, 1–15. [https://doi.org/10.1145/3746059.3747715](https://doi.org/10.1145/3746059.3747715)
 
 <!-- DO NOT CHANGE MANUALLY -->
 

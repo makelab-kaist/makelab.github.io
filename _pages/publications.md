@@ -47,6 +47,22 @@ description: Publications at the Make Lab
 
 ## 2026
 
+Punn Lertjaturaphat, Jungwoo Rhee, Jaewon You, and Andrea Bianchi. 2026. **Wire Your Way: Hardware-Contextualized Guidance and In-situ Tests for Personalized Circuit Prototyping**. To appear in the Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (_CHI '26_).
+
+Anam Ahmad Khan, Florian Weidner, Jungwoo Rhee, Yasmeen Abdrabou, Andrea Bianchi, Eduardo Velloso, Hans Gellersenmark, and Joshua Newn. 2026. **Gaze and Speech in Multimodal Human-Computer Interaction: A Scoping Review**. To appear in the Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (_CHI '26_).
+
+Nihar Sabnis, André Zenner, Erik Peralta, Marco Weiss, Andrea Bianchi, and Paul Strohmeier. 2026. **Connected Material Experiences using Bimanual Vibrotactile Crosstalk in Virtual Reality**. To appear in the Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (_CHI '26_).
+
+Hongyu Zhou, Xincheng Huang, Winston Wijaya, Yi Fei Cheng, David Lindlbauer, Eduardo Velloso, Andrea Bianchi, Zhanna Sarsenbayeva, and Anusha Withana. 2026. **One Body, Two Minds: Alternating VR Perspective During Remote Teleoperation of Supernumerary Limbs**.
+To appear in the Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (_CHI '26_).
+
+Yi Fei Cheng, Jarod Bloch, Alexander Wang, Andrea Bianchi, Anusha Withana, Anhong Guo, Laurie M. Heller, and David Lindlbauer. 2026. **Auditorily Embodied Conversational Agents: Effects of Spatialization and Situated Audio Cues on Presence and Social Perception**.
+To appear in the Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (_CHI '26_).
+
+HyeonBeom Yi, Myung Jin (MJ) Kim, Seungwoo Je, Seungjae Oh, Shuto Takashita, Hongyu Zhou S, Marie Muehlhaus, Eyal Ofek, andrea Andrea Bianchi. 2026. **Augmented Body Parts: Bridging VR Embodiment and Wearable Robotics**. ([Workshop](https://sites.google.com/view/augmented-body-parts)). In Extended Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (_CHI EA’26_) [[paper]]({{ site.url }}/files/2025/Yi_AugmetedBody_Workshop_CHI26.pdf).
+
+Hyunyoung Kim, Daniel Ashbrook, Andrea Bianchi, Jack Forman , DPV Joseph Jayakody, Sara Nabil, HyunJoo Oh, Thomas Pietrzak, Thijs Roumen, Valkyrie Savage, Lining Yao, andrea Clement Zheng. **From Papers to the Real World: Making Fabrication Research Matter**. ([Workshop](https://fabricationresearch.wordpress.com)). In Extended Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (_CHI EA’26_) [[paper]]({{ site.url }}/files/2025/Kim_FabResearch_Workshop_CHI26.pdf).
+
 Haeri Kim, Anam Ahmad Khan, and Andrea Bianchi. 2026. **CUnderstanding XR-Supported Creative Collaboration through a Domain-Specific Lens**. In _HCI Korea 2026_ [[paper]]({{ site.url }}/files/2026/KimH_XRconcert_KHCI26.pdf) (2026.01.26 - 2025.01.28).
 
 Jee Youn Kim and Andrea Bianchi. 2026. **Dining in XR: empirical study**. In _HCI Korea 2026_ [[paper]]({{ site.url }}/files/2026/KimJY_XRfood_KHCI26.pdf) (2026.01.26 - 2025.01.28).
@@ -55,9 +71,9 @@ Guhn Lee, Anam Ahmad Khan, and Andrea Bianchi. 2026. **Passthrough Interpretive 
 
 ## 2025
 
-Zofia Marciniak, Punn Lertjaturaphat, and Andrea Bianchi. 2025. **StitchFlow: Enabling In-Situ Creative Explorations of Crochet Patterns With Stitch Tracking and Process Sharing**. To appear in the Proceedings of the Annual ACM Symposium on User Interface Software and Technology (_UIST 2025_).
+Zofia Marciniak, Punn Lertjaturaphat, and Andrea Bianchi. 2025. **StitchFlow: Enabling In-Situ Creative Explorations of Crochet Patterns With Stitch Tracking and Process Sharing**. In Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology (_UIST '25_). Association for Computing Machinery, New York, NY, USA, Article 7, 1–15. [https://doi.org/10.1145/3746059.3747715](https://doi.org/10.1145/3746059.3747715)
 
-Hongyu Zhou, Tom Kip, Yihao Dong, Andrea Bianchi, Zhanna Sarsenbayeva, and Anusha Withana. 2025. **Juggling Extra Limbs: Identifying Control Strategies for Supernumerary Multi-Arms in Virtual Reality**. In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (_CHI '25)_. Association for Computing Machinery, New York, NY, USA, Article 1156, 1–16. [https://doi.org/10.1145/3706598.3713647](https://doi.org/10.1145/3706598.3713647) (**Honorable Mention Award 🏅**).
+Hongyu Zhou, Tom Kip, Yihao Dong, Andrea Bianchi, Zhanna Sarsenbayeva, and Anusha Withana. 2025. **Juggling Extra Limbs: Identifying Control Strategies for Supernumerary Multi-Arms in Virtual Reality**. In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (_CHI '25_). Association for Computing Machinery, New York, NY, USA, Article 1156, 1–16. [https://doi.org/10.1145/3706598.3713647](https://doi.org/10.1145/3706598.3713647) (**Honorable Mention Award 🏅**).
 
 Hyung Il Yi, Kun-Woo Song, Nihar Sabnis, Andrea Bianchi, Sang Ho Yoon. 2025. **InvisiBow: Finger-Held Device for Bimanual Haptic Illusions during Virtual Archery**. To appear in _IMWUT 2025_.
 
