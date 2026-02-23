@@ -6,7 +6,7 @@ year: 2020
 featured_image: /images/projects/schemaboard.jpg # width must be 1600px
 pdf_file: Kim_SchemaBoard_UIST20.pdf # put file in the directory FILESii
 doi_link: https://doi.org/10.1145/3379337.3415887
-featured: true
+featured: false
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JbrhlfrhZ9Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

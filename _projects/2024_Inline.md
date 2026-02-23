@@ -6,7 +6,7 @@ year: 2024
 featured_image: /images/projects/inline.png # width must be 1600px
 pdf_file: Bianchi_Inline_PACM2024.pdf # put file in the directory FILES
 doi_link: https://doi.org/10.1145/3660250
-featured: true
+featured: false
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gAf5mNowg7A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -30,7 +30,7 @@ Andrea Bianchi, Zhi Lin Yap, Punn Lertjaturaphat, Austin Z. Henley, Kongpyung Ju
 
 ### Source code and material
 
-- [GitHub](https://github.com/makelab-kaist/inline-extension)  
+- [GitHub](https://github.com/makelab-kaist/inline-extension)
 - <a href="{{ site.url }}/files/various/Inline_slides.pdf" target="_blank">Slides</a>
 
 ---

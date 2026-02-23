@@ -6,7 +6,7 @@ year: 2018
 featured_image: /images/projects/windblaster.jpg # width must be 1600px
 pdf_file: Je_WindBlaster_SiggraphET2018.pdf # put file in the directory FILES
 doi_link: https://doi.org/10.1145/3214907.3214915
-featured: true
+featured: false
 ---
 
 <!--
