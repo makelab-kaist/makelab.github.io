@@ -3,7 +3,7 @@ title: The Lab
 description: Interaction, Design, HCI, Haptics, VR, Digital Fabrication, Physical computing, Prototyping tools, KAIST, Korea, Hardware UX
 ---
 
-**Make Lab** is a research lab working in the field of Human-Computer Interaction (**HCI**), with the objective of creating novel _computationally augmented physical interactions_. We are in the department of [Industrial Design](http://id.kaist.ac.kr) at [KAIST](https://www.kaist.ac.kr/en/) (South Korea) and are a member of the [KAIST HCI group](https://hci.kaist.ac.kr). Our lab is a well-recognized and award-winning HCI lab in Korea working at the intersection of design and engineering. Please see our [publications](./publications.html).
+_make lab_ is a research group working in the field of Human-Computer Interaction (**HCI**), with the objective of creating novel _computationally augmented physical interactions_. We are in the department of [Industrial Design](http://id.kaist.ac.kr) at [KAIST](https://www.kaist.ac.kr/en/) (South Korea) and are a member of the [KAIST HCI group](https://hci.kaist.ac.kr). Our lab is a well-recognized and award-winning HCI lab in Korea working at the intersection of design and engineering. Please see our [publications](./publications.html).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FaTROXhY3-A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -11,7 +11,7 @@ Rooted in user-centered experience design and with deep understanding and expert
 
 ---
 
-### Meet the makers
+### Meet the team
 
 {% assign prof = site.data.people[0] %}
 
@@ -51,18 +51,54 @@ Rooted in user-centered experience design and with deep understanding and expert
 
 </div>
 
+---
+
+## Alumni
+
+### Ph.D
+
+[Kongpyung Moon](https://www.kpmoon.com) (2025)
+<br>Assistant professor at _National University of Singapore_
+
+[Myung Jin Kim](https://sites.google.com/view/kimmj/home) (2025) 
+<br>Postdoctoral Researcher at _ETRI, Korea_
+
+[Seungwoo Je](http://www.seungwooje.com) (2022)
+<br>Assistant Professor at _SUSTech, China_
+
+[Joongi Shin](https://www.joongishin.com) (2021)
+<br>Postdoctoral researcher at _Aalto University, Finland_
+
+[Yoonji Kim](http://www.yoonji-kim.com) (2020)
+<br>Assistant professor at _Chung-Ang University, Korea_
+
+### Master
+
+[Jee Youn Kim](https://missingscreuu.com) (2025), [Zofia Marciniak](https://zosia-hci.github.io) (2025, Samsung Electronics), [Jiwon Kim](https://quazycrystal.github.io) (2025), Jaeseong Yi (2024), [Haeun Lee](https://leehaeun.com) (2024), [Wooje Chang](https://scholar.google.com/citations?user=vYvAwQYAAAAJ&hl=en) (2023, Ph.D. student at University of Maryland), [Hye-Young Jo](https://www.hyeyoungjo.com) (2022, Ph.D. student at University of Colorado, Boulder), [Neung Ryu](http://www.neungryu.com) (2021, NAVER), [Daye Kang](https://www.dayekang.info) (2021, Ph.D. student at Cornell University), Hyein Lee (2020), Youngkyung Choi (2020), Okyu Choi (2019), Minkyeong Lee (2019).
+
+### Interns and Other Alumni
+
+[Punn Lertjaturaphat](https://punnlert.github.io) (2023-25), [Hyewon Lee](https://www.hyewon.me) (2024), [Lwam Z. Araya](https://lwamzeche.site/#/about) (2024), Yumin Jung (2024), Zhi Lin Yap (2023), Nargiz Askarbekkyzy (2022-23), Minseo Bang (2023), Jei Kong (2022), Nishant Nepal (2022), Yoosang Yoon (2021), Hyunseung Lim (2020), Edwin Truman (2019), WooJin Lee (2019), Ramkrishna Prasad (2019), [Jihoon Suh](https://www.jihoonsuh.com/) (2015), Wooshik Kim (2015), [Hoonjin Jung](https://davidhoonjin.github.io) (Master on leave), Leila Hyelip Lee (Ph.D. Alumna),  Eunhee Jung (Master Alumna). 
+
+### Visitors
+
+[Sylvain Malacria](https://www.malacria.com) (2025, INRIA, France), [Shana Smith](https://asmejcise.org/editors/shana-smith-ph-d) (2025, National Taiwan University), [Anusha Withana](https://withanage.info) (2024, The University of Sydney), [Atul Chaudhary](mailto:atul.aaytee@gmail.com) (2025, University of Copenhagen), [Nihar Sabnis](https://scholar.google.com/citations?user=1FU5pTAAAAAJ&hl=en) (2024, Max Planck, Germany), [Takuya Takahashi](https://takuya-13068.github.io/portfolio) (2022, Tokyo Institute of Technology, Japan), [Laurenz Seidel](https://www.laurenzseidel.com) (2021, HPI, Germany). 
+
+### Frequent Collaborators
+
+Our research was possible also thanks to numerous collaborators:
+[Michel Pahud](https://www.microsoft.com/en-us/research/people/mpahud/) and Mike Sinclair (Microsoft Research), [Ian Oakley](https://ee.kaist.ac.kr/en/professor/ian-oakley/) and [Sang Ho Yoon](https://sanghoy.com) (KAIST), [Daniel Ashbrook](http://danielashbrook.com)  and [Valkyrie Savage](https://valkyriesavage.com) (University of Copenhagen), [Anusha Withana](https://profiles.sydney.edu.au/anusha.withana) (The University of Sydney), [Eyal Ofek](https://eyalofek.org) (University of Birmingham), [Ryo Suzuki](https://ryosuzuki.org) (University of Colorado, Boulder) [Clement Zheng](https://clementzheng.info) (National Universoity of Singapore), [Kristina Höök](https://www.kth.se/profile/khook/) (KTH), Yi Fei Cheng and [David Lindlbauer](https://hcii.cmu.edu/people/david-lindlbauer) (Carnegie Mellon University), [Nihar Sabnis](https://scholar.google.com/citations?user=1FU5pTAAAAAJ&hl=en) (Max Planck), [Artem Dementyev](http://www.artemdementyev.com) (Google), [Pedro Lopes](http://plopes.org) (University of Chicago), [Xing-Dong Yang](https://www.sfu.ca/fas/computing/people/faculty/faculty-members/xingdong_yang.html) (Simon Fraser University), [Liwei Chan](https://scholar.google.co.uk/citations?user=yF0Cw1EAAAAJ&hl=en) (National Yang Ming Chiao Tung University), [Aaron Quigley](https://aaronquigley.org) and [Josh Andres](https://www.unsw.edu.au/staff/josh-andres) (UNSW).
+
+
+Interested in collaborating with us? Please reach out.
+
+<!-- [Jean-Charles Bazin](https://scholar.google.com/citations?user=XPZLx-8AAAAJ&hl=en) (Apple), and [Hui-Shyong](https://hsyeo.me) (Huawei), [Hamed Alavi](http://hamedalavi.com) (University of Fribourg) and [Himanshu Verma](http://vermahimanshu.com) (TU Delft), [Youngjun Cho](https://youngjuncho.com) and [Nicolai Marquardt](http://www.nicolaimarquardt.com) (UCL), [Hyeon-Jeong Suk](http://color.kaist.ac.kr) and [Tek-Jin Nam](http://cidr.kaist.ac.kr) (KAIST Design), [Geehyuk Lee](http://hcil.kaist.ac.kr/?page_id=349) (KAIST School of Computing), [Hyoungshick Kim](https://seclab.skku.edu) (SKKU). -->
+
 <!-- IMAGE  -->
 <!-- <div class="img-container">
     <img src="/images/people/group.jpg" alt="The Lab" style="width:100%;">
     <h5 class="text-overlay">Few hours before the CHI deadline...</h5>
 </div> -->
 
-
-<!-- ### Collaborators
-
-Our research was possible also thanks to numerous collaborators:
-[Michel Pahud](https://www.microsoft.com/en-us/research/people/mpahud/) and [Mike Sinclair](https://www.microsoft.com/en-us/research/people/sinclair/) (Microsoft Research), [Ian Oakley](http://interactions.unist.ac.kr) (UNIST), [Daniel Ashbrook](http://danielashbrook.com) (University of Copenhagen), [Artem Dementyev](http://www.artemdementyev.com) (Google), [Jean-Charles Bazin](https://scholar.google.com/citations?user=XPZLx-8AAAAJ&hl=en) (Apple), [Pedro Lopes](http://plopes.org) (University of Chicago), [Xing-Dong Yang](https://www.cs.dartmouth.edu/~xingdong/) (Dartmouth College), [Liwei Chan](https://scholar.google.co.uk/citations?user=yF0Cw1EAAAAJ&hl=en) (National Yang Ming Chiao Tung University), [Aaron Quigley](https://aaronquigley.org) (University of New South Wales) and [Hui-Shyong](https://hsyeo.me) (Huawei), [Hamed Alavi](http://hamedalavi.com) (University of Fribourg) and [Himanshu Verma](http://vermahimanshu.com) (TU Delft), [Youngjun Cho](https://youngjuncho.com) and [Nicolai Marquardt](http://www.nicolaimarquardt.com) (UCL), [Hyeon-Jeong Suk](http://color.kaist.ac.kr) and [Tek-Jin Nam](http://cidr.kaist.ac.kr) (KAIST Design), [Geehyuk Lee](http://hcil.kaist.ac.kr/?page_id=349) (KAIST School of Computing), [Hyoungshick Kim](https://seclab.skku.edu) (SKKU).
-
-If you are interested in collaborating with us, please reach out. -->
 
 <a href="contact.html" class="button button--large">Contact us</a>
