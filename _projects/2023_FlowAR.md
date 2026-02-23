@@ -1,12 +1,11 @@
 ---
 title: FlowAR
-subtitle: 'How Different Augmented Reality Visualizations of Online Fitness Videos Support Flow for At-Home Yoga Exercises'
 description: 'FlowAR: How Different Augmented Reality Visualizations of Online Fitness Videos Support Flow for At-Home Yoga Exercises'
 year: 2023
+venue: CHI
 featured_image: /images/projects/flowar.png # width must be 1600px
 pdf_file: Jo_FlowAR_CHI23.pdf # put file in the directory FILES
 doi_link: https://doi.org/10.1145/3544548.3580897
-featured: false
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/viH2Q6Sezsg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

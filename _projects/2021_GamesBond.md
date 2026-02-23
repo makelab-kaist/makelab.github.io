@@ -1,12 +1,11 @@
 ---
 title: GamesBond
-subtitle: 'Bimanual Haptic Illusion of Physically Connected Objects for Immersive VR Using Grip Deformation'
 description: 'GamesBond: Bimanual Haptic Illusion of Physically Connected Objects for Immersive VR Using Grip Deformation'
 year: 2021
+venue: CHI
 featured_image: /images/projects/gamesbond.jpg # width must be 1600px
 pdf_file: Ryu_Gamesbond_CHI21.pdf # put file in the directory FILESii
 doi_link: https://dl.acm.org/doi/10.1145/3411764.3445727
-featured: false
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0f3wAVNglsk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

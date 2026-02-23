@@ -1,12 +1,11 @@
 ---
 title: PreloadStep
-subtitle: 'Rendering Perceived Terrain Stiffness in VR Via Preload Variation Against Body-Weight'
 description: 'Rendering Perceived Terrain Stiffness in VR Via Preload Variation Against Body-Weight'
 year: 2023
+venue: IEEE ToH
 featured_image: /images/projects/preloadsteps.png # width must be 1600px
 pdf_file: Chang_PreloadStep_ToH23.pdf # put file in the directory FILESii
 doi_link: https://doi.org/10.1109/TOH.2023.3275136
-featured: false
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/khYzNJp0l3o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

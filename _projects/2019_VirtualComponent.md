@@ -1,12 +1,11 @@
 ---
 title: VirtualComponent
-subtitle: 'A Mixed-Reality Tool for Designing and Tuning Breadboarded Circuits'
 description: 'VirtualComponent: A Mixed-Reality Tool for Designing and Tuning Breadboarded Circuits'
 year: 2019
+venue: CHI
 featured_image: /images/projects/virtualComponent.jpg # width must be 1600px
 pdf_file: Kim_VirtualComponent_CHI19.pdf # put file in the directory FILES
 doi_link: https://doi.org/10.1145/3290605.3300407
-featured: false
 ---
 
 <!--

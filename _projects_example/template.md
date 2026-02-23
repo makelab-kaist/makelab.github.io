@@ -1,11 +1,13 @@
 ---
 title: StitchFlow
+subtitle: 'Crochet Patterns With Stitch Tracking and Process Sharing'
 description: 'StitchFlow: Enabling In-Situ Creative Explorations of Crochet Patterns With Stitch Tracking and Process Sharing'
 year: 2025
 venue: UIST
 featured_image: /images/projects/stitchflow.png # width must be 1600px
 pdf_file: Marciniak_StitchFlow_UIST25.pdf # put file in the directory FILESii
 doi_link: https://doi.org/10.1145/3746059.3747715
+featured: false
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qo6rLz8-52Y?si=I1NtBkiZ-qDv6IL6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

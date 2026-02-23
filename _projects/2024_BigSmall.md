@@ -1,12 +1,11 @@
 ---
 title: Big or Small, It’s All in Your Head
-subtitle: Visuo-Haptic Illusion of Size-Change Using Finger-Repositioning
 description: Big or Small, It’s All in Your Head - Visuo-Haptic Illusion of Size-Change Using Finger-Repositioning
 year: 2024
+venue: CHI
 featured_image: /images/projects/bigsmall.jpg # width must be 1600px
 pdf_file: Kim_BigSmall_CHI24.pdf # put file in the directory FILESii
 doi_link: https://doi.org/10.1145/3613904.3642254
-featured: false
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5d68rqD6B6k?si=In1VukJyFu6hwlxK" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

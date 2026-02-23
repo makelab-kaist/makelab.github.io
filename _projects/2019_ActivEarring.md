@@ -1,12 +1,11 @@
 ---
 title: ActivEarring
-subtitle: 'Spatiotemporal Haptic Cues on the Ears'
 description: 'ActivEarring: Spatiotemporal Haptic Cues on the Ears'
 year: 2019
+venue: IEEE ToH
 featured_image: /images/projects/activearring.jpg # width must be 1600px
 pdf_file: Lee_ActivEarring_TOH19.pdf # put file in the directory FILES
 doi_link: https://doi.org/10.1109/TOH.2019.2925799
-featured: false
 ---
 
 <!--

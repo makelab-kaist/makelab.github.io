@@ -1,12 +1,11 @@
 ---
 title: Juggling Extra Limbs
-subtitle: 'Control Strategies for Supernumerary Limbs in Virtual Reality'
 description: 'Juggling Extra Limbs: Identifying Control Strategies for Supernumerary Multi-Arms in Virtual Reality'
 year: 2025
+venue: CHI
 featured_image: /images/projects/juggling.png # width must be 1600px
 pdf_file: Zhou_Juggling_CHI25.pdf # put file in the directory FILESii
 doi_link: https://doi.org/10.1145/3706598.3713647
-featured: false
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jt7gazvjrBM?si=mTLt3QNbNOPz8Nyu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

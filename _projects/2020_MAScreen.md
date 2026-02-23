@@ -1,12 +1,11 @@
 ---
 title: MAScreen
-subtitle: 'Augmenting Speech with Visual Cues of Lip Motions, Facial Expressions, and Text Using a Wearable Display'
 description: 'MAScreen: Augmenting Speech with Visual Cues of Lip Motions, Facial Expressions, and Text Using a Wearable Display'
 year: 2020
+venue: SIGGRAPH Asia
 featured_image: /images/projects/mascreen.jpg # width must be 1600px
 pdf_file: Lee_MAScreen_SiggraphAsiaET20.pdf # put file in the directory FILES
 doi_link: https://doi.org/10.1145/3415255.3422886
-featured: false
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EapuK9xQDLI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

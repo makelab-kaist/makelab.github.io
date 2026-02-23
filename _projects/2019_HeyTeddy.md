@@ -1,12 +1,11 @@
 ---
 title: HeyTeddy
-subtitle: 'Conversational Test-Driven Development for Physical Computing'
 description: 'HeyTeddy: Conversational Test-Driven Development for Physical Computing'
 year: 2019
+venue: IMWUT
 featured_image: /images/projects/heyteddy.jpg # width must be 1600px
 pdf_file: Kim_HeyTeddy_IMWUT19.pdf # put file in the directory FILES
 doi_link: https://doi.org/10.1145/3369838
-featured: false
 ---
 
 <!--

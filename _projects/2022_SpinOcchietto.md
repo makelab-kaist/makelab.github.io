@@ -1,12 +1,11 @@
 ---
 title: SpinOcchietto
-subtitle: 'A Wearable Skin-Slip Haptic Device for Rendering Width and Motion of Gripped Objects'
 description: 'A Wearable Skin-Slip Haptic Device for Rendering Width and Motion of Objects Gripped Between the Fingertips'
 year: 2022
+venue: UIST
 featured_image: /images/projects/spinocchietto.jpg # width must be 1600px
 pdf_file: Kim_SpinOcchietto_UIST2022.pdf # put file in the directory FILESii
 doi_link: https://doi.org/10.1145/3526114.3558651
-featured: false
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cw0FhM4moUY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,12 +1,11 @@
 ---
 title: Elevate
-subtitle: 'A Walkable Pin-Array for Large Shape-Changing Terrains'
 description: 'Elevate: A Walkable Pin-Array for Large Shape-Changing Terrains'
 year: 2021
+venue: CHI
 featured_image: /images/projects/elevate.jpg # width must be 1600px
 pdf_file: Je_Elevate_CHI21.pdf # put file in the directory FILESii
 doi_link: https://doi.org/10.1145/3411764.3445454
-featured: false
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QvuVQ68uf-w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

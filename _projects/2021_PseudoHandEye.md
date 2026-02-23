@@ -1,12 +1,11 @@
 ---
 title: Pseudo Hand-Eye Interaction
-subtitle: 'Exploring Pseudo Hand-Eye Interaction on the Head-Mounted Display'
 description: 'Exploring Pseudo Hand-Eye Interaction on the Head-Mounted Display'
 year: 2021
+venue: AHs
 featured_image: /images/projects/pseudoHandEye.jpg # width must be 1600px
 pdf_file: Kim_PseudHandEye_AH21.pdf # put file in the directory FILESii
 doi_link: https://doi.org/10.1145/3458709.3458960
-featured: false
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GERshFu_36o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

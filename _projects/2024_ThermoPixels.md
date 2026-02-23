@@ -1,12 +1,11 @@
 ---
 title: ThermoPixels
-subtitle: '3D Printing Locally Activated Visual-Displays Embedded in 3D Objects'
 description: '3D Printing Locally Activated Visual-Displays Embedded in 3D Objects via Electrically Conductive and Thermochromic Materials'
 year: 2024
+venue: CHI
 featured_image: /images/projects/thermopixels.png # width must be 1600px
 pdf_file: Moon_ThermoPixels_CHI24.pdf
 doi_link: https://doi.org/10.1145/3613904.3642537
-featured: false
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UPplIn-6F6A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

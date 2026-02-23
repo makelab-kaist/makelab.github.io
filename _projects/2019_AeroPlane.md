@@ -1,12 +1,11 @@
 ---
 title: Aero-Plane
-subtitle: 'a Handheld Force-Feedback Device that Renders Weight Motion Illusion on a Virtual 2D Plane'
 description: 'Aero-Plane: a Handheld Force-Feedback Device that Renders Weight Motion Illusion on a Virtual 2D Plane'
 year: 2019
+venue: UIST
 featured_image: /images/projects/aeroplane.jpg # width must be 1600px
 pdf_file: Je_AeroPlane_UIST19.pdf # put file in the directory FILES
 doi_link: https://doi.org/10.1145/3332165.3347926
-featured: false
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-8yYRvdDKPM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

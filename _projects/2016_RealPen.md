@@ -1,11 +1,10 @@
 ---
 title: RealPen
-subtitle: 'Providing Realism in Handwriting Tasks on Touch Surfaces using Auditory-Tactile Feedback'
 year: 2016
+venue: UIST
 featured_image: /images/projects/realpen.jpg # width must be 1600px
 pdf_file: Cho_RealPen_UIST16.pdf # put file in the directory FILES
 doi_link: https://doi.org/10.1145/2984511.2984550
-featured: false
 ---
 
 <!--

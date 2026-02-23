@@ -1,11 +1,10 @@
 ---
 title: WatchMI
-subtitle: 'pressure touch, twist and pan gesture input on unmodified smartwatches'
 year: 2016
+venue: MobileHCI
 featured_image: /images/projects/watchmi.jpg # width must be 1600px
 pdf_file: Yeo_Watchmi_MHCI16.pdf # put file in the directory FILES
 doi_link: https://doi.org/10.1145/2935334.2935375
-sideMenu: false
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/74roE_cyafk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

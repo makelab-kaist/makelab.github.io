@@ -1,12 +1,11 @@
 ---
 title: 3D Printed Pyrography
-subtitle: 'Using wood filament and dynamic control of nozzle temperature for embedding shades of color in objects'
 description: '3D printed pyrography: Using wood filament and dynamic control of nozzle temperature for embedding shades of color in objects'
 year: 2024
+venue: Additive Manifacturing
 featured_image: /images/projects/3Dpyrography.png
 pdf_file: Moon_3Dpyrography_AM24.pdf # put file in the directory FILES
 doi_link: https://doi.org/10.1016/j.addma.2024.104064
-featured: false
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed//u_1KeQZzR7M?si=Gbr5llSNWh1_dWJ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

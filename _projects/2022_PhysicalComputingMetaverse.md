@@ -1,11 +1,10 @@
 ---
 title: Physical Computing Metaverse
-subtitle: 'Enabling electronics education in VR'
 description: 'Enabling electronics education in VR'
 year: 2022
+venue: KHCI
 featured_image: /images/projects/gsimeta.jpg # width must be 1600px
 pdf_file: Jo_PcompMetaverse_KHCI22.pdf # put file in the directory FILES
-featured: false
 ---
 
 <!--

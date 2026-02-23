@@ -1,12 +1,11 @@
 ---
 title: BlinkBoard
-subtitle: 'Guiding and monitoring circuit assembly for synchronous and remote physical computing education'
 description: 'BlinkBoard: Guiding and monitoring circuit assembly for synchronous and remote physical computing education'
 year: 2024
+venue: HardwareX
 featured_image: /images/projects/blinkboard.jpg # width must be 1600px
 pdf_file: Bianchi_BlinkBoard_HardwareX2024.pdf # put file in the directory FILES
 doi_link: https://doi.org/10.1016/j.ohx.2024.e00511
-featured: false
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IEO068N3r2c?si=y4U6bEn6rOgDwma2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

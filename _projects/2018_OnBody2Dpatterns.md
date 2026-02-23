@@ -1,12 +1,11 @@
 ---
 title: Designing On-Body 2D Patterns
-subtitle: "to Enhance Subsidiary Communication for Telepresence Robots"
-subtitle: "Designing On-Body 2D Patterns to Enhance Subsidiary Communication for Telepresence Robots"
+description: "Designing On-Body 2D Patterns to Enhance Subsidiary Communication for Telepresence Robots"
 year: 2018
+venue: RO-MAN
 featured_image: /images/projects/onBody2dpatterns1.jpg # width must be 1600px	
 pdf_file: Lee_RobotPattern_RO-MAN2018.pdf # put file in the directory FILES
 doi_link: https://doi.org/10.1109/ROMAN.2018.8525646
-featured: false
 ---
 
 <div class="gallery" data-columns="1">

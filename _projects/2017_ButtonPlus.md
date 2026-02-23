@@ -1,12 +1,11 @@
 ---
 title: Button+
-subtitle: 'Supporting User and Context Aware Interaction Through Shape-Changing Interfaces'
 description: 'Button+: Supporting User and Context Aware Interaction Through Shape-Changing Interfaces'
 year: 2017
+venue: TEI
 featured_image: /images/projects/buttonPlus.jpg # width must be 1600px
 pdf_file: Suh_Button+_TEI17.pdf # put file in the directory FILES
 doi_link: https://doi.org/10.1145/3024969.3024980
-featured: false
 ---
 
 <!--

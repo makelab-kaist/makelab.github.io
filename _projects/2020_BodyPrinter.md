@@ -1,12 +1,11 @@
 ---
 title: BodyPrinter
-subtitle: 'Fabricating Circuits Directly on the Skin at Arbitrary Locations Using a Wearable Compact Plotter'
 description: 'BodyPrinter: Fabricating Circuits Directly on the Skin at Arbitrary Locations Using a Wearable Compact Plotter'
 year: 2020
+venue: UIST
 featured_image: /images/projects/bodyPrinter.jpg # width must be 1600px
 pdf_file: Choi_BodyPrinter_UIST20.pdf # put file in the directory FILES
 doi_link: https://doi.org/10.1145/3379337.3415840
-featured: false
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XA9z8xhkhsQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

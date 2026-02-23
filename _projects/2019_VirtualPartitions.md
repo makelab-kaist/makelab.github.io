@@ -1,12 +1,11 @@
 ---
 title: VirtualPartitions
-subtitle: 'Partitioning Open-plan Workspaces via Augmented Reality'
 description: 'VirtualPartitions: Partitioning Open-plan Workspaces via Augmented Reality'
 year: 2019
+venue: PUC
 featured_image: /images/projects/virtualpartitions.jpg # width must be 1600px
 pdf_file: Lee_VirtualPartitions_PUC2019.pdf # put file in the directory FILES
 doi_link: https://doi.org/10.1007/s00779-019-01306-0
-featured: false
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zjvuRupMkpg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

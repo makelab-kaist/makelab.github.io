@@ -1,12 +1,11 @@
 ---
 title: Reconfigurable Interfaces
-subtitle: 'by Shape Change and Embedded Magnets'
 description: 'Reconfigurable Interfaces by Shape Change and Embedded Magnets'
 year: 2024
+venue: CHI
 featured_image: /images/projects/reconfigurable.png
 pdf_file: Deshpande_ReconfigurableInterfaces_CHI24.pdf # put file in the directory FILES
 doi_link: https://doi.org/10.1145/3613904.3642802
-featured: false
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ptwFIcZbM_w?si=_rxeI2eg6I9k8XMy" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

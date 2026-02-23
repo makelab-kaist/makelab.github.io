@@ -1,11 +1,10 @@
 ---
 title: SpeCam
-subtitle: 'sensing surface color and material with the front-facing camera of a mobile device'
 year: 2017
+venue: MobileHCI
 featured_image: /images/projects/specam.jpg # width must be 1600px
 pdf_file: Yeo_SpeCam_MHCI17.pdf # put file in the directory FILES
 doi_link: https://doi.org/10.1145/3098279.3098541
-featured: false
 ---
 
 <!--

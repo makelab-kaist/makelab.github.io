@@ -1,12 +1,11 @@
 ---
 title: SpinOcchio
-subtitle: 'Understanding Haptic-Visual Congruency of Skin-Slip in VR with a Dynamic Grip Controller'
 description: 'Understanding Haptic-Visual Congruency of Skin-Slip in VR with a Dynamic Grip Controller'
 year: 2022
+venue: CHI
 featured_image: /images/projects/spinocchio.png # width must be 1600px
 pdf_file: Kim_SpinOcchio_CHI22.pdf # put file in the directory FILESii
 doi_link: https://doi.org/10.1145/3491102.3517724
-featured: false
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yZHIUnK6DFY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

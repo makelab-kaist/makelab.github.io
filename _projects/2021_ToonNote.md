@@ -1,12 +1,11 @@
 ---
 title: ToonNote
-subtitle: 'Improving Communication in Computational Notebooks Using Interactive Data Comics'
 description: 'ToonNote: Improving Communication in Computational Notebooks Using Interactive Data Comics'
 year: 2021
+venue: CHI
 featured_image: /images/projects/toonnote.jpg # width must be 1600px
 pdf_file: Kang_ToonNote_CHI21.pdf # put file in the directory FILESii
 doi_link: https://doi.org/10.1145/3411764.3445434
-featured: false
 ---
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/vWRRjfUocuw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->

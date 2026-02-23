@@ -1,12 +1,11 @@
 ---
 title: ShrinkCells
-subtitle: 'Localized and Sequential Shape-Changing Actuation of 3D-Printed Objects via Selective Heating'
 description: 'ShrinkCells: Localized and Sequential Shape-Changing Actuation of 3D-Printed Objects via Selective Heating'
 year: 2022
+venue: UIST
 featured_image: /images/projects/shrinkcells.png # width must be 1600px
 pdf_file: Moon_ShrinkCells_UIST22.pdf
 doi_link: https://doi.org/10.1145/3526113.3545670
-featured: false
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ClXQZmgX3Yo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
