@@ -76,7 +76,7 @@ Current research topics are related to **novel tools for electronics**, **digita
 
 ### Master
 
-[Jee Youn Kim](https://missingscreuu.com) (2025), [Zofia Marciniak](https://zosia-hci.github.io) (2025, Samsung Electronics), [Jiwon Kim](https://quazycrystal.github.io) (2025), Jaeseong Yi (2024), [Haeun Lee](https://leehaeun.com) (2024), [Wooje Chang](https://scholar.google.com/citations?user=vYvAwQYAAAAJ&hl=en) (2023, Ph.D. student at University of Maryland), [Hye-Young Jo](https://www.hyeyoungjo.com) (2022, Ph.D. student at University of Colorado, Boulder), [Neung Ryu](http://www.neungryu.com) (2021, NAVER), [Daye Kang](https://www.dayekang.info) (2021, Ph.D. student at Cornell University), Hyein Lee (2020), Youngkyung Choi (2020), Okyu Choi (2019), Minkyeong Lee (2019).
+[Jee Youn Kim](https://missingscreuu.com) (2025), [Zofia Marciniak](https://zosia-hci.github.io) (2025, Samsung Electronics), [Jiwon Kim](https://quazycrystal.github.io) (2025), Jaeseong Yi (2024), [Haeun Lee](https://leehaeun.com) (2024), [Wooje Chang](https://scholar.google.com/citations?user=vYvAwQYAAAAJ&hl=en) (2023, Ph.D. student at University of Maryland), [Hye-Young Jo](https://www.hyeyoungjo.com) (2022, Ph.D. student at University of Colorado, Boulder), [Neung Ryu](http://www.neungryu.com) (2021, NAVER), [Daye Kang](https://www.dayekang.info) (2021, Ph.D. student at Cornell University), [Myung Jin Kim](https://sites.google.com/view/kimmj/home) (2021, Ph.D. at KAIST _make::lab_)., Hyein Lee (2020), Youngkyung Choi (2020), Minkyeong Lee (2019), Okyu Choi (2019), [Seungwoo Je](https://www.immersivedesignresearch.com/seungwoo) (2018, Ph.D. at KAIST _make::lab_).
 
 ### Interns and Other Alumni
 
@@ -84,7 +84,7 @@ Current research topics are related to **novel tools for electronics**, **digita
 
 ### Visitors
 
-[Sylvain Malacria](https://www.malacria.com) (2025, INRIA, France), [Shana Smith](https://asmejcise.org/editors/shana-smith-ph-d) (2025, National Taiwan University), [Anusha Withana](https://withanage.info) (2024, The University of Sydney), [Atul Chaudhary](mailto:atul.aaytee@gmail.com) (2025, University of Copenhagen), [Nihar Sabnis](https://scholar.google.com/citations?user=1FU5pTAAAAAJ&hl=en) (2024, Max Planck, Germany), [Takuya Takahashi](https://takuya-13068.github.io/portfolio) (2022, Tokyo Institute of Technology, Japan), [Laurenz Seidel](https://www.laurenzseidel.com) (2021, HPI, Germany). 
+[Sylvain Malacria](https://www.malacria.com) (2025, INRIA, France), [Shana Smith](https://asmejcise.org/editors/shana-smith-ph-d) (2025, National Taiwan University), [Anusha Withana](https://withanage.info) (2024, The University of Sydney), [Atul Chaudhary](mailto:atul.aaytee@gmail.com) (2025, University of Copenhagen), [Nihar Sabnis](https://scholar.google.com/citations?user=1FU5pTAAAAAJ&hl=en) (2024, Max Planck, Germany), [Chris Bannon](https://www.linkedin.com/in/cbannon/) (2024, UC Berkeley), [Takuya Takahashi](https://takuya-13068.github.io/portfolio) (2022, Tokyo Institute of Technology, Japan), [Laurenz Seidel](https://www.laurenzseidel.com) (2021, HPI, Germany), [Tram Tran](https://tramtranx.com) (2019, The University of Sydney). 
 
 ### Frequent Collaborators
 

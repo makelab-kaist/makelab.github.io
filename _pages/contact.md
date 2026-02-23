@@ -1,11 +1,7 @@
 ---
 title: Contact
-subtitle: Drop us a line for questions or suggestions.
+# subtitle: Drop us a line for questions or suggestions.
 description: Contact Make Lab
----
-
-{% include contact-form.html %}
-
 ---
 
 KAIST is located in the beautiful city of [Daejeon](https://en.wikipedia.org/wiki/Daejeon), easily accessible from Seoul or the Incheon Airport by public transportation.
@@ -36,4 +32,12 @@ KAIST is located in the beautiful city of [Daejeon](https://en.wikipedia.org/wik
 
 ### About KAIST
 
-[KAIST](https://en.wikipedia.org/wiki/KAIST) (formally the Korea Advanced Institute of Science and Technology) is a national research university located in Daejeon, South Korea, currently ranked **top #53** in the world according to the [QS ranking 2025](https://www.topuniversities.com/world-university-rankings).
+[KAIST](https://en.wikipedia.org/wiki/KAIST) (formally known as _Korea Advanced Institute of Science and Technology_) is a national research university located in Daejeon, South Korea, currently ranked **top #53** in the world according to the [QS ranking](https://www.topuniversities.com/universities/kaist-korea-advanced-institute-science-technology).
+
+---
+
+### Reach out
+
+Drop us a line for questions or suggestions.
+
+{% include contact-form.html %}
