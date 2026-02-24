@@ -11,12 +11,12 @@ menu_settings:
   menu_items:
     - title: 'Projects'
       url: '/'
-    - title: 'Publications'
-      url: '/publications'
     - title: 'The lab'
       url: '/about'
     - subtitle: 'Meet the Director'
       url: '/andrea'
+    - title: 'Awards & Publications'
+      url: '/publications'
     # - title: 'Open-source'
     #   url: '/opensource'
     # - title: 'Sponsors'
@@ -164,10 +164,10 @@ font_settings:
     letter_spacing: 0
     line_height: 1.6
   blockquote:
-    small_size: 25
-    medium_size: 35
-    large_size: 45
-    weight: 300
+    small_size: 14
+    medium_size: 15
+    large_size: 17
+    weight: 100
     letter_spacing: -0.02
     line_height: 1.6
   buttons:
