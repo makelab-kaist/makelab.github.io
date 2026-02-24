@@ -255,22 +255,48 @@ For papers published _before 2016_ please refer to [Google Scholar](https://scho
 
 # Patents
 
-Andrea Bianchi, Myung Jin Kim, Wooje Chang, Michel Pahud, Mike Sinclair. **Virtual Reality Haptic Controller based on Pivoting Spinning Discs and Virtual Reality System comprising the same**. (Filed No. 10-2023-0053061, Korea Patent), _Patent Pending_.
+Andrea Bianchi, Zofia Marciniak. **Pattern Generation Apparatus and Method Based on Stitch Motion Sensing**. (No. 10-2025-0174501, South Korea) 2025.11.18. _Pending_.
 
-Andrea Bianchi, Yoonji Kim, Youngkyung Choi, Daye Kang, Minkyeong Lee, Tek-Jin Nam. **Method, computer program and system for controlling and programming hardware by using a conversational interface (대화를 통하여 하드웨어의 제어 및 프로그래밍을 수행하는 물리적 컴퓨팅 방법, 컴퓨터 프로그램 및 시스템 국내)**. (No. 10-2437242-0000, Korea Patent), 2022-08-24, _ISSUED_.
+Andrea Bianchi, 유능, 이우진, 김명진. **Apparatus and method for rendering dynamic haptic response of flexible object / 안드리아, 유능, 이우진, 김명진**. (No. 202180094928.9, China) 2023.08.30. _Pending_.
 
-Andrea Bianchi, Youngkyung Choi, Myung Jin Kim, Artem Dementyev. **Method and apparatus for printing electrical circuit directly on target surface having 3-dimensional shape, 3D printer used for the same and electical device having electrical circuit printed by the same** (Filed No. 10-2021-0006204, Korea Patent), _Patent Pending_.
+Andrea Bianchi, Neung Ryu, Woo Jin Lee, Myung Jin Kim. **Apparatus and method for rendering dynamic haptic response of flexible object / Bianchi, Andrea, Ryu, Neung, Lee, Woo Jin, Kim, Myung Jin**. (No. 12067169, United States) 2024.08.20. _Issued_.
 
-Andrea Bianchi, Neung Ryu, Woojin Lee, Myung Jin Kim. **Apparatus and method for rendering dynamic haptic response of flexible object** (Filed No. 10-2020-0189658, Korea Patent), _Patent Pending_.
+Andrea Bianchi, 문공평, 이하은, 김지은. **Actuator Manufactured By 3D Printing Technology Using Shape Memory Filament And Conductive Filament, And Fuse And Fuse Module Using The Actuator**. (No. 10-2023-0076135, South Korea) 2023.06.14. _Pending_.
 
-Seungwoo Je, Andrea Bianchi, Minkyeong Lee, Yoonji Kim, Liwei Chan, Xing-Dong Yang. **Ring-shaped wearable apparatus for transferring information through poke and method for controlling the same** (No. 10-2035474, Korea Patent), 2019.10.17, _ISSUED_.
+Andrea Bianchi, Michel Pahud, Mike Sinclair, 김명진, 유능, 장우제. **Virtual Reality Haptic Controller based on Pivoting Spinning Discs and Virtual Reality System comprising the same**. (No. 10-2023-0053061, South Korea) 2023.04.24. _Pending_.
 
-Andrea Bianchi , Seungwoo Je. **Vibration generating device wearable on finger and method performing operation corresponding to vibration information** (No. 10-1970534, Korea Patent) 2019.04.15, _ISSUED_.
+Andrea Bianchi, 유능, 최영경, 김명진, Artem Dementyev. **Method and apparatus for printing electrical circuit directly on target surface having 3-dimensional shape, 3D printer used for the same and electrical device having electrical circuit printed by the same**. (No. 12260162, United States) 2022.01.17. _Pending_.
 
-Andrea Bianchi, Minkyeong Lee, Seungwoo Je, Woojin Lee, Daniel Ashbrook. **Ear-mounted vibrational wearable apparatus and method for controlling motion thereof** (Filed No. 10-2019-0137884, Korea Patent), _Patent Pending_.
+Andrea Bianchi, 유능, 이우진, 김명진. **Apparatus and method for rendering dynamic haptic response of flexible object**. (No. PCT/KR2021/005128, South Korea) 2021.04.22. _Pending_.
 
-Seungwoo Je, Andrea Bianchi, Young Min Jo, Junkyu Kim, Duck-Joo Lee. **Kinesthetic-feedback wearable apparatus for virtual reality or augmented reality and method for controlling the same** (Filed No. US20190321724A1 US Patent), _Patent Pending_.
+Andrea Bianchi, 유능, 이우진, 김명진. **Apparatus and method for rendering dynamic haptic response of flexible object**. (No. 10-2637690-0000, South Korea) 2024.02.13. _Issued_.
 
-Seungwoo Je, Andrea Bianchi, Brendan Rooney, Liwei Chan. **Wearable apparatus having ring shape and method for controlling motion thereof** (No. 10-1863183, Korea Patent) 2018.05.25, _ISSUED_.
+Andrea Bianchi, 유능, 최영경, 김명진, Artem Dementyev. **Method and apparatus for printing electrical circuit directly on target surface having 3-dimensional shape, 3D printer used for the same and electical device having electrical circuit printed by the same**. (No. 10-2472806-0000, South Korea) 2022.11.28. _Issued_.
 
-Seungwoo Je, Andrea Bianchi, Young Min Jo, Junkyu Kim, Duck-Joo Lee. **Kinesthetic-feedback wearable apparatus for virtual reality or augmented reality and method for controlling the same** (Filed No. 10-2018-0046244, Korea Patent), _Patent Pending_.
+Andrea Bianchi, 유능, 이우진, 김명진. **Apparatus and method for rendering dynamic haptic response of flexible object**. (No. 10-2020-0189658, South Korea) 2020.12.31. _Pending_.
+
+Andrea Bianchi, 김윤지, 최영경, 강다예, 이민경, 남택진. **Method, computer program and system for controlling and programming hardware by using a conversational interface**. (No. 10-2437242-0000, South Korea) 2022.08.24. _Issued_.
+
+Andrea Bianchi, 이민경, 제승우, 이우진, 다니엘 애쉬브룩. **Ear-mounted vibrational wearable apparatus and method for controlling motion thereof**. (No. 10-2267221-0000, South Korea) 2021.06.15. _Issued_.
+
+Andrea Bianchi, 김윤지, 최영경, 이혜인, 이기혁. **Method and apparatus for designing and tuning breadboard circuits by using mixed-reality**. (No. 10-2193880-0000, South Korea) 2020.12.16. _Issued_.
+
+Andrea Bianchi, Duck-Joo Lee, Young Min Jo, Seungwoo Je, Junkyu Kim. **Kinesthetic-feedback wearable apparatus for virtual reality and augmented reality and method for controlling the same / Bianchi, Andrea, Lee, Duck-Joo, Jo, Young Min, Je, Seungwoo, Kim, Junkyu**. (No. 10960303, United States) 2021.03.30. _Issued_.
+
+Andrea Bianchi, 이덕주, 조영민, 제승우, 김준규. **Kinesthetic-feedback wearable apparatus for virtual reality or augmented reality and method for controlling the same**. (No. 10-2019-0025771, South Korea) 2019.03.06. _Pending_.
+
+Andrea Bianchi, 이덕주, 조영민, 제승우, 김준규. **Kinesthetic-feedback wearable apparatus for virtual reality or augmented reality and method for controlling the same**. (No. 10-2018-0046244, South Korea) 2018.04.20. _Pending_.
+
+Andrea Bianchi, 제승우, 김윤지, 이민경, 리웨이 찬, 양 씽동. **Ring-shaped wearable apparatus for transferring information through poke and method for controlling the same**. (No. 10-2035474-0000, South Korea) 2019.10.17. _Issued_.
+
+Andrea Bianchi, 제승우. **Vibration generating device wearable on finger and method performing operation corresponding to vibration information**. (No. 10-1970534-0000, South Korea) 2019.04.15. _Issued_.
+
+Andrea Bianchi, 제승우, 브렌든 루니, Liwei Chan. **Wearable Apparatus Having Ring Shape And Method For Controlling Motion Thereof**. (No. 10-1863183-0000, South Korea) 2018.05.25. _Issued_.
+
+황성재, Ian Oakley, Andrea Bianchi. **Method and apparatus for sensing object using magnetic field**. (No. 10-1381568-0000, South Korea) 2014.03.31. _Issued_.
+
+Andrea Bianchi, Ian Oakley. **Authentication Method, device and system using biometrics and recording medium for the same**. (No. 10-1219957-0000, South Korea) 2013.01.02. _Issued_.
+
+Andrea Bianchi, Ian Oakley. **Method and device for inputting password and recording medium for the same**. (No. 10-1228809-0000, South Korea) 2013.01.25. _Issued_.
+
+Andrea Bianchi. **An input, receiving device for message input using mobile device, and input method for passcode using the same**. (No. 10-1229583-0000, South Korea) 2013.01.29. _Issued_.
