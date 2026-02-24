@@ -31,4 +31,6 @@ Reconfigurable physical interfaces allow users to quickly customize them to meet
 
 <!-- DO NOT CHANGE MANUALLY -->
 
+---
+
 <a href="/index.html" class="button button--large">Back to projects</a>

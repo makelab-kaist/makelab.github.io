@@ -30,13 +30,13 @@ Andrea Bianchi, Zhi Lin Yap, Punn Lertjaturaphat, Austin Z. Henley, Kongpyung Ju
 <!-- Abstract -->
 The development of user-friendly embedded prototyping systems like Arduino has made creating interactive devices more accessible. However, debugging these systems is challenging due to the intertwined nature of software and hardware issues. Existing tools often require hardware instrumentation or log visualization through serial monitors. To address this, the authors designed Inline, a programming tool that simplifies debugging by displaying hardware logs directly within the code, providing real-time execution flow tracking and an expression language for log manipulation. A study with twelve users demonstrated the tool's effectiveness in aiding debugging tasks.
 
----
-
 ### Additional Material 
 
 - <a href="https://github.com/makelab-kaist/inline-extension" target="_blank" style="display:inline-flex;align-items:center;"><i class="fa-brands fa-github" style="font-size:20px;margin-right:6px;vertical-align:middle;"></i>GitHub</a>
 - <a href="{{ site.url }}/files/various/Inline_slides.pdf" target="_blank" style="display:inline-flex;align-items:center;"><i class="fa-solid fa-file-powerpoint" style="font-size:20px;margin-right:6px;vertical-align:middle;"></i>Slides</a>
 
 <!-- DO NOT CHANGE MANUALLY -->
+
+---
 
 <a href="/index.html" class="button button--large">Back to projects</a>

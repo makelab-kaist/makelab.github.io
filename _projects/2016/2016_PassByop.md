@@ -30,6 +30,8 @@ Andrea Bianchi, Ian Oakley, and Hyoungshick Kim. 2016. <strong>PassBYOP: Bring Y
 <!-- Abstract -->
 PassBYOP is a graphical password system for public terminals that uses personalized physical tokens, like digital pictures on a user's mobile device, instead of static images. Users authenticate by showing these images to a system camera and selecting password elements on live video. The system verifies passwords by extracting distinctive optical features. Studies showed PassBYOP is reliable, requiring at least seven features and 40% geometric matching; usable, with 7.5-second completion times and 9% error rates; and secure, resisting observation attacks such as shoulder surfing and malware. Overall, PassBYOP provides strong security while maintaining usability comparable to existing graphical password systems.
 
+<!-- DO NOT CHANGE MANUALLY -->
+
 ---
 
 <a href="/index.html" class="button button--large">Back to projects</a>

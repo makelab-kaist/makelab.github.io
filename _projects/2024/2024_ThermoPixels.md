@@ -29,12 +29,12 @@ Kongpyung (Justin) Moon, Zofia Marciniak, Ryo Suzuki, and Andrea Bianchi. 2024. 
 <!-- Abstract -->
 3D printed displays have the potential to create unique visual interfaces for physical objects, but current methods either require specialized post-processing or are limited to passive color changes triggered by environmental factors. This paper presents ThermoPixels, a method for designing and 3D printing actively controlled, visually rich thermochromic displays embedded in arbitrary shapes. By studying the color-changing and thermal properties of thermochromic and conductive filaments, the authors developed ThermoPixels and a software tool that enables embedding these displays in various 3D geometries, including flat, curved, textured, multicolored, or flexible forms.
 
----
-
 ### Additional Material 
 
 - <a href="https://github.com/makelab-kaist/ThermoPixels" target="_blank" style="display:inline-flex;align-items:center;"><i class="fa-brands fa-github" style="font-size:20px;margin-right:6px;vertical-align:middle;"></i>GitHub</a>
 
 <!-- DO NOT CHANGE MANUALLY -->
+
+---
 
 <a href="/index.html" class="button button--large">Back to projects</a>

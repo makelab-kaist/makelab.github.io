@@ -49,6 +49,8 @@ Hui-Shyong Yeo, Juyoung Lee, Andrea Bianchi, and Aaron Quigley. 2016. <strong>Si
   <a href="https://doi.org/10.1145/2984751.2984763" target="_blank" class="link-btn">DOI Link</a>
 </div>
 
+<!-- DO NOT CHANGE MANUALLY -->
+
 ---
 
 <a href="/index.html" class="button button--large">Back to projects</a>

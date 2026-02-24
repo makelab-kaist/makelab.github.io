@@ -29,6 +29,8 @@ Wooje Chang, Seungwoo Je, Michel Pahud, Mike Sinclair, and Andrea Bianchi. <stro
 <!-- Abstract -->
 PreloadStep is an innovative platform that simulates walking on various virtual terrains without special equipment. It uses spring compression between two plates to create the sensation of different stiffness levels, applying preload forces up to 824 N to alter terrain perception dynamically. Tested through perception studies and an application example, PreloadStep shows promise for enhancing virtual terrain experiences.
 
+<!-- DO NOT CHANGE MANUALLY -->
+
 ---
 
 <a href="/index.html" class="button button--large">Back to projects</a>

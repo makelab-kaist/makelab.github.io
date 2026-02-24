@@ -29,6 +29,8 @@ Youngjun Cho, Andrea Bianchi, Nicolai Marquardt, and Nadia Bianchi-Berthouze. 20
 <!-- Abstract -->
 We present RealPen, an augmented stylus for capacitive tablet screens that simulates the physical sensation of writing on paper with various traditional pens. It enhances the writing experience on touch surfaces by reproducing the friction-induced vibrations and sounds of real writing tools. Our algorithm analyzes the frequency spectrum of these friction oscillations, extracts key frequencies, and adjusts them based on the actuator's response to generate realistic tactile feedback. Sound feedback is also synchronized with writing pressure and speed to increase realism. Additionally, we studied how combining multiple frequencies affects tactile perception, evaluated RealPen's performance, and assessed user preferences for different feedback types.
 
+<!-- DO NOT CHANGE MANUALLY -->
+
 ---
 
 <a href="/index.html" class="button button--large">Back to projects</a>

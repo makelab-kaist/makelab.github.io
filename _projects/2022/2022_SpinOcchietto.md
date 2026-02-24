@@ -29,6 +29,8 @@ Myung Jin Kim and Andrea Bianchi. 2022. <strong>SpinOcchietto: A Wearable Skin-S
 <!-- Abstract -->
 Various haptic feedback techniques for hand interactions in virtual environments have been explored, but skin-slip feedback remains underdeveloped. Existing devices are bulky and unsuitable for multi-finger or bimanual use. To address this, SpinOcchietto, a wearable skin-slip haptic device with spinning discs, was developed to simulate virtual objects slipping between the thumb and index finger. It is a miniaturized, lighter version of the 6-DoF handheld SpinOcchio, accommodating different hand sizes and allowing free movement of the rest of the hand. Users can perceive slip speed and adjust grip strength to interact with virtual objects. Three demo applications showcase its capabilities.
 
+<!-- DO NOT CHANGE MANUALLY -->
+
 ---
 
 <a href="/index.html" class="button button--large">Back to projects</a>

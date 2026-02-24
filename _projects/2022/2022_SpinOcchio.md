@@ -41,6 +41,8 @@ This paper investigates the perception of haptic-visual congruency related to sk
 - <a href="https://www.dropbox.com/s/0s1kmr3o3qwsnfd/20220513_newspaper_p23.jpg?dl=0" target="_blank"><strong>움직이는 가상물체 현실처럼 쥔다</strong></a> on 전자신문 (2022.5.13)
 - <a href="https://www.youtube.com/watch?v=iJzYTWh3vG4" target="_blank"><strong>Interview with Myung Jin Kim: 결국 1위는 또 애플... 전공자가 말하는 메타버스 시장의 미래 (with 카이스트)</strong></a> on YouTube (2022.7.15)
 
+<!-- DO NOT CHANGE MANUALLY -->
+
 ---
 
 <a href="/index.html" class="button button--large">Back to projects</a>

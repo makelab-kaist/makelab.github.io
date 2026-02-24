@@ -32,4 +32,6 @@ Haptic perception of physical sizes enhances realism and immersion in Virtual Re
 
 <!-- DO NOT CHANGE MANUALLY -->
 
+---
+
 <a href="/index.html" class="button button--large">Back to projects</a>

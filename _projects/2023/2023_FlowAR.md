@@ -34,6 +34,8 @@ Online fitness video tutorials are a popular way to exercise at home without a p
 
 - <i class="fab fa-github"></i> <a href="https://github.com/hyeyoungjo/dtw-for-two-movements" target="_blank">GitHub Repository</a>
 
+<!-- DO NOT CHANGE MANUALLY -->
+
 ---
 
 <a href="/index.html" class="button button--large">Back to projects</a>

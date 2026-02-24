@@ -33,10 +33,10 @@ This paper explores how users coordinate supernumerary virtual and real arms to 
 
 <!-- Video presentation -->
 
+### Video Presentation
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/COwif96tbf0?si=R775xK0hWGOQUzdf" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- DO NOT CHANGE MANUALLY -->
-
----
 
 <a href="/index.html" class="button button--large">Back to projects</a>

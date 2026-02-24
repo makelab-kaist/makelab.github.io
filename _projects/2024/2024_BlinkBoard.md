@@ -29,8 +29,6 @@ Andrea Bianchi, Kongpyung Justin Moon, Artem Dementyev, Seungwoo Je. 2024. <stro
 <!-- Abstract -->
 _BlinkBoard_ is an augmented breadboard designed to help and monitor students assembling electronic circuits in both in-person and remote classes. It uses LEDs with four blinking patterns to guide component and wire placement and includes Input/Output pins for voltage sensing or generation. Controlled via an open JSON protocol through command line or graphical interface, it enables real-time communication between instructors and students. BlinkBoard is affordable, simple, and efficiently manages LED patterns with minimal microcontroller load. Its effectiveness was proven in workshops with high-school and undergraduate students.
 
----
-
 ### Additional Material 
 
 - <a href="https://blinkboard.kaist.ac.kr" target="_blank" style="display:inline-flex;align-items:center;"><i class="fa-solid fa-globe" style="font-size:20px;margin-right:6px;vertical-align:middle;"></i>Official BlinkBoard Website</a>
@@ -38,5 +36,7 @@ _BlinkBoard_ is an augmented breadboard designed to help and monitor students as
 - <a href="https://github.com/makinteractlab/BlinkBoardApp" target="_blank" style="display:inline-flex;align-items:center;"><i class="fa-brands fa-github" style="font-size:20px;margin-right:6px;vertical-align:middle;"></i>BlinkBoard App (GitHub)</a>
 
 <!-- DO NOT CHANGE MANUALLY -->
+
+---
 
 <a href="/index.html" class="button button--large">Back to projects</a>
