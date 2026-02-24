@@ -29,14 +29,10 @@ Myung Jin Kim, Neung Ryu, Wooje Chang, Michel Pahud, Mike Sinclair, and Andrea B
 <!-- Abstract -->
 This paper investigates the perception of haptic-visual congruency related to skin-slip on the fingertips in Virtual Reality (VR). The authors developed SpinOcchio, a handheld haptic controller that simulates the thickness and slipping of a virtual object between two fingers using spinning and pivoting disks to create tangential skin-slip movements. They established the baseline haptic discrimination threshold for skin-slip and examined how haptic realism of motion and thickness is perceived alongside varying visual cues in VR. The findings reveal that visual cues consistently dominate over haptic perception. The study suggests applications that utilize skin-slip and grip interaction to enhance realism in VR experiences.
 
----
-
-## Additional Material
 
 <!-- Additional Video -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qld0dN0p8P4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
----
 
 ## Media Coverage
 

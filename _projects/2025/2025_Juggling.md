@@ -9,10 +9,10 @@ doi_link: https://doi.org/10.1145/3706598.3713647
 ---
 
 <span class="badge">{{page.venue}} {{page.year}}</span>
-
+<span class="award-badge">🏅 Honorable Mention Award</span>
 # {{page.full-title}}
 
-🏅 _Honorable Mention Award_
+
 
 <!-- Video -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jt7gazvjrBM?si=mTLt3QNbNOPz8Nyu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -36,5 +36,7 @@ This paper explores how users coordinate supernumerary virtual and real arms to 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/COwif96tbf0?si=R775xK0hWGOQUzdf" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- DO NOT CHANGE MANUALLY -->
+
+---
 
 <a href="/index.html" class="button button--large">Back to projects</a>

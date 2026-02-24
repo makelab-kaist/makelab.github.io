@@ -29,6 +29,9 @@ Zofia Marciniak, Punn Lertjaturaphat, and Andrea Bianchi. 2025. <strong>StitchFl
 <!-- Abstract -->
 Crochet is a manual craft characterized by improvisation and creative flow, which can be disrupted by tasks like documenting patterns and tracking progress. To address this, StitchFlow was developed to help crocheters stay immersed in their work by automatically documenting the process using motion sensors to track hand gestures and stitch patterns. The system allows users to view, edit, and combine designs through a graphical interface, supporting creativity and variation. It also facilitates sharing by exporting documentation as written patterns, crochet charts, or interactive flows. User studies with eight crocheters showed that StitchFlow preserved creative flow, encouraged exploration, and made pattern sharing easier.
 
+
 <!-- DO NOT CHANGE MANUALLY -->
+
+---
 
 <a href="/index.html" class="button button--large">Back to projects</a>

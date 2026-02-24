@@ -9,10 +9,9 @@ doi_link: https://doi.org/10.1145/3660250
 ---
 
 <span class="badge">{{page.venue}} {{page.year}}</span>
+<span class="award-badge">🏅 Honorable Mention Award</span>
 
 # {{page.full-title}}
-
-🏅 _Honorable Mention Award_
 
 <!-- Video -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gAf5mNowg7A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
