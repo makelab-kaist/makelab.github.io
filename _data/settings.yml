@@ -110,8 +110,8 @@ font_settings:
     letter_spacing: -0.02
   grid_item_subtitle:
     small_size: 15
-    medium_size: 16
-    large_size: 17
+    medium_size: 17
+    large_size: 19
     weight: 300
     letter_spacing: 0
   h1:
