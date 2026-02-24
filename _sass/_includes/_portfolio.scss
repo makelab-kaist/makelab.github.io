@@ -17,7 +17,9 @@
 	position: relative;
 	padding: $grid-spacing/2;
 	float: left;
-	width: 32%;
+	width: 25%; 
+	// Change width for different number of tiling
+	// 25% => 4 per row
 }
 
 .portfolio-item__link {
