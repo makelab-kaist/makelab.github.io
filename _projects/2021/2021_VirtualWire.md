@@ -39,13 +39,12 @@ VirtualWire allows users to rapidly design and modify circuits in software and h
 
 Quantitative and qualitative user studies demonstrate that VirtualWire significantly reduces the time taken for circuit assembly (by 37%) and the number of errors made during assembly (by 53%), while also supporting users in creating readable, space-efficient, and flexible layouts.
 
----
 
-## Video Presentation
+### Video Presentation
 
-<div class="video-wrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y9QzhTt-I_s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+
+<!-- DO NOT CHANGE MANUALLY -->
 
 ---
 

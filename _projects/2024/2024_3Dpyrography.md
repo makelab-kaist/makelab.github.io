@@ -24,16 +24,14 @@ Kongpyung (Justin) Moon, Jaeseong Yi, Valkyrie Savage, and Andrea Bianchi. <stro
 <div class="link-box">
   <a href="{{ site.url }}/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank" class="link-btn">Paper PDF</a>
   <a href="{{ page.doi_link }}" target="_blank" class="link-btn">DOI Link</a>
+  <a href="https://github.com/makelab-kaist/3DPyrography" target="_blank" class="link-btn">
+    <i class="fab fa-github"></i> GitHub
+  </a>
 </div>
 
 <!-- Abstract -->
 This paper introduces a 3D printing technique called 3D printed pyrography, which produces multiple shades and gradients using wood filament and a single-nozzle extruder without requiring additional costly or complex hardware. The study examines how printing temperature and speed affect the color of wood filament, using perceptual metrics in CIELAB color space to quantify color differences. Results show that varying temperatures produce at least sixteen distinct, perceivable colors. A custom software interface was developed to allow users to specify shades or map images onto 3D surfaces by modulating nozzle temperature through generated G-code. The technique is demonstrated in 11 applications, enhancing aesthetics, providing visual guidance, and embedding markers to integrate digital information with physical objects.
 
-### Additional Material 
-
-- <a href="https://github.com/makelab-kaist/3DPyrography" target="_blank" style="display:inline-flex;align-items:center;"><i class="fa-brands fa-github" style="font-size:20px;margin-right:6px;vertical-align:middle;"></i>GitHub</a>
-
-<!-- DO NOT CHANGE MANUALLY -->
 
 ---
 
