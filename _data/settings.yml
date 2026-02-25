@@ -13,7 +13,7 @@ menu_settings:
       url: '/'
     - title: 'The lab'
       url: '/about'
-    - subtitle: 'Meet the Director'
+    - title: 'Meet the Director'
       url: '/andrea'
     - title: 'Awards & Publications'
       url: '/publications'
@@ -98,8 +98,8 @@ font_settings:
     line_height: 1.5
   menu:
     small_size: 30
-    medium_size: 15
-    large_size: 16
+    medium_size: 25
+    large_size: 25
     weight: 500
     letter_spacing: 0
   grid_item_title:
