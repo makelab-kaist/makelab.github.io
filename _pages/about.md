@@ -21,9 +21,16 @@ Current research topics are related to **novel tools for electronics**, **digita
     <div class="row peopleContainer">
         <div class="col-lg-3 col-md-3 col-sm-3 text-center people">
             <div class="service-box">
-                <img src="/images/people/{{ prof.name | append: '_' | append: prof.lastname | append: '.jpg' | downcase  }}"
-                    alt="{{prof.name}}" class="rounded-circle profImage">
-                <h5>{{prof.name}}<br>{{prof.lastname}}</h5>
+                {% if prof.homepage %}
+                <a href="{{ prof.homepage }}">
+                    <img src="/images/people/{{ prof.name | append: '_' | append: prof.lastname | append: '.jpg' | downcase  }}"
+                        alt="{{prof.name}}" class="rounded-circle profImage">
+                </a>
+                {% else %}
+                    <img src="/images/people/{{ prof.name | append: '_' | append: prof.lastname | append: '.jpg' | downcase  }}"
+                        alt="{{prof.name}}" class="rounded-circle profImage">
+                {% endif %}
+                <h6>{{prof.name}}<br>{{prof.lastname}}</h6>
                 <b>{{prof.position}}<br>Director</b>
                 <div class="icons">
                     {% if prof.homepage %}<a href="{{prof.homepage}}"><i class="fas fa-home" aria-hidden="true"></i></a>

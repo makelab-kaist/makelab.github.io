@@ -2,8 +2,15 @@
 
 <div class="col-lg-2 col-md-2 col-sm-3 text-center people">
   <div class="service-box">
+    {% if person.homepage %}
+    <a href="{{ person.homepage }}">
+      <img src="/images/people/{{ person.name | append: '_' | append: person.lastname | append: '.jpg' | downcase  }}"
+        alt="{{person.name}}" class="rounded-circle {% if person.status == 'alumni' %} alumni-greyscale {% endif %}" />
+    </a>
+    {% else %}
     <img src="/images/people/{{ person.name | append: '_' | append: person.lastname | append: '.jpg' | downcase  }}"
       alt="{{person.name}}" class="rounded-circle {% if person.status == 'alumni' %} alumni-greyscale {% endif %}" />
+    {% endif %}
     <h6>{{person.name}}<br />{{person.lastname}}</h6>
     <b>{{person.position}}</b>
     <div class="icons">

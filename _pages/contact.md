@@ -7,8 +7,7 @@ description: Contact Make Lab
 KAIST is located in the beautiful city of [Daejeon](https://en.wikipedia.org/wiki/Daejeon), easily accessible from Seoul and Incheon Airport by public transportation.
 
 <div id='map'>
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11192.717450003694!2d127.34227777889993!3d36.36454632557823!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x16ce22b81107060f!2sIndustrial+Design+Department%2C+N25+Building%2C+KAIST!5e0!3m2!1sen!2skr!4v1546933730677"
-        width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3212.469408429709!2d127.35945667646084!3d36.37362897237185!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35654b9d3cc2eb75%3A0x749d643151f1f439!2smake%20lab!5e0!3m2!1sen!2skr!4v1772108195806!5m2!1sen!2skr" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
 <div class="container" id="directions">
