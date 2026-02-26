@@ -27,12 +27,17 @@ video: gAf5mNowg7A
 <!-- Abstract -->
 The development of user-friendly embedded prototyping systems like Arduino has made creating interactive devices more accessible. However, debugging these systems is challenging due to the intertwined nature of software and hardware issues. Existing tools often require hardware instrumentation or log visualization through serial monitors. To address this, the authors designed Inline, a programming tool that simplifies debugging by displaying hardware logs directly within the code, providing real-time execution flow tracking and an expression language for log manipulation. A study with twelve users demonstrated the tool's effectiveness in aiding debugging tasks.
 
-{% include bibtex.html %}
-
-
-
-<!-- DO NOT CHANGE MANUALLY -->
-
 ---
 
-<a href="/index.html" class="button button--large">Back to projects</a>
+<!-- BibTex -->
+{% capture paper_bibtex %}
+@inproceedings{Bianchi2026,
+  title={Wire Your Way},
+  author={Andrea Bianchi and Zhi Lin Yap and Punn Lertjaturaphat},
+  booktitle={CHI},
+  year={2026}
+}
+{% endcapture %}
+{% include bibtex.html bibtex=paper_bibtex %}
+
+

@@ -250,6 +250,13 @@ blockquote {
   color: $text-dark-color !important;
 }
 
+/* Reduce top spacing for the BibTeX section and add a small bottom margin */
+#BibTeX {
+  margin-top: 0 !important;
+  padding-top: 0.25rem !important;
+  margin-bottom: 1rem !important;
+}
+
 .copy-bibtex-btn {
   display: inline-flex;
   align-items: center;

@@ -13,7 +13,7 @@ menu_settings:
       url: '/'
     - title: 'The lab'
       url: '/about'
-    - title: 'Meet the Director'
+    - title: 'Meet the director'
       url: '/andrea'
     - title: 'Awards & Publications'
       url: '/publications'
