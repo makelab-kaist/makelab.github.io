@@ -57,6 +57,12 @@ subtitle: Associate Professor - Lab director
         line-height: 1.5 !important;
     }
 
+    @media (max-width: 700px) {
+        .large-quote {
+            font-size: 1.02em !important; /* slightly smaller on small screens */
+        }
+    }
+
 </style>
 </head>
 
