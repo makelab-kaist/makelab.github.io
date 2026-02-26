@@ -142,11 +142,19 @@ blockquote {
 
 .people {
   margin-bottom: 50px;
-  display: block;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+/* Ensure each column aligns to the top of the row so images line up */
+.people {
+  align-self: flex-start;
 }
 
 .people img {
-  margin: auto;
+  margin: 0 auto 8px auto;
 }
 
 .profImage {
