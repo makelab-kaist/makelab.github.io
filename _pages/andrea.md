@@ -39,34 +39,40 @@ subtitle: Associate Professor - Lab director
         justify-content: center;
     }
 
-    /*
-    span.profile {
-        display:flex;
-        flex-direction: row-reverse;
+    /* Page-specific blockquote styling: remove gradient and enlarge text */
+    .no-gradient {
+        background: none !important;
+        border-left: 6px solid #EE2A7C !important;
+        box-shadow: none !important;
+        padding: 12px 16px !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+        color: #111827 !important;
+        font-size: 1.15em !important;
+        line-height: 1.5 !important;
     }
 
-    span img {
-        margin-left: 5%;
-        height: 100%;
+    .large-quote {
+        font-size: 1.15em !important;
+        line-height: 1.5 !important;
     }
-    */
 
 </style>
 </head>
 
-<span class="profile"> 
-My name is Andrea Bianchi (Korean: 안두리), and I am an Associate Professor (tenured) in the [Department of Industrial Design](https://id.kaist.ac.kr) at [KAIST](https://id.kaist.ac.kr), and the director of the **Make Lab**. I research in the field of Human-Computer Interaction (_HCI_). I currently serve as Paper Co-Chair for UIST 2025 and Subcommittee Chair at CHI 2025 and 2026 (Blending Interaction: Engineering Interactive Systems & Tools).
-</span>
+
+My name is Andrea Bianchi (Korean: 안두리), and I am a tenured Associate Professor in the [Department of Industrial Design](https://id.kaist.ac.kr) at [KAIST](https://www.kaist.ac.kr) in South Korea, where I also serve as the director of the *Make Lab*. I hold a joint appointment in the [School of Computing](https://cs.kaist.ac.kr/people/facultyInteractiveComputing). Prior to joining KAIST, I was an Assistant Professor of Computer Science at [Sungkyunkwan University](http://www.skku.edu/eng/index.do) (Korea) and worked as a video game programmer for a New York [startup](https://www.crunchbase.com/organization/rebelmonkey).  
+
+I received my [Ph.D. from KAIST](https://ct.kaist.ac.kr/main.php?lang=1) 🇰🇷 in 2012, an MS in Computer Science from [New York University (NYU)](http://www.nyu.edu) 🇺🇸, and a Laurea (BSc+MS) in Business Administration from [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home) 🇮🇹.
+
+I served as **Paper Co-Chair** at [UIST 2025](https://uist.acm.org/2025) and **Subcommittee Chair** at [CHI 2025](https://chi2025.acm.org) and [CHI 2026](https://chi2026.acm.org) for the "Blending Interaction: Engineering Interactive Systems & Tools" subcommittee. I am also an **associate editor** for the [IEEE Transactions on Haptics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4543165). I have served as a committee member and held organizational roles for numerous venues, including CHI, DIS, TEI, IEEE World Haptics, SIGGRAPH E-Tech, Eurohaptics, IMWUT, and MobileHCI.
+
+I have an [Erdős number](https://en.wikipedia.org/wiki/Erdős_number) of 3 and collect [eyeglasses](https://www.dropbox.com/scl/fi/gqnzkks4o9whyvgar3tth/glasses.pdf?rlkey=qcpytc9f10otdj135vbwahrl9&dl=0).
+
+<blockquote class="no-gradient large-quote">For a complete list of my publications, patents, services, awards, and talks, etc... please visit my 👉 <a href="http://andrea.kaist.id"><em>personal page</em></a> 👈.</blockquote>
 
 <img src="/images/people/andreaHD.jpg" alt="{{prof.name}}" class="profileImage"/>
 
-I am interested in the process of _making_ as a means to creative explorations, problem framing, and knowledge construction. I devise systems to support creative making by blending physical experiences (artifacts, materials, and embodiment) and computational interaction. My lab work has been recognized with 9+ Best Paper and Honorable Mention Awards at the premiere HCI venues.
-
-<!-- The focus of my work is to _design tools for computationally augmented physical interaction_. In practice, I investigate how physical experiences can be augmented with digital artifacts, and how physical materials -including the human body- can be used as computational elements to expend the design space of computer-enabled interactions with the physical world. The physical interfaces resulting from this vision are **tangible UIs**, **mechatronics devices** for interacting with digital content, **toolkits for fabrication and electronics**, and **wearable devices**. My lab work has been recognized with 9+ Best Paper and Honorable Mention Awards at the premiere HCI venues. -->
-
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/U54PDYC_d4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-
-Before joining KAIST, I worked at [Sungkyunkwan University](http://www.skku.edu/eng/index.do) (Korea) as a faculty member in the Department of Computer Science, and as a video game programmer for a New York [startup](https://www.crunchbase.com/organization/rebelmonkey). I received a [Ph.D. from KAIST](https://ct.kaist.ac.kr/main.php?lang=1) (Korea) in 2012, an MS in Computer Science from [NYU](http://www.nyu.edu) (USA), and a Laurea (BSc+MS) in business administration from [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home) (Italy). I have an [Erdős number](https://en.wikipedia.org/wiki/Erdős_number) of 3 and collects [eyeglasses](https://www.dropbox.com/scl/fi/gqnzkks4o9whyvgar3tth/glasses.pdf?rlkey=qcpytc9f10otdj135vbwahrl9&dl=0).
 
 {% assign prof = site.data.people[0] %}
 
@@ -77,57 +83,18 @@ Before joining KAIST, I worked at [Sungkyunkwan University](http://www.skku.edu/
 <!-- <a href="https://twitter.com/{{prof.twitter}}"><i class="fab fa-2x fa-x-twitter" aria-hidden="true"></i></a> -->
 <a href="https://scholar.google.co.kr/citations?user={{prof.scholar}}"><i class="fas fa-2x fa-graduation-cap" aria-hidden="true"></i></a>
 <!-- <a href="https://scholar.google.co.kr/citations?user={{prof.linkedin}}"><i class="fab fa-2x fa-linkedin-in" aria-hidden="true"></i></a> -->
+<a href="https://calendar.kaist.id" title="My calendar"><i class="fas fa-2x fa-calendar" aria-hidden="true"></i></a>
 <a href="#" onclick="(function(){window.open('mailto:{{ prof.email }}');})()"><i class="fas fa-2x fa-envelope"></i></a>
 </div>
 
-## Experience
 
-- **KAIST, Associate Professor** - Department of Industrial Design (9/2019 - present)
-- **The University of Sydney, Visiting Researcher** - Faculty of Engineering (Computer Science) (20/11/2023 - 16/2/2024)
-- **The University of Tokyo, JSPS Fellow for Research** - RCAST, Information Somatics Lab (1/4/2024 - 5/6/2024)
-- **KAIST, Adjunct Professor** - School of Computing (1/10/2022 - present)
-- **KAIST, Adjunct Professor** - Human-Robot Interaction Center (3/2022 - present)
+## Reserach interest
 
-**Previous roles**
+I research in the field of Human-Computer Interaction (_HCI_), with a focus on _creativity support systems_ (physical computing and fabrication) and _tangible interaction_ (mechatronic devices, haptics, and related interfaces).
 
-- **KAIST, Assistant Professor** - Department of Industrial Design (9/2015 - 8/2019)
-- **Sungkyunkwan University, Assistant Professor** - Department of Computer Science (3/2013 - 8/2015)
-- **Vice-chair** - SIGCHI Korea Local Chapter (4/2022 - 3/2023)
+I am particularly interested in the process of _making_ as a means for creative exploration, problem framing, and knowledge construction. I design systems to support creative making by blending physical experiences (artifacts, materials, and embodiment) with computational interaction. My lab's work has been recognized with 9+ Best Paper and Honorable Mention Awards at premier HCI venues.
 
-## Awards
-
-**Papers**
-
-- **Best Paper Award** UIST 2020
-- **Best Paper Award** TEI 2021
-- **Best Paper Award** MobileHCI 2013
-- **Best Paper Award** HCI Korea 2022
-- **Best Paper Award** HCI Korea 2018
-- **Best Paper Award** HCI Korea 2015
-- **Honorable Mention Award** EICS 2024
-- **Honorable Mention Award** CHI 2024
-- **Honorable Mention Award** CHI 2022
-- **Honorable Mention Award** CHI 2021
-- **Honorable Mention Award** Augmented Humans 2021
-- **Honorable Mention Award** MobileHCI 2017
-- **Honorable Mention Award** MobileHCI 2016
-- **Best Poster Award** UIST 2016
-
-**Design**
-
-- **iF Design Award 2021**
-- **IDSA 2021 Bronze Design Award**
-
-**Others**
-
-- **KAIST 2023 Global Research Cooperation** Excellence Award
-- **KAIST 2020 Technology Innovation Award**
-- **Breakthroughs Readers' Choice Award 2021** KAIST College of Engineering
-- **Excellence Teaching Award Fall 2017** Industrial Design, KAIST
-
-## Academic Services
-
-**Program committee and editor**
+<!-- **Program committee and editor**
 
 - UIST 2025 Paper Co-Chair
 - CHI 2026 Subcomittee Chair "Blending Interaction: Engineering Interactive Systems & Tools"
@@ -158,36 +125,37 @@ Before joining KAIST, I worked at [Sungkyunkwan University](http://www.skku.edu/
 - ISS 2019 Poster co-chair
 - Asia Haptics 2018 demo co-chair
 - IEEE World Haptics 2013 art chair
-- HAID 2013 poster chair
+- HAID 2013 poster chair -->
 
-## Talks
 
-For a list of recent talk engagments please see [this link](http://andrea.kaist.id).
-
-## Teaching
+## Teaching phylosphy and classes
 
 I have tried to explain a little about my teaching philosophy in this [interview](https://youtu.be/bZnS8IFA_OQ):
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bZnS8IFA_OQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**ID311 - Software Prototyping** ([current](https://software.prototyping.id))
+**ID311 - _Software Prototyping_** ([current](https://software.prototyping.id))
 
 - Fall: 2016, 2017
 - Spring: 2016, 2018-2023
 
-**ID220 - Interaction Prototyping** ([archive](https://sites.google.com/view/interaction-prototyping/home))
+
+**ID499/CS492F - Designing Interaction with _Hardware_** ([current](https://hardware.prototyping.id))
+
+- Spring: 2026
+
+**ID499/CS492F - Designing Interaction with _AI_** ([archive](https://ai.prototyping.id))
+
+- Fall: 2024, 2025
+
+**ID220 - _Interaction Prototyping_** ([archive](https://sites.google.com/view/interaction-prototyping/home))
 
 - Fall: 2018-2022
 
-**ID307 - Interface Design**
+**ID307 - _Interface Design_**
 
 - Spring 2016, 2017
 
-## Additional Resources
 
-- [Resume](http://andrea.kaist.id)
-<!-- - [Short Resume (PDF)](https://www.dropbox.com/s/1oby67w9i81cnq4/CV_andrea_bianchi_onePage.pdf?dl=0) -->
-- [My calendar](https://calendar.kaist.id)
-<!-- - [Website with old projects (Ph.D. and before)](https://alsoplantsfly.kaist.id) -->
-- [YouTube channel](https://www.youtube.com/channel/UC5A_g3GYEGeoqBqSSJ11NoQ)
-<!-- - [About me page](https://about.me/andreabianchi) -->
+<!-- <a href="contact.html" class="button button--large" style="margin-top:1.5rem; display:inline-block;">Contact us</a> -->
+

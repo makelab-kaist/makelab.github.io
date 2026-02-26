@@ -103,4 +103,5 @@ Interested in collaborating with us? Please reach out.
 </div> -->
 
 
-<a href="contact.html" class="button button--large">Contact us</a>
+<!-- <a href="contact.html" class="button button--large" style="margin-top:1.5rem; display:inline-block;">Contact us</a> -->
+
