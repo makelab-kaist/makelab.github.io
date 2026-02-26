@@ -1,57 +1,51 @@
 ---
 title: tactoRing
-full-title: 'tactoRing: A Skin-Drag Discrete Display'
+full-title: "tactoRing: A Skin-Drag Discrete Display"
+featured_image: /images/projects/tactoring.jpg # width must be 1600px
+
+# Paper info
 year: 2017
 venue: CHI
-featured_image: /images/projects/tactoring.jpg # width must be 1600px
-pdf_file: Je_tactoRing_CHI17.pdf # put file in the directory FILES
-doi_link: https://doi.org/10.1145/3025453.3025703
+authors: [Seungwoo Je, Brendan Rooney, Liwei Chan, Andrea Bianchi]
+
+# Paper links
+pdf: Je_tactoRing_CHI17.pdf # put file in the directory FILES
+doi: https://doi.org/10.1145/3025453.3025703
+video: C7l0YJtjgpE
+
 ---
 
-<span class="badge">{{page.venue}} {{page.year}}</span>
-
-# {{page.full-title}}
-
 <!-- Video -->
-<iframe width="560" height="315"
-        src="https://www.youtube.com/embed/C7l0YJtjgpE"
-        frameborder="0"
-        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen>
-</iframe>
-
-<!-- Paper reference -->
-<blockquote class="pretty-blockquote">
-Seungwoo Je, Brendan Rooney, Liwei Chan, and Andrea Bianchi. 2017.
-<strong>tactoRing: A Skin-Drag Discrete Display</strong>.
-In <em>Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (CHI '17)</em>.
-ACM, New York, NY, USA, 3106–3114.
-<a href="https://doi.org/10.1145/3025453.3025703">
-https://doi.org/10.1145/3025453.3025703
-</a>
-</blockquote>
-
-<!-- Links -->
-<div class="link-box">
-  <a href="{{ site.url }}/files/{{ page.year }}/{{ page.pdf_file }}"
-     target="_blank"
-     class="link-btn">
-     Paper PDF
-  </a>
-
-  <a href="{{ page.doi_link }}"
-     target="_blank"
-     class="link-btn">
-     DOI Link
-  </a>
-</div>
+{% include youtube-video.html video_id=page.video %}
 
 <!-- Abstract -->
 Smart rings are an emerging wearable technology designed to deliver discreet notifications using haptic cues. Traditional tactile actuators stimulate limited skin receptors on the finger, restricting the expressiveness of conveyed information. 
 
-tactoRing introduces a novel tactile display that drags a small tactor around the finger to stimulate multiple skin areas, improving cue recognition accuracy. The paper presents the hardware design and a perception study demonstrating users’ ability to recognize eight distinct spatial points around the finger. Additionally, two encoding techniques based on skin-dragging motions achieved up to 94% recognition accuracy. Finally, the system showcases applications that combine sequences of tactile stimuli to provide richer expressiveness than previous wearable haptic methods.
+_tactoRing_ introduces a novel tactile display that drags a small tactor around the finger to stimulate multiple skin areas, improving cue recognition accuracy. The paper presents the hardware design and a perception study demonstrating users’ ability to recognize eight distinct spatial points around the finger. Additionally, two encoding techniques based on skin-dragging motions achieved up to 94% recognition accuracy. Finally, the system showcases applications that combine sequences of tactile stimuli to provide richer expressiveness than previous wearable haptic methods.
 
 ---
+
+<!-- BibTex -->
+{% capture paper_bibtex %}
+@inproceedings{10.1145/3025453.3025703,
+   author = {Je, Seungwoo and Rooney, Brendan and Chan, Liwei and Bianchi, Andrea},
+   title = {tactoRing: A Skin-Drag Discrete Display},
+   year = {2017},
+   isbn = {9781450346559},
+   publisher = {Association for Computing Machinery},
+   address = {New York, NY, USA},
+   url = {https://doi.org/10.1145/3025453.3025703},
+   doi = {10.1145/3025453.3025703},
+   booktitle = {Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems},
+   pages = {3106–3114},
+   numpages = {9},
+   keywords = {eyes-free, haptics, ring, skin-drag, wearable},
+   location = {Denver, Colorado, USA},
+   series = {CHI '17}
+}
+{% endcapture %}
+{% include bibtex.html bibtex=paper_bibtex %}
+
 
 ## Additional Publication
 
@@ -64,14 +58,6 @@ https://doi.org/10.1145/3183514
 </a>
 </blockquote>
 
-<div class="link-box">
-  <a href="https://doi.org/10.1145/3183514"
-     target="_blank"
-     class="link-btn">
-     DOI Link
-  </a>
-</div>
 
 ---
 
-<a href="/index.html" class="button button--large">Back to projects</a>

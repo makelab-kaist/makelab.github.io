@@ -1,47 +1,22 @@
 ---
 title: Designing On-Body 2D Patterns
-full-title: 'Designing On-Body 2D Patterns to Enhance Subsidiary Communication for Telepresence Robots'
-year: 2018
-venue: RO-MAN
+full-title: "Designing On-Body 2D Patterns to Enhance Subsidiary Communication for Telepresence Robots"
 featured_image: /images/projects/onBody2dpatterns1.jpg # width must be 1600px
-pdf_file: Lee_RobotPattern_RO-MAN2018.pdf # put file in the directory FILES
-doi_link: https://doi.org/10.1109/ROMAN.2018.8525646
+
+# Paper info
+year: 2018
+venue: IEEE RO-MAN
+authors: [Minkyeong Lee, Okyu Choi, Hyelip Lee, Bum-Jae You, Minsoo Han, Andrea Bianchi]
+
+# Paper links
+pdf: Lee_RobotPattern_RO-MAN2018.pdf # put file in the directory FILES
+doi: https://doi.org/10.1109/ROMAN.2018.8525646
 ---
-
-<span class="badge">{{page.venue}} {{page.year}}</span>
-
-# {{page.full-title}}
 
 <!-- Gallery -->
 <div class="gallery" data-columns="1">
   <img src="/images/projects/onBody2dpatterns2.jpg" alt="On-body 2D pattern examples on telepresence robot">
   <img src="/images/projects/onBody2dpatterns3.jpg" alt="Pattern applications in different environments">
-</div>
-
-<!-- Paper reference -->
-<blockquote class="pretty-blockquote">
-Minkyeong Lee, Okyu Choi, Hyelip Lee, Andrea Bianchi, Bum-Jae You, and Minsoo Han. 2018.
-<strong>Designing On-Body 2D Patterns to Enhance Subsidiary Communication for Telepresence Robots</strong>.
-In <em>2018 27th IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN 2018)</em>.
-IEEE Press, 222–227.
-<a href="https://doi.org/10.1109/ROMAN.2018.8525646">
-https://doi.org/10.1109/ROMAN.2018.8525646
-</a>
-</blockquote>
-
-<!-- Links -->
-<div class="link-box">
-  <a href="{{ site.url }}/files/{{ page.year }}/{{ page.pdf_file }}"
-     target="_blank"
-     class="link-btn">
-     Paper PDF
-  </a>
-
-  <a href="{{ page.doi_link }}"
-     target="_blank"
-     class="link-btn">
-     DOI Link
-  </a>
 </div>
 
 <!-- Abstract -->
@@ -53,4 +28,18 @@ Results demonstrate the potential of complex 2D visual expressions as a suppleme
 
 ---
 
-<a href="/index.html" class="button button--large">Back to projects</a>
+<!-- BibTex -->
+{% capture paper_bibtex %}
+@inproceedings{8525646,
+  author={Lee, Minkyeong and Choi, Okyu and Lee, Hyelip and You, Bum-Jae and Han, Minsoo and Bianchi, Andrea},
+  booktitle={2018 27th IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN)}, 
+  title={Designing On-Body 2D Patterns to Enhance Subsidiary Communication for Telepresence Robots}, 
+  year={2018},
+  volume={},
+  number={},
+  pages={222-227},
+  keywords={Visualization;Telepresence;Conferences;Hospitals;Service robots;Light emitting diodes},
+  doi={10.1109/ROMAN.2018.8525646}}
+
+{% endcapture %}
+{% include bibtex.html bibtex=paper_bibtex %}
