@@ -50,32 +50,9 @@ Ungrounded haptic force-feedback is a crucial element for applications that aim 
 <!-- Video (How it was made: Interactions) -->
 {% include youtube-video.html id="FIdx4W9sazk" %}
 
-<!-- BibTex (How it was made: Interactions) -->
-{% capture paper_bibtex2 %}
-@article{je2018howwasmade,
-  author={Je, Seungwoo and Lee, Hyelip and Kim, Myung Jin and Lee, Minkyeong and Kim, Yoonji and Choi, Youngkyung and Bianchi, Andrea},
-  title={How was made: Wind-Blaster},
-  journal={Interactions},
-  volume={26},
-  number={1},
-  pages={14-15},
-  year={2018},
-  doi={10.1145/3292075}
-}
-{% endcapture %}
-{% include bibtex.html bibtex=paper_bibtex2 %}
+<blockquote class="pretty-blockquote"> Seungwoo Je, Hyelip Lee, Myung Jin Kim, Minkyeong Lee, Yoonji Kim, Youngkyung Choi, and Andrea Bianchi. 2018. <strong>Wind-blaster</strong>. In <em>interactions 26, 1 (January - February 2019)</em>, 14–15. <a href="https://doi.org/10.1145/3292075">https://doi.org/10.1145/3292075</a> </blockquote>
 
-<!-- BibTex (Demo Hour: Interactions) -->
-{% capture paper_bibtex3 %}
-@article{je2018demohour,
-  author={Je, Seungwoo and Lee, Hyelip and Kim, Myung Jin and Lee, Minkyeong and Kim, Yoonji and Choi, Youngkyung and Bianchi, Andrea and Chiang, Brian Yu-Jen and Chou, Ai-Hsuan and Fink, Dominik and Lenz, Jannick and Raschke, Paul and Rieker, Mario},
-  title={Demo Hour},
-  journal={Interactions},
-  volume={26},
-  number={1},
-  pages={8-11},
-  year={2018},
-  doi={10.1145/3292484}
-}
-{% endcapture %}
-{% include bibtex.html bibtex=paper_bibtex3 %}
+<blockquote class="pretty-blockquote">
+Seungwoo Je, Hyelip Lee, Myung Jin Kim, Minkyeong Lee, Yoonji Kim, Youngkyung Choi, Andrea Bianchi, Brian Yu-Jen Chiang, Ai-Hsuan Chou, Dominik Fink, Jannick Lenz, Paul Raschke, and Mario Rieker. 2018. <strong>Demo hour</strong>. In <em>interactions 26, 1 (January - February 2019)</em>, 8–11.  
+<a href="https://doi.org/10.1145/3292484">https://doi.org/10.1145/3292484</a>
+</blockquote>

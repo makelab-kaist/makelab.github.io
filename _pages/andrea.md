@@ -75,7 +75,7 @@ I served as **Paper Co-Chair** at [UIST 2025](https://uist.acm.org/2025) and **S
 
 I have an [Erdős number](https://en.wikipedia.org/wiki/Erdős_number) of 3 and collect [eyeglasses](https://www.dropbox.com/scl/fi/gqnzkks4o9whyvgar3tth/glasses.pdf?rlkey=qcpytc9f10otdj135vbwahrl9&dl=0).
 
-<blockquote class="no-gradient large-quote">For a complete list of my publications, patents, services, awards, and talks, etc... please visit my 👉 <a href="http://andrea.kaist.id"><em>personal page</em></a> 👈.</blockquote>
+<blockquote class="no-gradient large-quote">For a complete list of my publications, patents, services, awards, and talks, etc... please visit my <a href="http://andrea.kaist.id"><em>personal page</em></a>.</blockquote>
 
 <img src="/images/people/andreaHD.jpg" alt="{{prof.name}}" class="profileImage"/>
 
@@ -99,6 +99,35 @@ I have an [Erdős number](https://en.wikipedia.org/wiki/Erdős_number) of 3 and 
 I research in the field of Human-Computer Interaction (_HCI_), with a focus on _creativity support systems_ (physical computing and fabrication) and _tangible interaction_ (mechatronic devices, haptics, and related interfaces).
 
 I am particularly interested in the process of _making_ as a means for creative exploration, problem framing, and knowledge construction. I design systems to support creative making by blending physical experiences (artifacts, materials, and embodiment) with computational interaction. My lab's work has been recognized with 9+ Best Paper and Honorable Mention Awards at premier HCI venues.
+
+## Teaching phylosphy and classes
+
+I have tried to explain a little about my teaching philosophy in this [interview](https://youtu.be/bZnS8IFA_OQ):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bZnS8IFA_OQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**ID311 - _Software Prototyping_** ([current](https://software.prototyping.id))
+
+- Fall: 2016, 2017
+- Spring: 2016, 2018-2023
+
+
+**ID499/CS492F - Designing Interaction with _Hardware_** ([current](https://hardware.prototyping.id))
+
+- Spring: 2026
+
+**ID499/CS492F - Designing Interaction with _AI_** ([archive](https://ai.prototyping.id))
+
+- Fall: 2024, 2025
+
+**ID220 - _Interaction Prototyping_** ([archive](https://sites.google.com/view/interaction-prototyping/home))
+
+- Fall: 2018-2022
+
+**ID307 - _Interface Design_**
+
+- Spring 2016, 2017
+
 
 <!-- **Program committee and editor**
 
@@ -132,36 +161,4 @@ I am particularly interested in the process of _making_ as a means for creative 
 - Asia Haptics 2018 demo co-chair
 - IEEE World Haptics 2013 art chair
 - HAID 2013 poster chair -->
-
-
-## Teaching phylosphy and classes
-
-I have tried to explain a little about my teaching philosophy in this [interview](https://youtu.be/bZnS8IFA_OQ):
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bZnS8IFA_OQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-**ID311 - _Software Prototyping_** ([current](https://software.prototyping.id))
-
-- Fall: 2016, 2017
-- Spring: 2016, 2018-2023
-
-
-**ID499/CS492F - Designing Interaction with _Hardware_** ([current](https://hardware.prototyping.id))
-
-- Spring: 2026
-
-**ID499/CS492F - Designing Interaction with _AI_** ([archive](https://ai.prototyping.id))
-
-- Fall: 2024, 2025
-
-**ID220 - _Interaction Prototyping_** ([archive](https://sites.google.com/view/interaction-prototyping/home))
-
-- Fall: 2018-2022
-
-**ID307 - _Interface Design_**
-
-- Spring 2016, 2017
-
-
-<!-- <a href="contact.html" class="button button--large" style="margin-top:1.5rem; display:inline-block;">Contact us</a> -->
 
