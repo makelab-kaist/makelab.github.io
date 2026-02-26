@@ -433,8 +433,14 @@ pre#bibtex-code code {
 /* Make paragraphs in intro/single share header max-width */
 .intro .wrap p,
 .intro .wrap .abstract,
+.intro .wrap ul,
+.intro .wrap ol,
+.intro .wrap li,
 .single .wrap p,
-.single .wrap .abstract {
+.single .wrap .abstract,
+.single .wrap ul,
+.single .wrap ol,
+.single .wrap li {
   max-width: 1400px;
   margin-left: 0;
   margin-right: 0;
