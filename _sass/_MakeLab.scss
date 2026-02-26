@@ -312,14 +312,23 @@ blockquote {
   color: inherit; /* icon matches text color */
 }
 
-/* Small screen: stack pub buttons and add spacing */
+/* Small screen: show pub buttons two-per-row and reduce size */
 @media (max-width: 700px) {
+  .link-box {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    justify-content: space-between;
+  }
+
   .link-box .pub-btn {
-    display: block;
-    width: 100%;
+    width: calc(50% - 6px);
     margin-right: 0;
     margin-bottom: 12px;
+    padding: 6px 10px;
+    font-size: 0.85rem;
     justify-content: center;
+    box-sizing: border-box;
   }
 }
 
@@ -343,13 +352,17 @@ pre#bibtex-code code {
 
 @media (max-width: 700px) {
   .bibtex-header {
-    flex-direction: column;
-    align-items: stretch;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 12px;
   }
 
   .copy-bibtex-btn {
+    width: calc(50% - 6px);
+    padding: 6px 10px;
+    font-size: 0.85rem;
     justify-content: center;
-    width: 100%;
+    box-sizing: border-box;
   }
 }
 

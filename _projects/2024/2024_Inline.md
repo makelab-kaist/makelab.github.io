@@ -6,7 +6,7 @@ featured_image: /images/projects/inline.png # width must be 1600px
 # Paper info
 year: 2024
 venue: EICS
-award: Honorable Mention
+award: Honorable Mention # Best Paper
 authors: [Andrea Bianchi, Zhi Lin Yap, Punn Lertjaturaphat, Austin Z. Henley, Kongpyung Justin Moon, Yoonji Kim]
 equal_authors : [Andrea Bianchi, Yoonji Kim]
 
