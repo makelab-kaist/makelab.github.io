@@ -337,17 +337,23 @@ pre#bibtex-code {
   color: #0f172a; /* dark text for readability */
   padding: 18px;
   border-radius: 10px;
-  overflow: auto;
+  overflow-x: auto; /* enable horizontal scrolling */
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  white-space: pre; /* prevent wrapping inside the pre */
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, "Roboto Mono", "Courier New", monospace;
-  font-size: 0.95rem;
+  font-size: 0.85rem;
   line-height: 1.45;
   border: 1px solid rgba(15,23,42,0.06);
   margin-bottom: 1.5rem;
+  max-width: 100%;
 }
 
 pre#bibtex-code code {
-  white-space: pre-wrap;
-  word-break: break-word;
+  display: block;
+  white-space: pre; /* ensure code itself doesn't wrap */
+  word-break: normal;
+  overflow-wrap: normal;
 }
 
 @media (max-width: 700px) {
@@ -390,9 +396,7 @@ pre#bibtex-code code {
 }
 
 /* Ensure .single uses same width rules as .intro */
-.single .wrap {
-  /* kept for backward compatibility; unified rules above take precedence */
-}
+/* (rules unified above; empty ruleset removed) */
 
 /* Ensure h1/h2/h3 and title containers match full width and left alignment */
 .intro .wrap h1,

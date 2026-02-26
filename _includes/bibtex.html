@@ -10,7 +10,8 @@
             </button>
         </div>
 
-        <pre id="bibtex-code"><code>{%- if bib -%}{{- bib | strip | escape -}}{%- else -%}@article{YourPaperKey2024,
+        <pre id="bibtex-code" style="overflow-x: auto; white-space: pre; word-wrap: normal;"><code>{%- if bib -%}{{- bib | strip | escape -}}{%- else -%}
+@article{YourPaperKey2024,
   title={Your Paper Title Here},
   author={First Author and Second Author and Third Author},
   journal={Conference/Journal Name},

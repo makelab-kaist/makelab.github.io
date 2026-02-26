@@ -1,19 +1,26 @@
+# core
 Andrea Bianchi:
   name: Andrea Bianchi
   url: https://make.kaist.ac.kr/andrea
 
+
+# alumni
 Kongpyung Justin Moon:
   name: Kongpyung Justin Moon
   url: https://make.kaist.ac.kr/justin
 
-Zhi Lin Yap:
-  name: Zhi Lin Yap
-
-Punn Lertjaturaphat:
-  name: Punn Lertjaturaphat
-
-Austin Z. Henley:
-  name: Austin Z. Henley
-
-Yoonji Kim:
+Yoonji Kim: 
   name: Yoonji Kim
+  url: https://www.yoonji-kim.com
+
+# collaborators
+Zhi Lin Yap: { name: "Zhi Lin Yap" }
+Punn Lertjaturaphat: { name: "Punn Lertjaturaphat" }
+Austin Z. Henley: { name: "Austin Z. Henley" }
+Zofia Marciniak: { name: "Zofia Marciniak" }
+Hongyu Zhou: { name: "Hongyu Zhou" }
+Tom Kip: { name: "Tom Kip" }
+Yihao Dong: { name: "Yihao Dong" }
+Zhanna Sarsenbayeva: { name: "Zhanna Sarsenbayeva" }
+Anusha Withana: { name: "Anusha Withana" }
+
