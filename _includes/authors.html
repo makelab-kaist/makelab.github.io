@@ -17,11 +17,7 @@
         {{ author.name }}
         {% endif %}
 
-        {% if is_equal %}
-        <sup>*</sup>
-        {% endif %}
-
-        {% unless forloop.last %},{% endunless %}
+        {% if is_equal %}<sup>*</sup>{% endif %}{% unless forloop.last %},{% endunless %}
     </span>
     {% endfor %}
 </div>

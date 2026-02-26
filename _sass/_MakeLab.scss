@@ -272,25 +272,31 @@ blockquote {
 
 /* Publication link button (match academic-template style) */
 .pub-btn {
-  background: #1d1c1c; /* changed to black */
-  color: #fff;
-  border: none;
-  border-radius: 999px; /* make pill/oval */
-  padding: 10px 22px; /* larger horizontal padding for oval look */
+  background: #ffffff; /* white background */
+  color: #111827; /* near-black text */
+  border: 1px solid rgba(0,0,0,0.12); /* thin demarcation */
+  border-radius: 999px; /* pill/oval */
+  padding: 10px 22px;
   font-size: 0.95rem;
   font-weight: 600;
   display: inline-flex;
   align-items: center;
   gap: 8px;
   text-decoration: none;
-  transition: transform 120ms ease, background 120ms ease, box-shadow 120ms ease;
+  transition: transform 120ms ease, background 120ms ease, box-shadow 120ms ease, border-color 120ms ease;
   margin-right: 12px;
 }
 
 .pub-btn:hover {
-  background: #111;
+  background: #fafafa;
   transform: translateY(-2px);
-  box-shadow: 0 10px 30px rgba(0,0,0,0.14);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+  border-color: rgba(0,0,0,0.18);
+}
+
+.pub-btn .icon,
+.pub-btn .icon i {
+  color: inherit; /* icon matches text color */
 }
 
 /* Small screen: stack pub buttons and add spacing */
@@ -383,6 +389,34 @@ pre#bibtex-code code {
 .intro .wrap,
 .intro .wrap * {
   text-align: left;
+}
+
+/* Make paragraphs in intro/single share header max-width */
+.intro .wrap p,
+.intro .wrap .abstract,
+.single .wrap p,
+.single .wrap .abstract {
+  max-width: 1400px;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+@media (max-width: 1400px) {
+  .intro .wrap p,
+  .intro .wrap .abstract,
+  .single .wrap p,
+  .single .wrap .abstract {
+    max-width: 1400px;
+  }
+}
+
+@media (max-width: 1200px) {
+  .intro .wrap p,
+  .intro .wrap .abstract,
+  .single .wrap p,
+  .single .wrap .abstract {
+    max-width: 1100px;
+  }
 }
 
 @media (max-width: 900px) {
