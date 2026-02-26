@@ -131,6 +131,50 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	<script src="/js/index-min.js"></script>
 
+	<!-- BibTeX Copy -->
+	<script>
+	function copyBibTeX(button) {
+		const bibtexElement = document.getElementById('bibtex-code');
+		const copyText = button ? button.querySelector('.copy-text') : null;
+		if (!bibtexElement || !button) return;
+
+		if (navigator.clipboard && navigator.clipboard.writeText) {
+			navigator.clipboard.writeText(bibtexElement.textContent).then(function () {
+				button.classList.add('copied');
+				if (copyText) copyText.textContent = 'Copied';
+				setTimeout(function () {
+					button.classList.remove('copied');
+					if (copyText) copyText.textContent = 'Copy';
+				}, 2000);
+			}).catch(function () { fallbackCopy(bibtexElement, button, copyText); });
+		} else {
+			fallbackCopy(bibtexElement, button, copyText);
+		}
+	}
+
+	function fallbackCopy(bibtexElement, button, copyText) {
+		try {
+			const textArea = document.createElement('textarea');
+			textArea.value = bibtexElement.textContent;
+			document.body.appendChild(textArea);
+			textArea.select();
+			document.execCommand('copy');
+			document.body.removeChild(textArea);
+			button.classList.add('copied');
+			if (copyText) copyText.textContent = 'Copied';
+			setTimeout(function () {
+				button.classList.remove('copied');
+				if (copyText) copyText.textContent = 'Copy';
+			}, 2000);
+		} catch (e) { console.error('Copy failed', e); }
+	}
+
+	document.addEventListener('click', function(e) {
+		const button = e.target.closest('.copy-bibtex-btn');
+		if (button) { copyBibTeX(button); }
+	});
+	</script>
+
 	{% if site.data.settings.advanced_settings.footer_js %}
 	<!-- Extra Footer JS Code -->
 	{{ site.data.settings.advanced_settings.footer_js }}
