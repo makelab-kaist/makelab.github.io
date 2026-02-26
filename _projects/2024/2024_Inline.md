@@ -8,14 +8,13 @@ year: 2024
 venue: EICS
 award: Honorable Mention # Best Paper
 authors: [Andrea Bianchi, Zhi Lin Yap, Punn Lertjaturaphat, Austin Z. Henley, Kongpyung Justin Moon, Yoonji Kim]
-equal_authors : [Andrea Bianchi, Yoonji Kim]
 
 # Paper links
 pdf: Bianchi_Inline_PACM2024.pdf # put file in the directory FILES
 doi: https://doi.org/10.1145/3660250
 github: https://github.com/makelab-kaist/inline-extension
 slides: Inline_slides.pdf
-web: https://google.com
+# web: https://google.com
 video: gAf5mNowg7A
 ---
 
@@ -31,11 +30,22 @@ The development of user-friendly embedded prototyping systems like Arduino has m
 
 <!-- BibTex -->
 {% capture paper_bibtex %}
-@inproceedings{Bianchi2026,
-  title={Wire Your Way},
-  author={Andrea Bianchi and Zhi Lin Yap and Punn Lertjaturaphat},
-  booktitle={CHI},
-  year={2026}
+@article{10.1145/3660250,
+  author = {Bianchi, Andrea and Yap, Zhi Lin and Lertjaturaphat, Punn and Henley, Austin Z. and Moon, Kongpyung Justin and Kim, Yoonji},
+  title = {Inline Visualization and Manipulation of Real-Time Hardware Log for Supporting Debugging of Embedded Programs},
+  year = {2024},
+  issue_date = {June 2024},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  volume = {8},
+  number = {EICS},
+  url = {https://doi.org/10.1145/3660250},
+  doi = {10.1145/3660250},
+  journal = {Proc. ACM Hum.-Comput. Interact.},
+  month = jun,
+  articleno = {248},
+  numpages = {26},
+  keywords = {Debugging, Embedded Systems, Expression Language, Hardware logs, Live programming, Physical computing, Visualization}
 }
 {% endcapture %}
 {% include bibtex.html bibtex=paper_bibtex %}
