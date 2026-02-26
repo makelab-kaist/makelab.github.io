@@ -244,6 +244,12 @@ blockquote {
   margin-bottom: 12px;
 }
 
+/* Ensure BibTeX header uses same color as other headings */
+.bibtex-header h3,
+.bibtex-header .h3 {
+  color: $text-dark-color !important;
+}
+
 .copy-bibtex-btn {
   display: inline-flex;
   align-items: center;
@@ -265,9 +271,9 @@ blockquote {
 }
 
 .copy-bibtex-btn.copied {
-  background: #10b981; /* emerald */
+  background: #EE2A7C; /* site pink */
   color: #fff;
-  border-color: #10b981;
+  border-color: #EE2A7C;
 }
 
 /* Publication link button (match academic-template style) */
@@ -311,15 +317,16 @@ blockquote {
 }
 
 pre#bibtex-code {
-  background: #0f172a; /* dark navy */
-  color: #e6edf3;
+  background: #f3f4f6; /* light grey */
+  color: #0f172a; /* dark text for readability */
   padding: 18px;
   border-radius: 10px;
   overflow: auto;
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, "Roboto Mono", "Courier New", monospace;
   font-size: 0.95rem;
   line-height: 1.45;
-  border: 1px solid rgba(15,23,42,0.6);
+  border: 1px solid rgba(15,23,42,0.06);
+  margin-bottom: 1.5rem;
 }
 
 pre#bibtex-code code {
@@ -367,18 +374,26 @@ pre#bibtex-code code {
   /* kept for backward compatibility; unified rules above take precedence */
 }
 
-/* Larger H1/title container for intro and single sections */
+/* Ensure h1/h2/h3 and title containers match full width and left alignment */
 .intro .wrap h1,
-.intro .wrap .title,
-
-.intro .wrap h1,
+.intro .wrap h2,
+.intro .wrap h3,
 .intro .wrap .title,
 .single .wrap h1,
+.single .wrap h2,
+.single .wrap h3,
 .single .wrap .title {
   max-width: 1400px;
   margin-left: 0;
   margin-right: 0;
   text-align: left;
+}
+
+/* Larger H1 sizing only */
+.intro .wrap h1,
+.intro .wrap .title,
+.single .wrap h1,
+.single .wrap .title {
   font-size: clamp(1.6rem, 3.2vw, 3.6rem);
   line-height: 1.08;
   padding-bottom: 0.25rem;
