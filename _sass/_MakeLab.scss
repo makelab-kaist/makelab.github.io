@@ -1,6 +1,6 @@
 // Pretty blockquote styling
 .pretty-blockquote {
-  background: linear-gradient(135deg, #f5f5f5 60%, #e0e7ff 100%);
+  background: #f5f5f5; /* removed gradient */
   border-left: 6px solid #EE2A7C;
   border-radius: 12px;
   box-shadow: 0 4px 16px rgba(124, 58, 237, 0.08);

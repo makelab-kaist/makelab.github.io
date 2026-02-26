@@ -21,7 +21,7 @@ video: khYzNJp0l3o
 
 
 <!-- Abstract -->
-PreloadStep is an innovative platform that simulates walking on various virtual terrains without special equipment. It uses spring compression between two plates to create the sensation of different stiffness levels, applying preload forces up to 824 N to alter terrain perception dynamically. Tested through perception studies and an application example, PreloadStep shows promise for enhancing virtual terrain experiences.
+_PreloadStep_ is an innovative platform that simulates walking on various virtual terrains without special equipment. It uses spring compression between two plates to create the sensation of different stiffness levels, applying preload forces up to 824 N to alter terrain perception dynamically. Tested through perception studies and an application example, PreloadStep shows promise for enhancing virtual terrain experiences.
 
 <!-- Break -->
 ---
