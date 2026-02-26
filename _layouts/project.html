@@ -6,8 +6,21 @@ layout: default
 
 	<div class="wrap">
 
-		<!-- <h1>{{ page.title }}</h1>
-		<p>{{ page.subtitle }}</p> -->
+		<!-- Conference Badge -->
+		{% if page.venue and page.year %}
+		<span class="badge">{{page.venue}} {{page.year}}</span>
+		{% endif %}
+
+		<!-- Award -->
+		{% if page.award %}
+		{% if page.award == "Honorable Mention" %}
+		<span class="award-badge">🏅 Honorable Mention Award</span>
+		{% elsif page.award == "Best Paper" %}
+		<span class="award-badge">🏆 Best Paper Award</span>
+		{% else %}
+		<span class="award-badge">{{ page.award }}</span>
+		{% endif %}
+		{% endif %}
 
 	</div>
 
@@ -16,6 +29,14 @@ layout: default
 <section class="single">
 
 	<div class="wrap">
+
+		<h1>{{page.full-title}}</h1>
+
+		<!-- Authors -->
+		{% include authors.html authors=page.authors %}
+
+		<!-- Links -->
+		{% include paper_links.html %}
 
 		{{ page.content }}
 

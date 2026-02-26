@@ -100,6 +100,23 @@ blockquote {
   font-size: 1em;
   letter-spacing: 0.03em;
 }
+
+/* Award badge should appear beneath the conference badge */
+.award-badge {
+  display: block;
+  margin-top: 8px;
+  background: transparent;
+  color: #111827;
+  font-weight: 600;
+}
+
+/* Equal contribution note styling */
+.publication-equal-note {
+  margin-top: 0.75rem;
+  color: #6b7280; /* gray-500 */
+  font-size: 0.9rem;
+  font-weight: 500;
+}
 // LAYOUT
 
 /* Hide the scrollbar on the page__content div */
@@ -216,4 +233,164 @@ blockquote {
 
 .header__lower {
   left: 40px;
+}
+
+/* BibTeX styling */
+.bibtex-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.copy-bibtex-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: #ffffff;
+  border: 1px solid #d1d5db;
+  color: #111827;
+  padding: 8px 12px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 150ms ease, border-color 150ms ease, transform 120ms ease;
+  font-size: 0.95rem;
+}
+
+.copy-bibtex-btn:hover {
+  background: #f8fafc;
+  border-color: #cbd5e1;
+  transform: translateY(-1px);
+}
+
+.copy-bibtex-btn.copied {
+  background: #10b981; /* emerald */
+  color: #fff;
+  border-color: #10b981;
+}
+
+/* Publication link button (match academic-template style) */
+.pub-btn {
+  background: #1d1c1c; /* changed to black */
+  color: #fff;
+  border: none;
+  border-radius: 999px; /* make pill/oval */
+  padding: 10px 22px; /* larger horizontal padding for oval look */
+  font-size: 0.95rem;
+  font-weight: 600;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  text-decoration: none;
+  transition: transform 120ms ease, background 120ms ease, box-shadow 120ms ease;
+  margin-right: 12px;
+}
+
+.pub-btn:hover {
+  background: #111;
+  transform: translateY(-2px);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.14);
+}
+
+/* Small screen: stack pub buttons and add spacing */
+@media (max-width: 700px) {
+  .link-box .pub-btn {
+    display: block;
+    width: 100%;
+    margin-right: 0;
+    margin-bottom: 12px;
+    justify-content: center;
+  }
+}
+
+pre#bibtex-code {
+  background: #0f172a; /* dark navy */
+  color: #e6edf3;
+  padding: 18px;
+  border-radius: 10px;
+  overflow: auto;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, "Roboto Mono", "Courier New", monospace;
+  font-size: 0.95rem;
+  line-height: 1.45;
+  border: 1px solid rgba(15,23,42,0.6);
+}
+
+pre#bibtex-code code {
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+@media (max-width: 700px) {
+  .bibtex-header {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .copy-bibtex-btn {
+    justify-content: center;
+    width: 100%;
+  }
+}
+
+/* Make intro section wider on large screens */
+/* Unified width for intro and single wraps */
+.intro .wrap,
+.single .wrap {
+  max-width: 1600px;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+@media (max-width: 1400px) {
+  .intro .wrap,
+  .single .wrap {
+    max-width: 1400px;
+  }
+}
+
+@media (max-width: 1200px) {
+  .intro .wrap,
+  .single .wrap {
+    max-width: 1100px;
+  }
+}
+
+/* Ensure .single uses same width rules as .intro */
+.single .wrap {
+  /* kept for backward compatibility; unified rules above take precedence */
+}
+
+/* Larger H1/title container for intro and single sections */
+.intro .wrap h1,
+.intro .wrap .title,
+
+.intro .wrap h1,
+.intro .wrap .title,
+.single .wrap h1,
+.single .wrap .title {
+  max-width: 1400px;
+  margin-left: 0;
+  margin-right: 0;
+  text-align: left;
+  font-size: clamp(1.6rem, 3.2vw, 3.6rem);
+  line-height: 1.08;
+  padding-bottom: 0.25rem;
+  margin-bottom: 1.25rem; /* increased spacing below title */
+}
+
+/* Ensure the intro wrap content is left-aligned like .single */
+.intro .wrap,
+.intro .wrap * {
+  text-align: left;
+}
+
+@media (max-width: 900px) {
+  .intro .wrap h1,
+  .intro .wrap .title,
+  .single .wrap h1,
+  .single .wrap .title {
+    text-align: left;
+    font-size: clamp(1.4rem, 4vw, 2rem);
+  }
 }

@@ -391,7 +391,8 @@ section {
 	}
 
 	@include mq(laptop) {
-		
+			max-width: 1200px;
+			padding: 0 16px;
 	}
 }
 

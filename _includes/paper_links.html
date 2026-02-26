@@ -1,0 +1,38 @@
+<!-- Links -->
+<div class="link-box">
+    {% if page.pdf %}
+    <a href="{{ site.url }}/files/{{ page.year }}/{{ page.pdf }}" target="_blank" class="pub-btn">
+        <span class="icon"><i class="fas fa-file-pdf"></i></span>
+        <span>Paper</span>
+    </a>
+    {% endif %}
+
+    {% if page.doi %}
+    <a href="{{ page.doi }}" target="_blank" class="pub-btn">
+        <span class="icon"><i class="fas fa-link"></i></span>
+        <span>DOI</span>
+    </a>
+    {% endif %}
+
+    {% if page.github %}
+    <a href="{{ page.github }}" target="_blank" class="pub-btn">
+        <span class="icon"><i class="fab fa-github"></i></span>
+        <span>Code</span>
+    </a>
+    {% endif %}
+
+    {% if page.slides %}
+    <a href="{{ site.url }}/files/various/{{ page.slides }}" target="_blank" class="pub-btn">
+        <span class="icon"><i class="fas fa-file-powerpoint"></i></span>
+        <span>Slides</span>
+    </a>
+    {% endif %}
+
+    {% if page.web %}
+    <a href="{{ page.web }}" target="_blank" class="pub-btn">
+        <span class="icon"><i class="fas fa-globe"></i></span>
+        <span>Website</span>
+    </a>
+    {% endif %}
+
+</div>
