@@ -47,15 +47,15 @@ description: Publications at the Make Lab
 
 ## 2026
 
-Punn Lertjaturaphat, Jungwoo Rhee, Jaewon You, and Andrea Bianchi. 2026. **Wire Your Way: Hardware-Contextualized Guidance and In-situ Tests for Personalized Circuit Prototyping**. To appear in the Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (_CHI '26_).
+Punn Lertjaturaphat, Jungwoo Rhee, Jaewon You, and Andrea Bianchi. 2026. **Wire Your Way: Hardware-Contextualized Guidance and In-situ Tests for Personalized Circuit Prototyping**. Conditionally accepted to 2026 CHI Conference on Human Factors in Computing Systems (_CHI '26_).
 
-Anam Ahmad Khan, Florian Weidner, Jungwoo Rhee, Yasmeen Abdrabou, Andrea Bianchi, Eduardo Velloso, Hans Gellersenmark, and Joshua Newn. 2026. **Gaze and Speech in Multimodal Human-Computer Interaction: A Scoping Review**. To appear in the Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (_CHI '26_).
+Anam Ahmad Khan, Florian Weidner, Jungwoo Rhee, Yasmeen Abdrabou, Andrea Bianchi, Eduardo Velloso, Hans Gellersenmark, and Joshua Newn. 2026. **Gaze and Speech in Multimodal Human-Computer Interaction: A Scoping Review**. Conditionally accepted to 2026 CHI Conference on Human Factors in Computing Systems (_CHI '26_).
 
-Nihar Sabnis, André Zenner, Erik Peralta, Marco Weiss, Andrea Bianchi, and Paul Strohmeier. 2026. **Connected Material Experiences using Bimanual Vibrotactile Crosstalk in Virtual Reality**. To appear in the Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (_CHI '26_).
+Nihar Sabnis, André Zenner, Erik Peralta, Marco Weiss, Andrea Bianchi, and Paul Strohmeier. 2026. **Connected Material Experiences using Bimanual Vibrotactile Crosstalk in Virtual Reality**. Conditionally accepted to 2026 CHI Conference on Human Factors in Computing Systems (_CHI '26_).
 
-Hongyu Zhou, Xincheng Huang, Winston Wijaya, Yi Fei Cheng, David Lindlbauer, Eduardo Velloso, Andrea Bianchi, Zhanna Sarsenbayeva, and Anusha Withana. 2026. **One Body, Two Minds: Alternating VR Perspective During Remote Teleoperation of Supernumerary Limbs**. To appear in the Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (_CHI '26_).
+Hongyu Zhou, Xincheng Huang, Winston Wijaya, Yi Fei Cheng, David Lindlbauer, Eduardo Velloso, Andrea Bianchi, Zhanna Sarsenbayeva, and Anusha Withana. 2026. **One Body, Two Minds: Alternating VR Perspective During Remote Teleoperation of Supernumerary Limbs**. Conditionally accepted to 2026 CHI Conference on Human Factors in Computing Systems (_CHI '26_).
 
-Yi Fei Cheng, Jarod Bloch, Alexander Wang, Andrea Bianchi, Anusha Withana, Anhong Guo, Laurie M. Heller, and David Lindlbauer. 2026. **Auditorily Embodied Conversational Agents: Effects of Spatialization and Situated Audio Cues on Presence and Social Perception**. To appear in the Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (_CHI '26_).
+Yi Fei Cheng, Jarod Bloch, Alexander Wang, Andrea Bianchi, Anusha Withana, Anhong Guo, Laurie M. Heller, and David Lindlbauer. 2026. **Auditorily Embodied Conversational Agents: Effects of Spatialization and Situated Audio Cues on Presence and Social Perception**. Conditionally accepted to 2026 CHI Conference on Human Factors in Computing Systems (_CHI '26_).
 
 HyeonBeom Yi, Myung Jin (MJ) Kim, Seungwoo Je, Seungjae Oh, Shuto Takashita, Hongyu Zhou S, Marie Muehlhaus, Eyal Ofek, and Andrea Bianchi. 2026. **Augmented Body Parts: Bridging VR Embodiment and Wearable Robotics**. ([Workshop](https://sites.google.com/view/augmented-body-parts)). In Extended Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (_CHI EA’26_) [[paper]]({{ site.url }}/files/2025/Yi_AugmetedBody_Workshop_CHI26.pdf).
 
