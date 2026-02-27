@@ -66,8 +66,7 @@ subtitle: Associate Professor - Lab director
 </style>
 </head>
 
-
-My name is Andrea Bianchi (Korean: 안두리), and I am a tenured Associate Professor in the [Department of Industrial Design](https://id.kaist.ac.kr) at [KAIST](https://www.kaist.ac.kr) in South Korea, where I also serve as the director of the *Make Lab*. I hold a joint appointment in the [School of Computing](https://cs.kaist.ac.kr/people/facultyInteractiveComputing). Prior to joining KAIST, I was an Assistant Professor of Computer Science at [Sungkyunkwan University](http://www.skku.edu/eng/index.do) (Korea) and worked as a video game programmer for a New York [startup](https://www.crunchbase.com/organization/rebelmonkey).  
+My name is Andrea Bianchi (Korean: 안두리), and I am a tenured Associate Professor in the [Department of Industrial Design](https://id.kaist.ac.kr) at [KAIST](https://www.kaist.ac.kr) in South Korea, where I also serve as the director of the _Make Lab_. I hold a joint appointment in the [School of Computing](https://cs.kaist.ac.kr/people/facultyInteractiveComputing). Prior to joining KAIST, I was an Assistant Professor of Computer Science at [Sungkyunkwan University](http://www.skku.edu/eng/index.do) (Korea) and worked as a video game programmer for a New York [startup](https://www.crunchbase.com/organization/rebelmonkey).
 
 I received my [Ph.D. from KAIST](https://ct.kaist.ac.kr/main.php?lang=1) 🇰🇷 in 2012, an MS in Computer Science from [New York University (NYU)](http://www.nyu.edu) 🇺🇸, and a Laurea (BSc+MS) in Business Administration from [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home) 🇮🇹.
 
@@ -75,10 +74,9 @@ I served as **Paper Co-Chair** at [UIST 2025](https://uist.acm.org/2025) and **S
 
 I have an [Erdős number](https://en.wikipedia.org/wiki/Erdős_number) of 3 and collect [eyeglasses](https://www.dropbox.com/scl/fi/gqnzkks4o9whyvgar3tth/glasses.pdf?rlkey=qcpytc9f10otdj135vbwahrl9&dl=0).
 
-<blockquote class="no-gradient large-quote">For a complete list of my publications, patents, services, awards, and talks, etc... please visit my <a href="http://andrea.kaist.id"><em>personal page</em></a>.</blockquote>
+<blockquote class="no-gradient large-quote">For a complete list of my publications, patents, services, awards, and talks, etc... please visit my <a href="http://andrea.kaist.id"><em>personal page</em></a>. For my old projects of when I was still a PhD student and then assistant professor un SUngkyungkwan university, please refer to <a href="https://alsoplantsfly.netlify.app"><em>this repository</em>.</a></blockquote>
 
 <img src="/images/people/andreaHD.jpg" alt="{{prof.name}}" class="profileImage"/>
-
 
 {% assign prof = site.data.people[0] %}
 
@@ -92,7 +90,6 @@ I have an [Erdős number](https://en.wikipedia.org/wiki/Erdős_number) of 3 and 
 <a href="https://calendar.kaist.id" title="My calendar"><i class="fas fa-2x fa-calendar" aria-hidden="true"></i></a>
 <a href="#" onclick="(function(){window.open('mailto:{{ prof.email }}');})()"><i class="fas fa-2x fa-envelope"></i></a>
 </div>
-
 
 ## Reserach interest
 
@@ -111,7 +108,6 @@ I have tried to explain a little about my teaching philosophy in this [interview
 - Fall: 2016, 2017
 - Spring: 2016, 2018-2023
 
-
 **ID499/CS492F - Designing Interaction with _Hardware_** ([current](https://hardware.prototyping.id))
 
 - Spring: 2026
@@ -127,7 +123,6 @@ I have tried to explain a little about my teaching philosophy in this [interview
 **ID307 - _Interface Design_**
 
 - Spring 2016, 2017
-
 
 <!-- **Program committee and editor**
 
@@ -161,4 +156,3 @@ I have tried to explain a little about my teaching philosophy in this [interview
 - Asia Haptics 2018 demo co-chair
 - IEEE World Haptics 2013 art chair
 - HAID 2013 poster chair -->
-
