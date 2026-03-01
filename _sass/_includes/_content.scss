@@ -128,6 +128,17 @@
 		}
 	}
 
+	/* Ensure links inside list items match paragraph link styling */
+	li a,
+	ul a,
+	ol a {
+		text-decoration: underline;
+		color: $text-dark-color;
+		&:hover {
+			color: $accent-color;
+		}
+	}
+
 	p .button {
 		margin-top: 10px;
 	}
