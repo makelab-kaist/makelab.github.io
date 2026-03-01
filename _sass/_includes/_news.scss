@@ -1,0 +1,59 @@
+// Styles for the news list displayed on the News page
+
+.news-list {
+  list-style: none;
+  margin: 1.5rem 0 0 0;
+  padding: 0;
+}
+
+.news-item {
+  display: flex;
+  align-items: flex-start;
+  margin: 0 0 0.75rem 0;
+}
+
+.news-date {
+  flex: 0 0 10rem; /* reserve space for the date */
+  max-width: 10rem;
+  margin-right: 1rem;
+  font-size: $p-small * 0.9;
+  color: $text-medium-color;
+  line-height: 1.2;
+}
+
+.news-text {
+  flex: 1 1 auto;
+  text-align: left;
+}
+
+.news-text p {
+  margin: 0;
+}
+
+@include mq(tabletp) {
+  .news-date {
+    flex: 0 0 9rem;
+    max-width: 9rem;
+    font-size: $p-small * 0.85;
+  }
+}
+
+@include mq(tabletl) {
+  .news-date {
+    flex: 0 0 8rem;
+    max-width: 8rem;
+    font-size: $p-small * 0.85;
+  }
+}
+
+@include mq(laptop) {
+  .news-item {
+    margin: 0 0 1rem 0;
+  }
+
+  .news-date {
+    flex: 0 0 8rem;
+    max-width: 8rem;
+    font-size: $p-small * 0.9;
+  }
+}
