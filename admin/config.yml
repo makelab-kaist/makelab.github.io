@@ -2,6 +2,7 @@ backend:
   name: github
   repo: makelab-kaist/makelab.github.io
   branch: main
+  auth_type: implicit
 
 media_folder: "assets/images"
 public_folder: "/assets/images"
