@@ -66,16 +66,6 @@ subtitle: Associate Professor - Lab director
 </style>
 </head>
 
-My name is Andrea Bianchi (Korean: 안두리), and I am a tenured Associate Professor in the [Department of Industrial Design](https://id.kaist.ac.kr) at [KAIST](https://www.kaist.ac.kr) in South Korea, where I also serve as the director of the _Make Lab_. I hold a joint appointment in the [School of Computing](https://cs.kaist.ac.kr/people/facultyInteractiveComputing). Prior to joining KAIST, I was an Assistant Professor of Computer Science at [Sungkyunkwan University](http://www.skku.edu/eng/index.do) (Korea) and worked as a video game programmer for a New York [startup](https://www.crunchbase.com/organization/rebelmonkey).
-
-I received my [Ph.D. from KAIST](https://ct.kaist.ac.kr/main.php?lang=1) 🇰🇷 in 2012, an MS in Computer Science from [New York University (NYU)](http://www.nyu.edu) 🇺🇸, and a Laurea (BSc+MS) in Business Administration from [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home) 🇮🇹.
-
-I served as **Paper Co-Chair** at [UIST 2025](https://uist.acm.org/2025) and **Subcommittee Chair** at [CHI 2025](https://chi2025.acm.org) and [CHI 2026](https://chi2026.acm.org) for the "Blending Interaction: Engineering Interactive Systems & Tools" subcommittee. I am also an **associate editor** for the [IEEE Transactions on Haptics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4543165). I have served as a committee member and held organizational roles for numerous venues, including CHI, DIS, TEI, IEEE World Haptics, SIGGRAPH E-Tech, Eurohaptics, IMWUT, and MobileHCI.
-
-I have an [Erdős number](https://en.wikipedia.org/wiki/Erdős_number) of 3 and collect [eyeglasses](https://www.dropbox.com/scl/fi/gqnzkks4o9whyvgar3tth/glasses.pdf?rlkey=qcpytc9f10otdj135vbwahrl9&dl=0).
-
-<blockquote class="no-gradient large-quote">For a complete list of my publications, patents, services, awards, and talks, etc... please visit my <a href="http://andrea.kaist.id"><em>personal page</em></a>. For my old projects of when I was still a PhD student and then assistant professor un SUngkyungkwan university, please refer to <a href="https://alsoplantsfly.netlify.app"><em>this repository</em>.</a></blockquote>
-
 <img src="/images/people/andreaHD.jpg" alt="{{prof.name}}" class="profileImage"/>
 
 {% assign prof = site.data.people[0] %}
@@ -91,11 +81,26 @@ I have an [Erdős number](https://en.wikipedia.org/wiki/Erdős_number) of 3 and 
 <a href="#" onclick="(function(){window.open('mailto:{{ prof.email }}');})()"><i class="fas fa-2x fa-envelope"></i></a>
 </div>
 
+My name is Andrea Bianchi (Korean: 안두리), and I am a tenured Associate Professor in the [Department of Industrial Design](https://id.kaist.ac.kr) at [KAIST](https://www.kaist.ac.kr) in South Korea, where I also serve as the director of the _Make Lab_. I hold a joint appointment in the [School of Computing](https://cs.kaist.ac.kr/people/facultyInteractiveComputing). Prior to joining KAIST, I was an Assistant Professor of Computer Science at [Sungkyunkwan University](http://www.skku.edu/eng/index.do) (Korea) and worked as a video game programmer for a New York [startup](https://www.crunchbase.com/organization/rebelmonkey).
+
+I received my [Ph.D. from KAIST](https://ct.kaist.ac.kr/main.php?lang=1) 🇰🇷 in 2012, an MS in Computer Science from [New York University (NYU)](http://www.nyu.edu) 🇺🇸, and a Laurea (BSc+MS) in Business Administration from [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home) 🇮🇹.
+
+I served as **Paper Co-Chair** at [UIST 2025](https://uist.acm.org/2025) and **Subcommittee Chair** at [CHI 2025](https://chi2025.acm.org) and [CHI 2026](https://chi2026.acm.org) for the "Blending Interaction: Engineering Interactive Systems & Tools" subcommittee. I am also an **associate editor** for the [IEEE Transactions on Haptics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4543165). I have served as a committee member and held organizational roles for numerous venues, including CHI, DIS, TEI, IEEE World Haptics, SIGGRAPH E-Tech, Eurohaptics, IMWUT, and MobileHCI.
+
+I have an [Erdős number](https://en.wikipedia.org/wiki/Erdős_number) of 3 and collect [eyeglasses](https://www.dropbox.com/scl/fi/gqnzkks4o9whyvgar3tth/glasses.pdf?rlkey=qcpytc9f10otdj135vbwahrl9&dl=0).
+
+<blockquote class="no-gradient large-quote">For a complete list of my publications, patents, services, awards, and talks, etc... please visit my <a href="http://andrea.kaist.id"><em>personal page</em></a>. For my old projects of when I was still a PhD student and then assistant professor un SUngkyungkwan university, please refer to <a href="https://alsoplantsfly.netlify.app"><em>this repository</em>.</a></blockquote>
+
+
+
 ## Reserach interest
 
 I research in the field of Human-Computer Interaction (_HCI_), with a focus on _creativity support systems_ (physical computing and fabrication) and _tangible interaction_ (mechatronic devices, haptics, and related interfaces).
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U54PDYC_d4A?si=L9wxsR6aU-G5EycW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 I am particularly interested in the process of _making_ as a means for creative exploration, problem framing, and knowledge construction. I design systems to support creative making by blending physical experiences (artifacts, materials, and embodiment) with computational interaction. My lab's work has been recognized with 9+ Best Paper and Honorable Mention Awards at premier HCI venues.
+
 
 ## Teaching phylosphy and classes
 
