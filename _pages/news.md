@@ -4,7 +4,7 @@ title: News
 
 Here are the latest news from our lab:
 
-{% assign sorted_news = site.data.news.entries | sort: 'date' | reverse %}
+{% assign sorted_news = site.data.news | sort: 'date' | reverse %}
 
 <ul class="news-list">
 {% for item in sorted_news %}
