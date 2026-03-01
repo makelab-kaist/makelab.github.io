@@ -1,5 +1,14 @@
 site: make
 
+# Site URL Configuration (critical for SEO)
+url: "https://make.kaist.ac.kr"
+baseurl: ""
+
+# Site Metadata
+title: "Make Lab - KAIST"
+description: "HCI Research Lab at KAIST focusing on Haptics, VR, Digital Fabrication, Physical Computing, and Prototyping Tools"
+keywords: "HCI, Human-Computer Interaction, KAIST, Haptics, VR, Virtual Reality, Digital Fabrication, Physical Computing, Prototyping, Interaction Design, Make Lab"
+
 collections:
   pages:
     output: true

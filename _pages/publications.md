@@ -1,6 +1,8 @@
 ---
 title: Awards & Publications
 description: Publications at the Make Lab
+keywords: HCI Research, CHI, UIST, Publications, Academic Papers, Best Paper Awards, Make Lab, KAIST, Andrea Bianchi, Haptics, VR, Digital Fabrication, Interactive Systems, Tangible Interaction, IEEE World Haptics
+author: Make Lab, KAIST
 ---
 
 <head>

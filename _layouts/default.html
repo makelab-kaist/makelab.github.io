@@ -23,6 +23,19 @@
 	<title>{% if page.url == "/" %}{{ site.data.settings.basic_settings.site_title }} – {{ page.title }}{% else %}{{
 		page.title }} – {{ site.data.settings.basic_settings.site_title }}{% endif %}</title>
 	<meta name="description" content="{{ page.description }}">
+	
+	<!-- Keywords -->
+	{% if page.keywords %}
+	<meta name="keywords" content="{{ page.keywords }}">
+	{% elsif site.keywords %}
+	<meta name="keywords" content="{{ site.keywords }}">
+	{% endif %}
+	
+	<!-- Author -->
+	<meta name="author" content="{% if page.author %}{{ page.author }}{% else %}Make Lab, KAIST{% endif %}">
+	
+	<!-- Canonical URL -->
+	<link rel="canonical" href="{{ page.url | absolute_url }}">
 
 	<!-- Twitter Card -->
 	<meta name="twitter:card" content="summary_large_image">
@@ -32,10 +45,36 @@
 	<meta name="twitter:image:src" content="{{ site.url }}{{ page.featured_image }}">
 
 	<!-- Facebook OpenGraph -->
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="{{ page.url | absolute_url }}" />
+	<meta property="og:site_name" content="Make Lab - KAIST" />
 	<meta property="og:title" content="{% if page.url == " /" %}{{ site.data.settings.basic_settings.site_title }} – {{
 		page.title }}{% else %}{{ page.title }} – {{ site.data.settings.basic_settings.site_title }}{% endif %}" />
 	<meta property="og:description" content="{{ page.description }}" />
 	<meta property="og:image" content="{{ site.url }}{{ page.featured_image }}" />
+	
+	<!-- Schema.org Structured Data -->
+	<script type="application/ld+json">
+	{
+		"@context": "https://schema.org",
+		"@type": "ResearchOrganization",
+		"name": "Make Lab",
+		"alternateName": "KAIST Make Lab",
+		"url": "{{ site.url }}",
+		"logo": "{{ site.data.settings.basic_settings.logo_image | absolute_url }}",
+		"description": "{{ site.description }}",
+		"parentOrganization": {
+			"@type": "EducationalOrganization",
+			"name": "KAIST",
+			"url": "https://www.kaist.ac.kr"
+		},
+		"address": {
+			"@type": "PostalAddress",
+			"addressCountry": "KR",
+			"addressRegion": "Daejeon"
+		}
+	}
+	</script>
 
 	{% if site.data.settings.font_settings.font_embed %}
 	<!-- Font Embed Code -->

@@ -2,6 +2,8 @@
 title: Andrea Bianchi
 description: Andrea Bianchi, Interaction, Design, HCI, Haptics, VR, Digital Fabrication, Physical computing, Prototyping tools, KAIST, Korea
 subtitle: Associate Professor - Lab director
+keywords: Andrea Bianchi, HCI, Human-Computer Interaction, KAIST, Associate Professor, Haptics, VR, Virtual Reality, Digital Fabrication, Physical Computing, Prototyping, Tangible Interaction, Mechatronics, Creativity Support, CHI, UIST
+author: Andrea Bianchi
 ---
 
 <head>
