@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: github
   repo: makelab-kaist/makelab.github.io
   branch: main
 
