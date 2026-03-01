@@ -11,6 +11,10 @@ html, body {
 	height: 100%;
 }
 
+[id] {
+	scroll-margin-top: 80px;
+}
+
 body {
 	background: $background-color;
 	font-family: $body-font;
