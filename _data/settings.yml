@@ -21,10 +21,10 @@ menu_settings:
     #   url: '/opensource'
     # - title: 'Sponsors'
     #   url: '/sponsors'
+    - title: 'Join us'
+      url: '/join'
     - title: 'Contact'
       url: '/contact'
-    # - subtitle: 'Join us'
-    #   url: '/join'
 
 grid_settings:
   overlay_opacity: 0.8

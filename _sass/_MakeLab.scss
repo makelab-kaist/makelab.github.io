@@ -1,13 +1,13 @@
 // Pretty blockquote styling
 .pretty-blockquote {
-  background: #f5f5f5; /* removed gradient */
-  border-left: 6px solid #EE2A7C;
+  background: #f5f5f5; /* solid gray background */
+  border-left: 6px solid $text-dark-color;
   border-radius: 12px;
   box-shadow: 0 4px 16px rgba(124, 58, 237, 0.08);
   padding: 20px 28px;
   margin-left: 32px;
   margin-right: 32px;
-  font-size: 0.95em;
+  font-size: $p-large;
   color: #333;
 }
 @media (max-width: 600px) {
@@ -15,18 +15,18 @@
     padding: 12px 8px;
     margin-left: 8px;
     margin-right: 8px;
-    font-size: 0.92em;
+    font-size: $p-medium;
   }
 }
 blockquote {
-  background: linear-gradient(135deg, #f5f5f5 60%, #e0e7ff 100%);
-  border-left: 6px solid #7c3aed;
+  background: #f5f5f5; /* solid gray background */
+  border-left: 6px solid $text-dark-color;
   border-radius: 12px;
   box-shadow: 0 4px 16px rgba(124, 58, 237, 0.08);
   padding: 20px 28px;
   margin-left: 32px;
   margin-right: 32px;
-  font-size: 0.95em;
+  font-size: $p-large;
   color: #333;
 }
 
@@ -35,7 +35,7 @@ blockquote {
     padding: 12px 8px;
     margin-left: 8px;
     margin-right: 8px;
-    font-size: 0.92em;
+    font-size: $p-medium;
   }
 }
 .link-btn {
@@ -239,6 +239,39 @@ blockquote {
   margin-left: 2em;
 }
 
+/* Foldable Q/A styles */
+.foldable-qa {
+  margin: 1em 0;
+}
+
+.foldable-qa summary {
+  cursor: pointer;
+  list-style: none;
+  padding: 12px 16px;
+  background: #efefef;
+  border-radius: 8px;
+  font-weight: 600;
+  color: $text-medium-color;
+}
+
+.foldable-qa summary::-webkit-details-marker { display: none; }
+
+.foldable-qa[open] summary {
+  background: #e6e6e6;
+}
+
+.foldable-qa .answer {
+  padding: 12px 16px;
+  background: #fafafa;
+  border-radius: 0 0 8px 8px;
+  border: 1px solid rgba(0,0,0,0.04);
+  margin-top: 6px;
+}
+
+/* Fallback: when details not supported, hide answer until toggled by JS */
+.foldable-qa .answer.js-hidden { display: none; }
+
+
 .header__lower {
   left: 40px;
 }
@@ -393,6 +426,40 @@ pre#bibtex-code code {
   .intro .wrap,
   .single .wrap {
     max-width: 1400px;
+  }
+}
+
+/* Add a visible label for question-styled blockquotes */
+.question-quote {
+  position: relative;
+}
+
+.question-quote::before {
+  content: "Question";
+  display: block;
+  font-size: $p-medium;
+  font-weight: 600;
+  text-transform: capitalize;
+  color: $text-dark-color;
+  margin-bottom: 8px;
+}
+
+@media (max-width: 600px) {
+  .question-quote::before {
+    font-size: $p-small;
+  }
+}
+
+/* Reduce vertical padding for question blocks */
+.question-quote {
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+@media (max-width: 600px) {
+  .question-quote {
+    padding-top: 8px;
+    padding-bottom: 8px;
   }
 }
 
