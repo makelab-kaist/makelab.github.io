@@ -2,7 +2,7 @@
 title: Andrea Bianchi
 description: Andrea Bianchi, Interaction, Design, HCI, Haptics, VR, Digital Fabrication, Physical computing, Prototyping tools, KAIST, Korea
 subtitle: Associate Professor - Lab director
-keywords: Andrea Bianchi, HCI, Human-Computer Interaction, KAIST, Associate Professor, Haptics, VR, Virtual Reality, Digital Fabrication, Physical Computing, Prototyping, Tangible Interaction, Mechatronics, Creativity Support, CHI, UIST
+keywords: Andrea Bianchi, HCI, Human-Computer Interaction, KAIST, Associate Professor, Haptics, VR, Virtual Reality, Digital Fabrication, Physical Computing, Prototyping,  Mechatronics, Creativity Support, CHI, UIST
 author: Andrea Bianchi
 ---
 
@@ -97,7 +97,7 @@ I have an [Erdős number](https://en.wikipedia.org/wiki/Erdős_number) of 3 and 
 
 ## Reserach interest
 
-I research in the field of Human-Computer Interaction (_HCI_), with a focus on _creativity support systems_ (physical computing and fabrication) and _tangible interaction_ (mechatronic devices, haptics, and related interfaces).
+I research in the field of Human-Computer Interaction (_HCI_), with a focus on _creativity support systems_ (physical computing and fabrication) and _physical interaction_ (mechatronic devices, haptics, and mixed reality).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U54PDYC_d4A?si=L9wxsR6aU-G5EycW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
