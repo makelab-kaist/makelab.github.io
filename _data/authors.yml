@@ -3,6 +3,8 @@ Andrea Bianchi:
   name: Andrea Bianchi
   url: /andrea
 
+Jungwoo Rhee: { name: Jungwoo Rhee, url: "https://jungwoorhee.com" }
+Jaewon You: { name: Jaewon You }
 
 # alumni
 DaYe Kang: { name: DaYe Kang, url: "https://www.dayekang.info" }
@@ -32,6 +34,8 @@ Zofia Marciniak: { name: Zofia Marciniak, url: "https://zosia-hci.github.io" }
 
 # collaborators
 Aaron Quigley: { name: Aaron Quigley, url: "https://aaronquigley.org" }
+Alexander Wang: { name: Alexander Wang }
+Anhong Guo: { name: Anhong Guo , url: "https://guoanhong.com" }
 Anusha Withana: {  name: Anusha Withana, url: "https://scholar.google.com/citations?user=y17ckyIAAAAJ&hl=en" }
 Artem Dementyev: { name: Artem Dementyev, url: "https://adementyev.github.io" }
 Austin Z. Henley: { name: Austin Z. Henley, url: "https://austinhenley.com" }
@@ -43,6 +47,7 @@ Byungjoo Lee: { name: Byungjoo Lee, url: "https://scholar.google.com/citations?h
 Clement Zheng: { name: Clement Zheng, url: "https://clementzheng.info" }
 Daniel Ashbrook: { name: Daniel Ashbrook, url: "http://danielashbrook.com" }
 David Harris-Birtill: { name: David Harris-Birtill }
+David Lindlbauer: { name: David Lindlbauer, url: "https://scholar.google.com/citations?user=DBkNLiwAAAAJ&hl=en" }
 Eyal Ofek: { name: Eyal Ofek, url: "https://eyalofek.org" }
 Geehyuk Lee: { name: Geehyuk Lee, url: "https://scholar.google.com/citations?user=wBXkmcQAAAAJ&hl=en" }
 Hamed Alavi: { name: Hamed Alavi, url: "https://scholar.google.com/citations?hl=en&user=o6OyxJgAAAAJ" }
@@ -56,11 +61,13 @@ Hyunchul Roh: { name: Hyunchul Roh }
 Hyungjun Yoon: { name: Hyungjun Yoon }
 Ian Oakley: { name: Ian Oakley, url: "https://ee.kaist.ac.kr/en/professor/ian-oakley/" }
 Jaemin Shin: { name: Jaemin Shin }
+Jarod Bloch: { name: Jarod Bloch }
 Jas Brooks: { name: Jas Brooks, url: "https://jasbrooks.net" }
 Jeeeun Kim: { name: Jeeeun Kim, url: "https://www.jeeeunkim.com/bio.html" }
 Juyoung Lee: { name: Juyoung Lee }
 Kyungah Choi: { name: Kyungah Choi }
 Laurenz Seidel: { name: Laurenz Seidel }
+Laurie M. Heller: { name: Laurie M. Heller }
 Liwei Chan: { name: Liwei Chan, url: "https://people.cs.nycu.edu.tw/~liweichan/" }
 Michel Pahud: { name: Michel Pahud, url: "https://www.microsoft.com/en-us/research/people/mpahud/" }
 Mike Sinclair: { name: Mike Sinclair }
@@ -80,6 +87,7 @@ Tony Ho: { name: Tony Ho }
 Valkyrie Savage: { name: Valkyrie Savage, url: "https://valkyriesavage.com" }
 Xing-Dong Yang: { name: Xing-Dong Yang, url: "https://www.sfu.ca/fas/computing/people/faculty/faculty-members/xingdong_yang.html" }
 Yekaterina Abileva: { name: Yekaterina Abileva }
+Yi Fei Cheng: { name: Yi Fei Cheng, url: "https://scholar.google.com/citations?user=HHVl91sAAAAJ&hl=en" }
 Yihao Dong: { name: Yihao Dong }
 Youngjun Cho: { name: Youngjun Cho, url: "https://youngjuncho.com" }
 Zhanna Sarsenbayeva: { name: Zhanna Sarsenbayeva, url: "https://scholar.google.com/citations?user=VJH22RwAAAAJ&hl=en" }
