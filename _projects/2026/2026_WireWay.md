@@ -7,7 +7,8 @@ featured_image: /images/projects/wireway.png # width must be 1600px
 year: 2026
 venue: CHI
 authors: [Punn Lertjaturaphat, Jungwoo Rhee, Jaewon You, Andrea Bianchi]
-equal_authors : [Punn Lertjaturaphat, Jungwoo Rhee]
+equal_authors: [Punn Lertjaturaphat, Jungwoo Rhee]
+award: Honorable Mention
 
 # Paper links
 # pdf: asdf.pdf # put file in the directory FILES

@@ -32,6 +32,7 @@ author: Make Lab, KAIST
 - 🏆 **Best Paper Award** HCI Korea 2018
 - 🏆 **Best Paper Award** HCI Korea 2015
 - 🏆 **Best Poster Award** UIST 2016
+- 🏅 **Honorable Mention Award** CHI 2026
 - 🏅 **Honorable Mention Award** CHI 2025
 - 🏅 **Honorable Mention Award** EICS 2024
 - 🏅 **Honorable Mention Award** CHI 2024
@@ -49,7 +50,7 @@ author: Make Lab, KAIST
 
 ## 2026
 
-Punn Lertjaturaphat, Jungwoo Rhee, Jaewon You, and Andrea Bianchi. 2026. **Wire Your Way: Hardware-Contextualized Guidance and In-situ Tests for Personalized Circuit Prototyping**. Conditionally accepted to 2026 CHI Conference on Human Factors in Computing Systems (_CHI '26_).
+Punn Lertjaturaphat, Jungwoo Rhee, Jaewon You, and Andrea Bianchi. 2026. **Wire Your Way: Hardware-Contextualized Guidance and In-situ Tests for Personalized Circuit Prototyping**. Conditionally accepted to 2026 CHI Conference on Human Factors in Computing Systems (_CHI '26_)(**Honorable Mention Award 🏅**).
 
 Anam Ahmad Khan, Florian Weidner, Jungwoo Rhee, Yasmeen Abdrabou, Andrea Bianchi, Eduardo Velloso, Hans Gellersenmark, and Joshua Newn. 2026. **Gaze and Speech in Multimodal Human-Computer Interaction: A Scoping Review**. Conditionally accepted to 2026 CHI Conference on Human Factors in Computing Systems (_CHI '26_).
 
