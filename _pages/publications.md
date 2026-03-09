@@ -28,21 +28,23 @@ author: Make Lab, KAIST
 - 🏆 **Best Paper Award** UIST 2020
 - 🏆 **Best Paper Award** TEI 2021
 - 🏆 **Best Paper Award** MobileHCI 2013
-- 🏆 **Best Paper Award** HCI Korea 2022
-- 🏆 **Best Paper Award** HCI Korea 2018
-- 🏆 **Best Paper Award** HCI Korea 2015
 - 🏆 **Best Poster Award** UIST 2016
 - 🏅 **Honorable Mention Award** CHI 2026
 - 🏅 **Honorable Mention Award** CHI 2025
-- 🏅 **Honorable Mention Award** EICS 2024
 - 🏅 **Honorable Mention Award** CHI 2024
 - 🏅 **Honorable Mention Award** CHI 2022
 - 🏅 **Honorable Mention Award** CHI 2021
+- 🏅 **Honorable Mention Award** EICS 2024
 - 🏅 **Honorable Mention Award** Augmented Humans 2021
 - 🏅 **Honorable Mention Award** MobileHCI 2017
 - 🏅 **Honorable Mention Award** MobileHCI 2016
 - 🏆 **iF Design Award 2021**
 - 🥉 **IDSA 2021 Bronze Design Award**
+
+**Domestic**
+- 🏆 **Best Paper Award** HCI Korea 2022
+- 🏆 **Best Paper Award** HCI Korea 2018
+- 🏆 **Best Paper Award** HCI Korea 2015
 
 ---
 
