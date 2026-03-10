@@ -101,6 +101,21 @@ blockquote {
   letter-spacing: 0.03em;
 }
 
+.award {
+  display: inline-flex;
+  align-items: center;
+  background-color: #FFF8E1;
+  color: #cb9409;
+  border: 1px solid #ab9203;
+  border-radius: 20px;
+  padding: 1px 7px;
+  font-size: 0.82em;
+  font-weight: 600;
+  white-space: nowrap;
+  margin-left: 4px;
+  vertical-align: middle;
+}
+
 /* Award badge should appear beneath the conference badge */
 .award-badge {
   display: block;
