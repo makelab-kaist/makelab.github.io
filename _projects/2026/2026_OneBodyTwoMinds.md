@@ -6,12 +6,23 @@ featured_image: /images/projects/onebodytwominds.jpg # width must be 1600px
 # Paper info
 year: 2026
 venue: CHI
-authors: [Hongyu Zhou, Xincheng Huang, Winston Wijaya, Yi Fei Cheng, David Lindlbauer, Eduardo Velloso, Andrea Bianchi, Zhanna Sarsenbayeva, Anusha Withana ]
+authors:
+  [
+    Hongyu Zhou,
+    Xincheng Huang,
+    Winston Wijaya,
+    Yi Fei Cheng,
+    David Lindlbauer,
+    Eduardo Velloso,
+    Andrea Bianchi,
+    Zhanna Sarsenbayeva,
+    Anusha Withana,
+  ]
 
 # Paper links
 # pdf: asdf.pdf # put file in the directory FILES
 # doi: https://doi.org/10.1145/3746059.3747715
-# video: B-UxFxee0qY?si=P0-bUe1lFkM_CAtK
+video: B-UxFxee0qY?si=B7GrEnBjT1xQqEct
 ---
 
 <!-- Video -->
