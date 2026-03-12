@@ -19,7 +19,7 @@ authors:
 
 # Paper links
 pdf: Je_Elevate_CHI21.pdf # put file in the directory FILES
-github: https://github.com/makinteract/elevate
+github: https://github.com/makinteractlab/Elevate
 doi: https://doi.org/10.1145/3411764.3445454
 video: QvuVQ68uf-w
 ---
