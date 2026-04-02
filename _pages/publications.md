@@ -41,6 +41,7 @@ author: Make Lab, KAIST
 - 🥉 **IDSA 2021 Bronze Design Award**
 
 **Domestic**
+
 - 🏆 **Best Paper Award** HCI Korea 2022
 - 🏆 **Best Paper Award** HCI Korea 2018
 - 🏆 **Best Paper Award** HCI Korea 2015
@@ -61,9 +62,9 @@ Hongyu Zhou, Xincheng Huang, Winston Wijaya, Yi Fei Cheng, David Lindlbauer, Edu
 
 Yi Fei Cheng, Jarod Bloch, Alexander Wang, Andrea Bianchi, Anusha Withana, Anhong Guo, Laurie M. Heller, and David Lindlbauer. 2026. **Auditorily Embodied Conversational Agents: Effects of Spatialization and Situated Audio Cues on Presence and Social Perception**. Conditionally accepted to 2026 CHI Conference on Human Factors in Computing Systems (_CHI '26_).
 
-HyeonBeom Yi, Myung Jin (MJ) Kim, Seungwoo Je, Seungjae Oh, Shuto Takashita, Hongyu Zhou S, Marie Muehlhaus, Eyal Ofek, and Andrea Bianchi. 2026. **Augmented Body Parts: Bridging VR Embodiment and Wearable Robotics**. ([Workshop](https://sites.google.com/view/augmented-body-parts)). In Extended Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (_CHI EA’26_) [[paper]]({{ site.url }}/files/2025/YiH_AugmentedBodyParts_CHIEA26.pdf).
+HyeonBeom Yi, Myung Jin (MJ) Kim, Seungwoo Je, Seungjae Oh, Shuto Takashita, Hongyu Zhou S, Marie Muehlhaus, Eyal Ofek, and Andrea Bianchi. 2026. **Augmented Body Parts: Bridging VR Embodiment and Wearable Robotics**. ([Workshop](https://sites.google.com/view/augmented-body-parts)). In Extended Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (_CHI EA’26_) [[paper]]({{ site.url }}/files/2026/YiH_AugmentedBodyParts_CHIEA26.pdf).
 
-Hyunyoung Kim, Daniel Ashbrook, Andrea Bianchi, Jack Forman, DPV Joseph Jayakody, Sara Nabil, HyunJoo Oh, Thomas Pietrzak, Thijs Roumen, Valkyrie Savage, Lining Yao, and Clement Zheng. **From Papers to the Real World: Making Fabrication Research Matter**. ([Workshop](https://fabricationresearch.wordpress.com)). In Extended Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (_CHI EA’26_) [[paper]]({{ site.url }}/files/2025/KimH_FabResearch_Workshop_CHI26.pdf).
+Hyunyoung Kim, Daniel Ashbrook, Andrea Bianchi, Jack Forman, DPV Joseph Jayakody, Sara Nabil, HyunJoo Oh, Thomas Pietrzak, Thijs Roumen, Valkyrie Savage, Lining Yao, and Clement Zheng. **From Papers to the Real World: Making Fabrication Research Matter**. ([Workshop](https://fabricationresearch.wordpress.com)). In Extended Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (_CHI EA’26_) [[paper]]({{ site.url }}/files/2026/KimH_FabResearch_Workshop_CHI26.pdf).
 
 Haeri Kim, Anam Ahmad Khan, and Andrea Bianchi. 2026. **Understanding XR-Supported Creative Collaboration through a Domain-Specific Lens**. In _HCI Korea 2026_ [[paper]]({{ site.url }}/files/2026/KimH_XRconcert_KHCI26.pdf) (2026.01.26 2025.01.28).
 
