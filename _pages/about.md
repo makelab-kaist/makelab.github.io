@@ -9,7 +9,7 @@ _make lab_ is a research group working in the field of Human-Computer Interactio
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FaTROXhY3-A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Rooted in user-centered experience design and with deep understanding and expertise in various engineering fields (computing, mechanical engineering, electronics), we explore emerging technologies in the areas of _physical interaction with computers_ that require combinations of software and hardware.
+Rooted in user-centered experience design and with deep understanding and expertise in various engineering fields (computing, mechanical engineering, electronics), we explore emerging technologies aimed to _physically empower creativity_ and processes. As such, we blend physical and digital realms (hardware + software) that result in novel physical interactions with computers to foster creators and makers like us.
 
 Current research topics are related to **novel tools for electronics**, **digital fabrication**, **mixed-reality (XR) interaction**, and **haptic or robotic interfaces**.
 
