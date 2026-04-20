@@ -35,21 +35,21 @@ Perceiving material properties such as elasticity, flexibility, and torsion is i
 
 <!-- BibTex -->
 
-<!-- {% capture paper_bibtex %}
-@inproceedings{10.1145/3746059.3747715,
-author = {Marciniak, Zofia and Lertjaturaphat, Punn and Bianchi, Andrea},
-title = {StitchFlow: Enabling In-Situ Creative Explorations of Crochet Patterns With Stitch Tracking and Process Sharing},
-year = {2025},
-isbn = {9798400720376},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3746059.3747715},
-doi = {10.1145/3746059.3747715},
-booktitle = {Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology},
-articleno = {7},
-numpages = {15},
-keywords = {Digital Fabrication, Crochet Patterns, Design Tools},
-series = {UIST '25}
+{% capture paper_bibtex %}
+@inproceedings{10.1145/3772318.3790767,
+  author = {Sabnis, Nihar and Zenner, Andr\'{e} and L\o{}vaas, Erik Peralta and Weiss, Marco and Bianchi, Andrea and Strohmeier, Paul},
+  title = {Connected Material Experiences using Bimanual Vibrotactile Crosstalk in Virtual Reality},
+  year = {2026},
+  isbn = {9798400722783},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3772318.3790767},
+  doi = {10.1145/3772318.3790767},
+  booktitle = {Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems},
+  articleno = {756},
+  numpages = {20},
+  keywords = {bimanual vibrotactile feedback, virtual reality, material perception, motion-coupled vibrations, Consumer VR},
+  series = {CHI '26}
 }
 {% endcapture %}
-{% include bibtex.html bibtex=paper_bibtex %} -->
+{% include bibtex.html bibtex=paper_bibtex %}

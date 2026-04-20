@@ -28,21 +28,21 @@ The increasing popularity of microcontroller platforms such as Arduino allows a 
 
 <!-- BibTex -->
 
-<!-- {% capture paper_bibtex %}
-@inproceedings{10.1145/3746059.3747715,
-author = {Marciniak, Zofia and Lertjaturaphat, Punn and Bianchi, Andrea},
-title = {StitchFlow: Enabling In-Situ Creative Explorations of Crochet Patterns With Stitch Tracking and Process Sharing},
-year = {2025},
-isbn = {9798400720376},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3746059.3747715},
-doi = {10.1145/3746059.3747715},
-booktitle = {Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology},
-articleno = {7},
-numpages = {15},
-keywords = {Digital Fabrication, Crochet Patterns, Design Tools},
-series = {UIST '25}
+{% capture paper_bibtex %}
+@inproceedings{10.1145/3772318.3791371,
+    author = {Lertjaturaphat, Punn and Rhee, Jungwoo and You, Jaewon and Bianchi, Andrea},
+    title = {Wire Your Way: Hardware-Contextualized Guidance and In-situ Tests for Personalized Circuit Prototyping},
+    year = {2026},
+    isbn = {9798400722783},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3772318.3791371},
+    doi = {10.1145/3772318.3791371},
+    booktitle = {Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems},
+    articleno = {1471},
+    numpages = {19},
+    keywords = {Physical computing, Circuit prototyping, Maker tools, Hardware development},
+    series = {CHI '26}
 }
 {% endcapture %}
-{% include bibtex.html bibtex=paper_bibtex %} -->
+{% include bibtex.html bibtex=paper_bibtex %}

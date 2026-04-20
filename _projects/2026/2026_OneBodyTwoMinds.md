@@ -37,21 +37,21 @@ _Remote VR teleoperation with supernumerary limbs_ enables distant users to oper
 
 <!-- BibTex -->
 
-<!-- {% capture paper_bibtex %}
-@inproceedings{10.1145/3746059.3747715,
-author = {Marciniak, Zofia and Lertjaturaphat, Punn and Bianchi, Andrea},
-title = {StitchFlow: Enabling In-Situ Creative Explorations of Crochet Patterns With Stitch Tracking and Process Sharing},
-year = {2025},
-isbn = {9798400720376},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3746059.3747715},
-doi = {10.1145/3746059.3747715},
-booktitle = {Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology},
-articleno = {7},
-numpages = {15},
-keywords = {Digital Fabrication, Crochet Patterns, Design Tools},
-series = {UIST '25}
+{% capture paper_bibtex %}
+@inproceedings{10.1145/3772318.3791433,
+  author = {Zhou, Hongyu and Huang, Xincheng and Wijaya, Winston and Cheng, Yi Fei and Lindlbauer, David and Velloso, Eduardo and Bianchi, Andrea and Sarsenbayeva, Zhanna and Withana, Anusha},
+  title = {One Body, Two Minds: Alternating VR Perspective During Remote Teleoperation of Supernumerary Limbs},
+  year = {2026},
+  isbn = {9798400722783},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3772318.3791433},
+  doi = {10.1145/3772318.3791433},
+  booktitle = {Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems},
+  articleno = {822},
+  numpages = {20},
+  keywords = {Virtual Reality, User Experience, Supernumerary Robotic Limbs},
+  series = {CHI '26}
 }
 {% endcapture %}
-{% include bibtex.html bibtex=paper_bibtex %} -->
+{% include bibtex.html bibtex=paper_bibtex %}
