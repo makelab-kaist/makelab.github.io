@@ -20,8 +20,8 @@ authors:
   ]
 
 # Paper links
-# pdf: asdf.pdf # put file in the directory FILES
-# doi: https://doi.org/10.1145/3746059.3747715
+pdf: ZhouH_OneBodyTwoMinds_CHI26.pdf # put file in the directory FILES
+doi: https://doi.org/10.1145/3772318.3791433
 video: B-UxFxee0qY?si=B7GrEnBjT1xQqEct
 ---
 

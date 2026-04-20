@@ -17,8 +17,8 @@ authors:
   ]
 
 # Paper links
-# pdf: asdf.pdf # put file in the directory FILES
-# doi: https://doi.org/10.1145/3746059.3747715
+pdf: SabnisN_Bimanual_CHI26.pdf # put file in the directory FILES
+doi: https://doi.org/10.1145/3772318.3790767
 github: https://github.com/sensint/biHaptics
 video: hdSUGFasvtA?si=m7njciuaBISt2gj3
 ---

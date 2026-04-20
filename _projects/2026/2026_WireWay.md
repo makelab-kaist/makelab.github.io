@@ -11,8 +11,8 @@ equal_authors: [Punn Lertjaturaphat, Jungwoo Rhee]
 award: Honorable Mention
 
 # Paper links
-# pdf: asdf.pdf # put file in the directory FILES
-# doi: https://doi.org/10.1145/3746059.3747715
+pdf: LertjaturaphatP_RheeJ_WireWay_CHI26.pdf
+doi: https://doi.org/10.1145/3772318.3791371
 video: g0KKqrsPBd8?si=sMru8t6fdrDtUHUj
 ---
 

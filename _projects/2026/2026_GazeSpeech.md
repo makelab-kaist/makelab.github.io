@@ -15,12 +15,12 @@ authors:
     Andrea Bianchi,
     Eduardo Velloso,
     Hans Gellersen,
-    Joshua Newn
+    Joshua Newn,
   ]
 
 # Paper links
-# pdf: asdf.pdf # put file in the directory FILES
-# doi: https://doi.org/10.1145/3746059.3747715
+pdf: KhanA_GazeSpeach_CHI26.pdf # put file in the directory FILES
+doi: https://doi.org/10.1145/3772318.3791662
 # video: B-UxFxee0qY?si=P0-bUe1lFkM_CAtK
 ---
 
