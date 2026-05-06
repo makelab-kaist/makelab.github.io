@@ -93,16 +93,13 @@ I have an [Erdős number](https://en.wikipedia.org/wiki/Erdős_number) of 3 and 
 
 <blockquote class="no-gradient large-quote">For a complete list of my publications, patents, services, awards, and talks, etc... please visit my <a href="http://andrea.kaist.id"><em>personal page</em></a>. For my old projects of when I was still a PhD student and then assistant professor un SUngkyungkwan university, please refer to <a href="https://alsoplantsfly.netlify.app"><em>this repository</em>.</a></blockquote>
 
-
-
 ## Reserach interest
 
 I research in the field of Human-Computer Interaction (_HCI_), with a focus on _creativity support systems_ (physical computing and fabrication) and _physical interaction_ (mechatronic devices, haptics, and mixed reality).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U54PDYC_d4A?si=L9wxsR6aU-G5EycW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/U54PDYC_d4A?si=L9wxsR6aU-G5EycW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
 I am particularly interested in the process of _making_ as a means for creative exploration, problem framing, and knowledge construction. I design systems to support creative making by blending physical experiences (artifacts, materials, and embodiment) with computational interaction. My lab's work has been recognized with 9+ Best Paper and Honorable Mention Awards at premier HCI venues.
-
 
 ## Teaching phylosphy and classes
 
