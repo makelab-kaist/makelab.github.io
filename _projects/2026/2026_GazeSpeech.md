@@ -21,7 +21,7 @@ authors:
 # Paper links
 pdf: KhanA_GazeSpeach_CHI26.pdf # put file in the directory FILES
 doi: https://doi.org/10.1145/3772318.3791662
-# video: B-UxFxee0qY?si=P0-bUe1lFkM_CAtK
+video: BszIdB7pPRs?si=kPpL_3VUI_Kn9BeE
 ---
 
 <!-- Video -->
@@ -38,19 +38,19 @@ Multimodal interaction has long promised to make interfaces more intuitive, adap
 
 {% capture paper_bibtex %}
 @inproceedings{10.1145/3772318.3791662,
-  author = {Khan, Anam Ahmad and Weidner, Florian and Rhee, Jungwoo and Abdrabou, Yasmeen and Bianchi, Andrea and Velloso, Eduardo and Gellersen, Hans and Newn, Joshua},
-  title = {Gaze and Speech in Multimodal Human-Computer Interaction: A Scoping Review},
-  year = {2026},
-  isbn = {9798400722783},
-  publisher = {Association for Computing Machinery},
-  address = {New York, NY, USA},
-  url = {https://doi.org/10.1145/3772318.3791662},
-  doi = {10.1145/3772318.3791662},
-  booktitle = {Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems},
-  articleno = {672},
-  numpages = {24},
-  keywords = {Gaze, Speech, Multimodal Interaction, Human–Computer Interaction, Scoping Review},
-  series = {CHI '26}
+author = {Khan, Anam Ahmad and Weidner, Florian and Rhee, Jungwoo and Abdrabou, Yasmeen and Bianchi, Andrea and Velloso, Eduardo and Gellersen, Hans and Newn, Joshua},
+title = {Gaze and Speech in Multimodal Human-Computer Interaction: A Scoping Review},
+year = {2026},
+isbn = {9798400722783},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3772318.3791662},
+doi = {10.1145/3772318.3791662},
+booktitle = {Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems},
+articleno = {672},
+numpages = {24},
+keywords = {Gaze, Speech, Multimodal Interaction, Human–Computer Interaction, Scoping Review},
+series = {CHI '26}
 }
 {% endcapture %}
 {% include bibtex.html bibtex=paper_bibtex %}
