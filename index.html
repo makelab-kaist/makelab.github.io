@@ -12,9 +12,10 @@ author: Make Lab, KAIST
 
 	<div class="content-wrap portfolio-wrap">
 
-		{% assign allPrjs = site.projects | sort: 'year' %}
-
-		{% for project in allPrjs reversed %}
+		{% assign byYear = site.projects | group_by: 'year' | sort: 'name' | reverse %}
+		{% for yearGroup in byYear %}
+		{% assign allPrjs = yearGroup.items | sort: 'month' | reverse %}
+		{% for project in allPrjs %}
 
 		<div class="portfolio-item">
 
@@ -36,6 +37,7 @@ author: Make Lab, KAIST
 
 		</div>
 
+		{% endfor %}
 		{% endfor %}
 
 	</div>
