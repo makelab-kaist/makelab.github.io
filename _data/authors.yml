@@ -3,104 +3,195 @@ Andrea Bianchi:
   name: Andrea Bianchi
   url: /andrea
 
-Jungwoo Rhee: { name: Jungwoo Rhee, url: "https://jungwoorhee.com" }
+Jungwoo Rhee: { name: Jungwoo Rhee, url: 'https://jungwoorhee.com' }
 Jaewon You: { name: Jaewon You }
-Anam Ahmad Khan: { name: Anam Ahmad Khan, url: "https://www.linkedin.com/in/anam-ahmad-khan/" }
+Anam Ahmad Khan:
+  { name: Anam Ahmad Khan, url: 'https://khananamahmad3-max.github.io/anamkhan.github.io' }
+Heeji Jolie Kim: { name: Heeji Jolie Kim, url: 'https://joliekim.github.io' }
+SeungHui Huh: { name: SeungHui Huh}
 
 # alumni
-DaYe Kang: { name: DaYe Kang, url: "https://www.dayekang.info" }
+DaYe Kang: { name: DaYe Kang, url: 'https://www.dayekang.info' }
 Haeun Lee: { name: Haeun Lee }
 Hoonjin Jung: { name: Hoonjin Jung }
-Hye-Young Jo: { name: Hye-Young Jo, url: "https://www.hyeyoungjo.com" }
+Hye-Young Jo: { name: Hye-Young Jo, url: 'https://www.hyeyoungjo.com' }
 Hyein Lee: { name: Hyein Lee }
 Hyelip Lee: { name: Hyelip Lee }
 Hyunseung Lim: { name: Hyunseung Lim }
 Jaeseong Yi: { name: Jaeseong Yi }
-Jihoon Suh: { name: Jihoon Suh, url: "https://www.jihoonsuh.com" }
-Kongpyung Justin Moon: { name: Kongpyung Justin Moon, url: "https://make.kaist.ac.kr/justin" }
+Jihoon Suh: { name: Jihoon Suh, url: 'https://www.jihoonsuh.com' }
+Kongpyung Justin Moon:
+  { name: Kongpyung Justin Moon, url: 'https://make.kaist.ac.kr/justin' }
 Minkyeong Lee: { name: Minkyeong Lee }
-Myung Jin Kim: { name: Myung Jin Kim, url: "https://sites.google.com/view/kimmj/home" }
+Myung Jin Kim:
+  { name: Myung Jin Kim, url: 'https://sites.google.com/view/kimmj/home' }
 Neung Ryu: { name: Neung Ryu }
 Okyu Choi: { name: Okyu Choi }
-Punn Lertjaturaphat: { name: Punn Lertjaturaphat, url: "https://punnlert.com" }
+Punn Lertjaturaphat: { name: Punn Lertjaturaphat, url: 'https://punnlert.com' }
 Ramkrishna Prasad: { name: Ramkrishna Prasad }
-Seungwoo Je: { name: Seungwoo Je, url: "https://www.immersivedesignresearch.com/seungwoo" }
-Wooje Chang: { name: Wooje Chang, url: "https://scholar.google.com/citations?user=vYvAwQYAAAAJ&hl=en" }
+Seungwoo Je:
+  { name: Seungwoo Je, url: 'https://www.immersivedesignresearch.com/seungwoo' }
+Wooje Chang:
+  {
+    name: Wooje Chang,
+    url: 'https://scholar.google.com/citations?user=vYvAwQYAAAAJ&hl=en',
+  }
 Woojin Lee: { name: Woojin Lee }
 Wooshik Kim: { name: Wooshik Kim }
-Yoonji Kim: { name: Yoonji Kim, url: "https://www.yoonji-kim.com" }
+Yoonji Kim: { name: Yoonji Kim, url: 'https://www.yoonji-kim.com' }
 Youngkyung Choi: { name: Youngkyung Choi }
 Zhi Lin Yap: { name: Zhi Lin Yap }
-Zofia Marciniak: { name: Zofia Marciniak, url: "https://zosia-hci.github.io" }
+Zofia Marciniak: { name: Zofia Marciniak, url: 'https://zosia-hci.github.io' }
 
 # collaborators
-Aaron Quigley: { name: Aaron Quigley, url: "https://aaronquigley.org" }
+Aaron Quigley: { name: Aaron Quigley, url: 'https://aaronquigley.org' }
 Alexander Wang: { name: Alexander Wang }
-André Zenner: { name: André Zenner, url: "https://scholar.google.com/citations?hl=en&user=3C1wptwAAAAJ" }
-Anhong Guo: { name: Anhong Guo , url: "https://guoanhong.com" }
-Anusha Withana: {  name: Anusha Withana, url: "https://scholar.google.com/citations?user=y17ckyIAAAAJ&hl=en" }
-Artem Dementyev: { name: Artem Dementyev, url: "https://adementyev.github.io" }
-Austin Z. Henley: { name: Austin Z. Henley, url: "https://austinhenley.com" }
-Bilge Mutlu: { name: Bilge Mutlu, url: "https://scholar.google.com/citations?hl=en&user=VGr54BoAAAAJ" }
+André Zenner:
+  {
+    name: André Zenner,
+    url: 'https://scholar.google.com/citations?hl=en&user=3C1wptwAAAAJ',
+  }
+Anhong Guo: { name: Anhong Guo, url: 'https://guoanhong.com' }
+Anusha Withana:
+  {
+    name: Anusha Withana,
+    url: 'https://scholar.google.com/citations?user=y17ckyIAAAAJ&hl=en',
+  }
+Artem Dementyev: { name: Artem Dementyev, url: 'https://adementyev.github.io' }
+Austin Z. Henley: { name: Austin Z. Henley, url: 'https://austinhenley.com' }
+Bilge Mutlu:
+  {
+    name: Bilge Mutlu,
+    url: 'https://scholar.google.com/citations?hl=en&user=VGr54BoAAAAJ',
+  }
 Bo Han: { name: Bo Han }
-Brendan Rooney: { name: Brendan Rooney, url: "https://www.rit.edu/science/directory/brsma-brendan-rooney" }
+Brendan Rooney:
+  {
+    name: Brendan Rooney,
+    url: 'https://www.rit.edu/science/directory/brsma-brendan-rooney',
+  }
 Bum-Jae You: { name: Bum-Jae You }
-Byungjoo Lee: { name: Byungjoo Lee, url: "https://scholar.google.com/citations?hl=en&user=n1fr4iIAAAAJ" }
-Clement Zheng: { name: Clement Zheng, url: "https://clementzheng.info" }
-Daniel Ashbrook: { name: Daniel Ashbrook, url: "http://danielashbrook.com" }
+Byungjoo Lee:
+  {
+    name: Byungjoo Lee,
+    url: 'https://scholar.google.com/citations?hl=en&user=n1fr4iIAAAAJ',
+  }
+Clement Zheng: { name: Clement Zheng, url: 'https://clementzheng.info' }
+Daniel Ashbrook: { name: Daniel Ashbrook, url: 'http://danielashbrook.com' }
 David Harris-Birtill: { name: David Harris-Birtill }
-David Lindlbauer: { name: David Lindlbauer, url: "https://scholar.google.com/citations?user=DBkNLiwAAAAJ&hl=en" }
-Eduardo Velloso: { name: Eduardo Velloso, url: "https://www.eduardovelloso.com/bio.html" }  
+David Lindlbauer:
+  {
+    name: David Lindlbauer,
+    url: 'https://scholar.google.com/citations?user=DBkNLiwAAAAJ&hl=en',
+  }
+Eduardo Velloso:
+  { name: Eduardo Velloso, url: 'https://www.eduardovelloso.com/bio.html' }
 Erik Peralta: { name: Erik Peralta }
-Eyal Ofek: { name: Eyal Ofek, url: "https://eyalofek.org" }
+Eyal Ofek: { name: Eyal Ofek, url: 'https://eyalofek.org' }
 Florian Weidner: { name: Florian Weidner }
-Geehyuk Lee: { name: Geehyuk Lee, url: "https://scholar.google.com/citations?user=wBXkmcQAAAAJ&hl=en" }
-Hamed Alavi: { name: Hamed Alavi, url: "https://scholar.google.com/citations?hl=en&user=o6OyxJgAAAAJ" }
-Hans Gellersen: { name: Hans Gellersen, url: "https://www.lancaster.ac.uk/scc/about-us/people/hans-gellersen" }
+Geehyuk Lee:
+  {
+    name: Geehyuk Lee,
+    url: 'https://scholar.google.com/citations?user=wBXkmcQAAAAJ&hl=en',
+  }
+Hamed Alavi:
+  {
+    name: Hamed Alavi,
+    url: 'https://scholar.google.com/citations?hl=en&user=o6OyxJgAAAAJ',
+  }
+Hans Gellersen:
+  {
+    name: Hans Gellersen,
+    url: 'https://www.lancaster.ac.uk/scc/about-us/people/hans-gellersen',
+  }
 Himani Deshpande: { name: Himani Deshpande }
-Himanshu Verma: { name: Himanshu Verma, url: "https://scholar.google.com/citations?hl=en&user=BLZOIKwAAAAJ" }
-Hongyu Zhou: { name: Hongyu Zhou, url: "https://scholar.google.com/citations?hl=en&user=cqWkrzYAAAAJ" }
-Hui-Shyong Yeo: { name: Hui-Shyong Yeo, url: "https://scholar.google.com/citations?user=lnF_WWEAAAAJ&hl=en" }
+Himanshu Verma:
+  {
+    name: Himanshu Verma,
+    url: 'https://scholar.google.com/citations?hl=en&user=BLZOIKwAAAAJ',
+  }
+Hongyu Zhou:
+  {
+    name: Hongyu Zhou,
+    url: 'https://scholar.google.com/citations?hl=en&user=cqWkrzYAAAAJ',
+  }
+Hui-Shyong Yeo:
+  {
+    name: Hui-Shyong Yeo,
+    url: 'https://scholar.google.com/citations?user=lnF_WWEAAAAJ&hl=en',
+  }
 Hyeon-Jeong Suk: { name: Hyeon-Jeong Suk }
-Hyoungshick Kim: { name: Hyoungshick Kim, url: "https://seclab.skku.edu/people/hyoungshick-kim/" }
+Hyoungshick Kim:
+  {
+    name: Hyoungshick Kim,
+    url: 'https://seclab.skku.edu/people/hyoungshick-kim/',
+  }
 Hyunchul Roh: { name: Hyunchul Roh }
 Hyungjun Yoon: { name: Hyungjun Yoon }
-Ian Oakley: { name: Ian Oakley, url: "https://ee.kaist.ac.kr/en/professor/ian-oakley/" }
+Ian Oakley:
+  { name: Ian Oakley, url: 'https://ee.kaist.ac.kr/en/professor/ian-oakley/' }
 Jaemin Shin: { name: Jaemin Shin }
 Jarod Bloch: { name: Jarod Bloch }
-Jas Brooks: { name: Jas Brooks, url: "https://jasbrooks.net" }
-Jeeeun Kim: { name: Jeeeun Kim, url: "https://www.jeeeunkim.com/bio.html" }
-Joshua Newn: { name: Joshua Newn, url: "https://www.rmit.edu.au/profiles/n/joshua-newn" }
+Jas Brooks: { name: Jas Brooks, url: 'https://jasbrooks.net' }
+Jeeeun Kim: { name: Jeeeun Kim, url: 'https://www.jeeeunkim.com/bio.html' }
+Joshua Newn:
+  { name: Joshua Newn, url: 'https://www.rmit.edu.au/profiles/n/joshua-newn' }
 Juyoung Lee: { name: Juyoung Lee }
 Kyungah Choi: { name: Kyungah Choi }
 Laurenz Seidel: { name: Laurenz Seidel }
 Laurie M. Heller: { name: Laurie M. Heller }
-Liwei Chan: { name: Liwei Chan, url: "https://people.cs.nycu.edu.tw/~liweichan/" }
+Liwei Chan:
+  { name: Liwei Chan, url: 'https://people.cs.nycu.edu.tw/~liweichan/' }
 Marco Weiss: { name: Marco Weiss }
-Michel Pahud: { name: Michel Pahud, url: "https://www.microsoft.com/en-us/research/people/mpahud/" }
+Michel Pahud:
+  {
+    name: Michel Pahud,
+    url: 'https://www.microsoft.com/en-us/research/people/mpahud/',
+  }
 Mike Sinclair: { name: Mike Sinclair }
 Minsoo Han: { name: Minsoo Han }
-Nadia Bianchi-Berthouze: { name: Nadia Bianchi-Berthouze, url: "https://profiles.ucl.ac.uk/3849-nadia-berthouze" }
-Nicolai Marquardt: { name: Nicolai Marquardt, url: "http://www.nicolaimarquardt.com" }
-Nihar Sabnis: { name: Nihar Sabnis, url: "https://scholar.google.com/citations?user=1FU5pTAAAAAJ&hl=en" }
-Paul Strohmeier: { name: Paul Strohmeier, url: "https://fkeel.github.io" }
-Pedro Lopes: { name: Pedro Lopes, url: "https://plopes.org" }
+Nadia Bianchi-Berthouze:
+  {
+    name: Nadia Bianchi-Berthouze,
+    url: 'https://profiles.ucl.ac.uk/3849-nadia-berthouze',
+  }
+Nicolai Marquardt:
+  { name: Nicolai Marquardt, url: 'http://www.nicolaimarquardt.com' }
+Nihar Sabnis:
+  {
+    name: Nihar Sabnis,
+    url: 'https://scholar.google.com/citations?user=1FU5pTAAAAAJ&hl=en',
+  }
+Paul Strohmeier: { name: Paul Strohmeier, url: 'https://fkeel.github.io' }
+Pedro Lopes: { name: Pedro Lopes, url: 'https://plopes.org' }
 Rachael Kim: { name: Rachael Kim }
-Ryo Suzuki: { name: Ryo Suzuki, url: "https://ryosuzuki.org" }
+Ryo Suzuki: { name: Ryo Suzuki, url: 'https://ryosuzuki.org' }
 Seungjoo Lee: { name: Seungjoo Lee }
-Shan-Yuan Teng: { name: Shan-Yuan Teng, url: "https://tengshanyuan.info" }
+Shan-Yuan Teng: { name: Shan-Yuan Teng, url: 'https://tengshanyuan.info' }
 Sung-Ju Lee: { name: Sung-Ju Lee }
 Taesik Gong: { name: Taesik Gong }
 Tek-Jin Nam: { name: Tek-Jin Nam }
 Tom Kip: { name: Tom Kip }
 Tony Ho: { name: Tony Ho }
-Valkyrie Savage: { name: Valkyrie Savage, url: "https://valkyriesavage.com" }
+Valkyrie Savage: { name: Valkyrie Savage, url: 'https://valkyriesavage.com' }
 Winston Wijaya: { name: Winston Wijaya }
-Xincheng Huang: {name: Xincheng Huang }
-Xing-Dong Yang: { name: Xing-Dong Yang, url: "https://www.sfu.ca/fas/computing/people/faculty/faculty-members/xingdong_yang.html" }
+Xincheng Huang: { name: Xincheng Huang }
+Xing-Dong Yang:
+  {
+    name: Xing-Dong Yang,
+    url: 'https://www.sfu.ca/fas/computing/people/faculty/faculty-members/xingdong_yang.html',
+  }
 Yasmeen Abdrabou: { name: Yasmeen Abdrabou }
 Yekaterina Abileva: { name: Yekaterina Abileva }
-Yi Fei Cheng: { name: Yi Fei Cheng, url: "https://scholar.google.com/citations?user=HHVl91sAAAAJ&hl=en" }
+Yi Fei Cheng:
+  {
+    name: Yi Fei Cheng,
+    url: 'https://scholar.google.com/citations?user=HHVl91sAAAAJ&hl=en',
+  }
 Yihao Dong: { name: Yihao Dong }
-Youngjun Cho: { name: Youngjun Cho, url: "https://youngjuncho.com" }
-Zhanna Sarsenbayeva: { name: Zhanna Sarsenbayeva, url: "https://scholar.google.com/citations?user=VJH22RwAAAAJ&hl=en" }
+Youngjun Cho: { name: Youngjun Cho, url: 'https://youngjuncho.com' }
+Zhanna Sarsenbayeva:
+  {
+    name: Zhanna Sarsenbayeva,
+    url: 'https://scholar.google.com/citations?user=VJH22RwAAAAJ&hl=en',
+  }
