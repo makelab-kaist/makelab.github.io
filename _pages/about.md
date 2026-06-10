@@ -95,6 +95,10 @@ Current research topics are related to **novel tools for electronics**, **digita
 
 [Sylvain Malacria](https://www.malacria.com) (2025, INRIA, France), [Shana Smith](https://asmejcise.org/editors/shana-smith-ph-d) (2025, National Taiwan University), [Anusha Withana](https://withanage.info) (2024, The University of Sydney), [Atul Chaudhary](mailto:atul.aaytee@gmail.com) (2025, University of Copenhagen), [Nihar Sabnis](https://scholar.google.com/citations?user=1FU5pTAAAAAJ&hl=en) (2024, Max Planck, Germany), [Chris Bannon](https://www.linkedin.com/in/cbannon/) (2024, UC Berkeley), [Takuya Takahashi](https://takuya-13068.github.io/portfolio) (2022, Tokyo Institute of Technology, Japan), [Laurenz Seidel](https://www.laurenzseidel.com) (2021, HPI, Germany), [Tram Tran](https://tramtranx.com) (2019, The University of Sydney).
 
+### External Ph.D. committee
+
+Professor Bianchi has been a committee member for several Ph.D. and Master dissertations: [Emanuel von Zezschwitz](https://scholar.google.com/citations?user=JUw6rVgAAAAJ&hl=en) (2016), [Diego Morra](https://scholar.google.com/citations?hl=en&user=GJynx_QAAAAJ) (2025), [Madalina Nicolae](https://scholar.google.com/citations?hl=en&user=Inz6w_QAAAAJ) (2026), and [Ulan Kelesbekov](https://www.linkedin.com/in/ulan-kelesbekov) (2025).
+
 ### Frequent Collaborators
 
 Our research was possible also thanks to numerous collaborators:

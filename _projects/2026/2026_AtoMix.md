@@ -10,7 +10,7 @@ venue: ACM C&C
 authors: [Heeji Jolie Kim, Anam Ahmad Khan, SeungHui Huh, Andrea Bianchi]
 
 # Paper links
-# pdf: KimHJ_AtoMix_CC26.pdf # put file in the directory FILES
+# pdf: KimHeeji_AtoMix_CC26.pdf # put file in the directory FILES
 # doi: https://doi.org/
 video: iXEGsJGh2bs?si=kJUw6OMwtQkGBqqj
 ---
