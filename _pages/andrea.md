@@ -91,7 +91,7 @@ I served as **Paper Co-Chair** at [UIST 2025](https://uist.acm.org/2025) and **S
 
 I have an [Erdős number](https://en.wikipedia.org/wiki/Erdős_number) of 3 and collect [eyeglasses](https://www.dropbox.com/scl/fi/gqnzkks4o9whyvgar3tth/glasses.pdf?rlkey=qcpytc9f10otdj135vbwahrl9&dl=0).
 
-<blockquote class="no-gradient large-quote">For a complete list of my publications, patents, services, awards, and talks, etc... please visit my <a href="http://andrea.kaist.id"><em>personal page</em></a>. For my old projects of when I was still a PhD student and then assistant professor un SUngkyungkwan university, please refer to <a href="https://alsoplantsfly.netlify.app"><em>this repository</em>.</a></blockquote>
+<blockquote class="no-gradient large-quote">For a complete list of my publications, patents, services, awards, and talks, etc... please visit my <a href="http://andrea.kaist.id"><em>personal page</em></a>. For my old projects of when I was still a PhD student and then an Assistant Professor at Sungkyungkwan University, please refer to <a href="https://alsoplantsfly.netlify.app"><em>this repository</em>.</a></blockquote>
 
 ## Reserach interest
 
