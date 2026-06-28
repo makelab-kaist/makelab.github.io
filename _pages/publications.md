@@ -156,7 +156,7 @@ Neung Ryu, Hye-Young Jo, Michel Pahud, Mike Sinclair, and Andrea Bianchi. 2021. 
 
 DaYe Kang, Tony Ho, Nicolai Marquardt, Bilge Mutlu, and Andrea Bianchi. 2021. **ToonNote: Improving Communication in Computational Notebooks Using Interactive Data Comics**. Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (_CHI'21_). Association for Computing Machinery, New York, NY, USA, Article 727, 1–14. [https://doi.org/10.1145/3411764.3445434](https://doi.org/10.1145/3411764.3445434)
 
-Woojin Lee, Ramkrishna Prasad, Seungwoo Je, Yoonji Kim, Ian Oakley, Daniel Ashbrook, and Andrea Bianchi. 2021. **VirtualWire: Supporting Rapid Prototyping with Instant Reconfigurations of Wires in Breadboarded Circuits.** In _Proceedings of the Fifteenth International Conference on Tangible, Embedded, and Embodied Interaction_ (_TEI '21_). Association for Computing Machinery, New York, NY, USA, Article 4, 1–12. [https://doi.org/10.1145/3430524.3440623](https://doi.org/10.1145/3430524.3440623) <span class="award">🏆 Best Paper</span>
+Woojin Lee, Ramkrishna Prasad, Seungwoo Je, Yoonji Kim, Ian Oakley, Daniel Ashbrook, and Andrea Bianchi. 2021. **VirtualWire: Supporting Rapid Prototyping with Instant Reconfigurations of Wires in Breadboarded Circuits.** In Proceedings of the Fifteenth International Conference on Tangible, Embedded, and Embodied Interaction (_TEI '21_). Association for Computing Machinery, New York, NY, USA, Article 4, 1–12. [https://doi.org/10.1145/3430524.3440623](https://doi.org/10.1145/3430524.3440623) <span class="award">🏆 Best Paper</span>
 
 Myung Jin Kim and Andrea Bianchi. 2021. **Exploring Pseudo Hand-Eye Interaction on the Head-Mounted Display**. In Augmented Humans Conference 2021 (_AHs’21_). Association for Computing Machinery, New York, NY, USA, 251–258. [https://doi.org/10.1145/3458709.3458960](https://doi.org/10.1145/3458709.3458960) <span class="award">🏅 Honorable Mention</span>
 
@@ -176,7 +176,7 @@ Neung Ryu, Myung Jin Kim, and Andrea Bianchi. 2020. **Demonstration of ElaStick:
 
 Hyelip Lee, Andrea Bianchi. **YourSphere: Supporting Flexible Environmental Switching in Open-plan Workspaces via Augmented Reality**. _Archives of Design Research_ 33 (4), 43-52. [http://dx.doi.org/10.15187/adr.2020.11.33.4.43](http://dx.doi.org/10.15187/adr.2020.11.33.4.43)
 
-Hui-Shyong Yeo, Juyoung Lee, Andrea Bianchi, Alejandro Samboy, Hideki Koike, Woontack Woo, and Aaron Quigley. 2020. **WristLens: Enabling Single-Handed Surface Gesture Interaction for Wrist-Worn Devices Using Optical Motion Sensor**. In _Proceedings of the Augmented Humans International Conference_ (_AHs '20_). Association for Computing Machinery, New York, NY, USA, Article 27, 1–8. [https://doi.org/10.1145/3384657.3384797](https://doi.org/10.1145/3384657.3384797)
+Hui-Shyong Yeo, Juyoung Lee, Andrea Bianchi, Alejandro Samboy, Hideki Koike, Woontack Woo, and Aaron Quigley. 2020. **WristLens: Enabling Single-Handed Surface Gesture Interaction for Wrist-Worn Devices Using Optical Motion Sensor**. In Proceedings of the Augmented Humans International Conference (_AHs '20_). Association for Computing Machinery, New York, NY, USA, Article 27, 1–8. [https://doi.org/10.1145/3384657.3384797](https://doi.org/10.1145/3384657.3384797)
 
 ---
 
@@ -184,7 +184,7 @@ Hui-Shyong Yeo, Juyoung Lee, Andrea Bianchi, Alejandro Samboy, Hideki Koike, Woo
 
 Yoonji Kim, Youngkyung Choi, Hyein Lee, Geehyuk Lee, and Andrea Bianchi. 2019. **VirtualComponent: A Mixed-Reality Tool for Designing and Tuning Breadboarded Circuits**. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (_CHI '19_). Association for Computing Machinery, New York, NY, USA, Paper 177, 1–13. [https://doi.org/10.1145/3290605.3300407](https://doi.org/10.1145/3290605.3300407)
 
-Seungwoo Je, Myung Jin Kim, Woojin Lee, Byungjoo Lee, Xing-Dong Yang, Pedro Lopes, and Andrea Bianchi. 2019. **Aero-plane: A Handheld Force-Feedback Device that Renders Weight Motion Illusion on a Virtual 2D Plane**. In _Proceedings of the 32nd Annual ACM Symposium on User Interface Software and Technology_ (_UIST '19_). Association for Computing Machinery, New York, NY, USA, 763–775. [https://doi.org/10.1145/3332165.3347926](https://doi.org/10.1145/3332165.3347926)
+Seungwoo Je, Myung Jin Kim, Woojin Lee, Byungjoo Lee, Xing-Dong Yang, Pedro Lopes, and Andrea Bianchi. 2019. **Aero-plane: A Handheld Force-Feedback Device that Renders Weight Motion Illusion on a Virtual 2D Plane**. In Proceedings of the 32nd Annual ACM Symposium on User Interface Software and Technology (_UIST '19_). Association for Computing Machinery, New York, NY, USA, 763–775. [https://doi.org/10.1145/3332165.3347926](https://doi.org/10.1145/3332165.3347926)
 
 Yoonji Kim, Youngkyung Choi, Daye Kang, Minkyeong Lee, Tek-Jin Nam, and Andrea Bianchi. 2019. **HeyTeddy: Conversational Test-Driven Development for Physical Computing**. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. (_IMWUT_) 3, 4, Article 139 (December 2019), 21 pages. [https://doi.org/10.1145/3369838](https://doi.org/10.1145/3369838)
 
@@ -194,7 +194,7 @@ Minkyeong Lee, Seungwoo Je, Woojin Lee, Daniel Ashbrook, and Andrea Bianchi. **A
 
 Seungwoo Je, Yekaterina Abileva, Andrea Bianchi, Jean-Charles Bazin. 2019. **A Computational Approach for Spider Web Inspired Fabrication of String Art**. In _Computer Animation and Virtual Worlds_ 2019;30:e1904. [https://doi.org/10.1002/cav.1904](https://doi.org/10.1002/cav.1904)
 
-Hui-Shyong Yeo, Juyoung Lee, Hyung-il Kim, Aakar Gupta, Andrea Bianchi, Daniel Vogel, Hideki Koike, Woontack Woo, and Aaron Quigley. 2019. **WRIST: Watch-Ring Interaction and Sensing Technique for Wrist Gestures and Macro-Micro Pointing**. In _Proceedings of the 21st International Conference on Human-Computer Interaction with Mobile Devices and Services_ (_MobileHCI '19_). Association for Computing Machinery, New York, NY, USA, Article 19, 1–15. [https://doi.org/10.1145/3338286.3340130](https://doi.org/10.1145/3338286.3340130)
+Hui-Shyong Yeo, Juyoung Lee, Hyung-il Kim, Aakar Gupta, Andrea Bianchi, Daniel Vogel, Hideki Koike, Woontack Woo, and Aaron Quigley. 2019. **WRIST: Watch-Ring Interaction and Sensing Technique for Wrist Gestures and Macro-Micro Pointing**. In Proceedings of the 21st International Conference on Human-Computer Interaction with Mobile Devices and Services (_MobileHCI '19_). Association for Computing Machinery, New York, NY, USA, Article 19, 1–15. [https://doi.org/10.1145/3338286.3340130](https://doi.org/10.1145/3338286.3340130)
 
 Chiu-Hsuan Wang, Chen-Yuan Hsieh, Neng-Hao Yu, Andrea Bianchi, and Liwei Chan. **HapticSphere: Physical Support To Enable Precision Touch Interaction in Mobile Mixed-Reality**. In 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (_IEEE VR 2019_) (pp. 331-339). IEEE.
 
@@ -212,7 +212,7 @@ Seungwoo Je, Hyelip Lee, Myung Jin Kim, Minkyeong Lee, Yoonji Kim, Youngkyung Ch
 
 Seungwoo Je, Hyelip Lee, Myung Jin Kim, Minkyeong Lee, Yoonji Kim, Youngkyung Choi, Andrea Bianchi, Brian Yu-Jen Chiang, Ai-Hsuan Chou, Dominik Fink, Jannick Lenz, Paul Raschke, and Mario Rieker. 2018. **Demo hour**. _Interactions_ 26, 1 (December 2018), 8-11. [https://doi.org/10.1145/3292484](https://doi.org/10.1145/3292484)
 
-Hyelip Lee, Myung Jin Kim, Byungjoo Lee, and Andrea Bianchi. 2018. **An Artistic Provocation to Explore Effects and Opportunities of Virtual Surreal Spaces**. In _Proceedings of the 2018 ACM Conference Companion Publication on Designing Interactive Systems_ (_DIS '18 Companion_). Association for Computing Machinery, New York, NY, USA, 81–85. [https://doi.org/10.1145/3197391.3205416](https://doi.org/10.1145/3197391.3205416)
+Hyelip Lee, Myung Jin Kim, Byungjoo Lee, and Andrea Bianchi. 2018. **An Artistic Provocation to Explore Effects and Opportunities of Virtual Surreal Spaces**. In Proceedings of the 2018 ACM Conference Companion Publication on Designing Interactive Systems (_DIS '18 Companion_). Association for Computing Machinery, New York, NY, USA, 81–85. [https://doi.org/10.1145/3197391.3205416](https://doi.org/10.1145/3197391.3205416)
 
 Andrea Bianchi, Seungwoo Je, Hyelip Lee, Ian Oakley. **Enhancing Spatial Input on the Body with a Smart-Ring**. Proceedings of _HCI Korea'18_ [[paper]](https://alsoplantsfly.kaist.id/files/2018/Bianchi_Ring+Touch_KHCI18.pdf) <span class="award">🏆 Best Paper</span>
 
@@ -234,7 +234,7 @@ Hui-Shyong Yeo, Juyoung Lee, Andrea Bianchi, David Harris-Birtill, and Aaron Qui
 
 Pin-Cheng Lin, HyunJoo Oh, Mark D. Gross, Michael Eisenberg, Sherry His, Becca Rose Glowacki, Mark Wonnacott, Amy Rose, Emma Powell, Liv Bargman, Seungwoo Je, Brendan Rooney, Liwei Chan, and Andrea Bianchi. 2018. **Demo hour**. _Interactions_ 25, 2 (February 2018), 6-9. [https://doi.org/10.1145/3183514](https://doi.org/10.1145/3183514)
 
-Jaewon Cho, Junwoo Yoo, Ju-young Shin, Jun-dong Cho, and Andrea Bianchi. 2017. **Quantifying Children's Engagement with Educational Tangible Blocks**. In _Proceedings of the Eleventh International Conference on Tangible, Embedded, and Embodied Interaction_ (_TEI '17_). Association for Computing Machinery, New York, NY, USA, 389–395. [https://doi.org/10.1145/3024969.3025062](https://doi.org/10.1145/3024969.3025062)
+Jaewon Cho, Junwoo Yoo, Ju-young Shin, Jun-dong Cho, and Andrea Bianchi. 2017. **Quantifying Children's Engagement with Educational Tangible Blocks**. In Proceedings of the Eleventh International Conference on Tangible, Embedded, and Embodied Interaction (_TEI '17_). Association for Computing Machinery, New York, NY, USA, 389–395. [https://doi.org/10.1145/3024969.3025062](https://doi.org/10.1145/3024969.3025062)
 
 Hyelip Lee, Yunkyung Kim, Andrea Bianchi. **A Survey on Medical Robotic Telepresence Design from the Perspective of Medical Staff**. _Archives of Design Research_, Vol. 30 (1) February 2017. [https://doi.org/10.15187/ADR.2017.02.30.1.61](https://doi.org/10.15187/ADR.2017.02.30.1.61)
 
