@@ -6,9 +6,16 @@ Andrea Bianchi:
 Jungwoo Rhee: { name: Jungwoo Rhee, url: 'https://jungwoorhee.com' }
 Jaewon You: { name: Jaewon You }
 Anam Ahmad Khan:
-  { name: Anam Ahmad Khan, url: 'https://khananamahmad3-max.github.io/anamkhan.github.io' }
+  {
+    name: Anam Ahmad Khan,
+    url: 'https://khananamahmad3-max.github.io/anamkhan.github.io',
+  }
 Heeji Jolie Kim: { name: Heeji Jolie Kim, url: 'https://joliekim.github.io' }
-SeungHui Huh: { name: SeungHui Huh, url: 'https://www.linkedin.com/in/seunghui-huh-68795a16b'}
+SeungHui Huh:
+  {
+    name: SeungHui Huh,
+    url: 'https://www.linkedin.com/in/seunghui-huh-68795a16b',
+  }
 
 # alumni
 DaYe Kang: { name: DaYe Kang, url: 'https://www.dayekang.info' }
@@ -104,7 +111,8 @@ Hans Gellersen:
     name: Hans Gellersen,
     url: 'https://www.lancaster.ac.uk/scc/about-us/people/hans-gellersen',
   }
-Himani Deshpande: { name: Himani Deshpande }
+Himani Deshpande:
+  { name: Himani Deshpande, url: 'https://hdeshpande11.github.io' }
 Himanshu Verma:
   {
     name: Himanshu Verma,
