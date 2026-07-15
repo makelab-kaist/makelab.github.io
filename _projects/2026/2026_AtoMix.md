@@ -10,8 +10,8 @@ venue: ACM C&C
 authors: [Heeji Jolie Kim, Anam Ahmad Khan, SeungHui Huh, Andrea Bianchi]
 
 # Paper links
-# pdf: KimHeeji_AtoMix_CC26.pdf # put file in the directory FILES
-# doi: https://doi.org/
+pdf: KimHeeji_AtoMix_CC26.pdf # put file in the directory FILES
+doi: https://doi.org/10.1145/3803784.3807530
 video: iXEGsJGh2bs?si=kJUw6OMwtQkGBqqj
 ---
 
@@ -27,7 +27,23 @@ video: iXEGsJGh2bs?si=kJUw6OMwtQkGBqqj
 
 <!-- BibTex -->
 
-<!-- {% capture paper_bibtex %}
-
+{% capture paper_bibtex %}
+@inproceedings{10.1145/3803784.3807530,
+author = {Kim, Heeji Jolie and Khan, Anam Ahmad and Huh, SeungHui and Bianchi, Andrea},
+title = {AtoMix: Fostering Structured Visual Ideation for Remote Groups through Atomic Composition and Cross‑Pollination},
+year = {2026},
+isbn = {9798400725838},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3803784.3807530},
+doi = {10.1145/3803784.3807530},
+booktitle = {Proceedings of the 2026 Conference on Creativity and Cognition},
+pages = {1092–1107},
+numpages = {16},
+keywords = {Creativity Support Tools (CST), Visual Ideation, Brainwriting, Generative Image},
+location = {
+},
+series = {C&C '26}
+}
 {% endcapture %}
-{% include bibtex.html bibtex=paper_bibtex %} -->
+{% include bibtex.html bibtex=paper_bibtex %}
