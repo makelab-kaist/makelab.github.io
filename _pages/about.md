@@ -89,15 +89,16 @@ Current research topics are related to **novel tools for electronics**, **digita
 
 ### Interns and Other Alumni
 
-[Punn Lertjaturaphat](https://punnlert.github.io) (2023-25), [Hyewon Lee](https://www.hyewon.me) (2024, Ph.D. student at Purdue University), [Lwam Z. Araya](https://lwamzeche.site/#/about) (2024, Ph.D. at UC Davis), Yumin Jung (2024), Zhi Lin Yap (2023), [Nargiz Askarbekkyzy](https://www.linkedin.com/in/nargiz-as) (2022-23, MS at Georgia Tech), Minseo Bang (2023), Jei Kong (2022), [Nishant Nepal](https://www.linkedin.com/in/nishant-nepal-b0060911a) (2022, DEEPNOID), Yoosang Yoon (2021, MS at KAIST), [Hyunseung Lim](https://scholar.google.hk/citations?user=3h9XkqYAAAAJ&hl=en) (2020, Ph.D. student at KAIST), Edwin Truman (2019), [WooJin Lee](https://scholar.google.com/citations?user=9mgMFwIAAAAJ&hl=en) (2019), Ramkrishna Prasad (2019), [Jihoon Suh](https://www.jihoonsuh.com) (2015, MS University of Washington), [Wooshik Kim](https://www.linkedin.com/in/wooshik-brian-kim) (2015, MS at CMU), [Hoonjin Jung](https://davidhoonjin.github.io) (Master on leave), Leila Hyelip Lee (Ph.D. alumna), Eunhee Jung (Master alumna).
+[Punn Lertjaturaphat](https://punnlert.github.io) (2023-25), [Hyewon Lee](https://www.hyewon.me) (2024, Ph.D. student at Purdue University), [Lwam Z. Araya](https://lwamzeche.site/#/about) (2024, Ph.D. student at UC Davis), Yumin Jung (2024), Zhi Lin Yap (2023), [Nargiz Askarbekkyzy](https://www.linkedin.com/in/nargiz-as) (2022-23, MS at Georgia Tech), Minseo Bang (2023), Jei Kong (2022), [Nishant Nepal](https://www.linkedin.com/in/nishant-nepal-b0060911a) (2022, DEEPNOID), Yoosang Yoon (2021, MS at KAIST), [Hyunseung Lim](https://scholar.google.hk/citations?user=3h9XkqYAAAAJ&hl=en) (2020, Ph.D. student at KAIST), Edwin Truman (2019), [WooJin Lee](https://scholar.google.com/citations?user=9mgMFwIAAAAJ&hl=en) (2019, MS at CMU), Ramkrishna Prasad (2019), [Jihoon Suh](https://www.jihoonsuh.com) (2015, MS at the University of Washington), [Wooshik Kim](https://www.linkedin.com/in/wooshik-brian-kim) (2015, MS at CMU), [Hoonjin Jung](https://davidhoonjin.github.io) (Master on leave), Leila Hyelip Lee (Ph.D. alumna), Eunhee Jung (Master alumna).
 
 ### Visitors
 
 [Sylvain Malacria](https://www.malacria.com) (2025, INRIA, France), [Shana Smith](https://asmejcise.org/editors/shana-smith-ph-d) (2025, National Taiwan University), [Anusha Withana](https://withanage.info) (2024, The University of Sydney), [Atul Chaudhary](mailto:atul.aaytee@gmail.com) (2025, University of Copenhagen), [Nihar Sabnis](https://scholar.google.com/citations?user=1FU5pTAAAAAJ&hl=en) (2024, Max Planck, Germany), [Chris Bannon](https://www.linkedin.com/in/cbannon/) (2024, UC Berkeley), [Takuya Takahashi](https://takuya-13068.github.io/portfolio) (2022, Tokyo Institute of Technology, Japan), [Laurenz Seidel](https://www.laurenzseidel.com) (2021, HPI, Germany), [Tram Tran](https://tramtranx.com) (2019, The University of Sydney).
 
-### External Ph.D. committee
+### External Ph.D. or Masters committee
 
-Professor Bianchi has been a committee member for several Ph.D. and Master dissertations: [Emanuel von Zezschwitz](https://scholar.google.com/citations?user=JUw6rVgAAAAJ&hl=en) (2016), [Diego Morra](https://scholar.google.com/citations?hl=en&user=GJynx_QAAAAJ) (2025), [Madalina Nicolae](https://scholar.google.com/citations?hl=en&user=Inz6w_QAAAAJ) (2026), and [Ulan Kelesbekov](https://www.linkedin.com/in/ulan-kelesbekov) (2025).
+Professor Bianchi has been a committee member for several Ph.D. and Master dissertations:
+[Madalina Nicolae](https://scholar.google.com/citations?hl=en&user=Inz6w_QAAAAJ) (Ph.D., 2026), [Diego Morra](https://scholar.google.com/citations?hl=en&user=GJynx_QAAAAJ) (Ph.D., 2025), [Ulan Kelesbekov](https://www.linkedin.com/in/ulan-kelesbekov) (Master, 2025), and [Emanuel von Zezschwitz](https://scholar.google.com/citations?user=JUw6rVgAAAAJ&hl=en) (Ph.D., 2016).
 
 ### Frequent Collaborators
 
