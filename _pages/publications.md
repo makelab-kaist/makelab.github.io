@@ -52,6 +52,8 @@ author: Make Lab, KAIST
 
 ## 2026
 
+Atul Chaudhary, Andrea Bianchi, Daniel Ashbrook, and Valkyrie Savage. 2026. **MBits: Multi-modality 3D-printed objects via resonance-tunable spring-mass units**. To appear in In Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology (_UIST '26_)
+
 Heeji Jolie Kim, Anam Ahmad Khan, SeungHui Huh, and Andrea Bianchi. 2026. **AtoMix: Fostering Structured Visual Ideation for Remote Groups through Atomic Composition and Cross‑Pollination**. In Proceedings of the 2026 Conference on Creativity and Cognition (_C&C '26_). Association for Computing Machinery, New York, NY, USA, 1092–1107. [https://doi.org/10.1145/3803784.3807530](https://doi.org/10.1145/3803784.3807530)
 
 Punn Lertjaturaphat, Jungwoo Rhee, Jaewon You, and Andrea Bianchi. 2026. **Wire Your Way: Hardware-Contextualized Guidance and In-situ Tests for Personalized Circuit Prototyping**. In Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (_CHI '26_). Association for Computing Machinery, New York, NY, USA, Article 1471, 1–19. [https://doi.org/10.1145/3772318.3791371](https://doi.org/10.1145/3772318.3791371) <span class="award">🏅 Honorable Mention</span>
