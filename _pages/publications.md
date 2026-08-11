@@ -76,7 +76,7 @@ Jee Youn Kim and Andrea Bianchi. 2026. **Dining in XR: empirical study**. In _HC
 
 Guhn Lee, Anam Ahmad Khan, and Andrea Bianchi. 2026. **Passthrough Interpretive Assistant: Revealing Hidden Intent and Bias in eXtended Reality with AI**. In _HCI Korea 2026_ [[paper]]({{ site.url }}/files/2026/LeeG_Bias_KHCI26.pdf) (2026.01.26 2025.01.28).
 
-Sally Nagle, Andrea Bianchi. **HaptiConnect: A Shared Haptic Sensing System for Player Dyads in Mixed Reality**. Demo at the _4th Korea Haptics Conference: Haptic Intelligence & Physical AI for Connecting Humans and Machines_ [[paper]]({{ site.url }}/files/2026/NagleS_HaptiConnect_khc2026.pdf) [[video]](https://www.youtube.com/watch?v=Jex41MY2i_o) (Aug. 10-13, 2026).
+Sally Nagle, Andrea Bianchi. **HaptiConnect: A Shared Haptic Sensing System for Player Dyads in Mixed Reality**. Demo at the _4th Korea Haptics Conference: Haptic Intelligence & Physical AI for Connecting Humans and Machines_ [[paper]({{ site.url }}/files/2026/NagleS_HaptiConnect_khc2026.pdf), [video](https://www.youtube.com/watch?v=Jex41MY2i_o)] (Aug. 10-13, 2026).
 
 ---
 
