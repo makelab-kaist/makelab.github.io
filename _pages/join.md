@@ -17,6 +17,9 @@ description: How to join the Make Lab at KAIST
 
 You can let us know by filling out [this form](https://forms.gle/i1aJLuJLCiLXvmGL7). This is a _preliminary_ and _optional_ expression of interest and must be followed by a formal application to our graduate program.
 
+**_A note for prospective applicants_**: Due to an excess load of unsolicited emails, mostly generated through AI, I no longer reply to direct emails about available positions in the lab or funding. If you are interested in applying to the lab, please fill out the [expression of interest form](https://forms.gle/i1aJLuJLCiLXvmGL7).
+
+
 <blockquote class="question-quote">Where can I find more admission details?</blockquote>
 
 Please refer to the official KAIST [admission site](https://admission.kaist.ac.kr) and the Industrial Design Department [FAQs](https://id.kaist.ac.kr/education/PhD) for Master and Doctoral programs.
@@ -45,14 +48,24 @@ Knowledge of Korean is not required (though appreciated).
 
 <blockquote class="question-quote">Do I need a design background to apply?</blockquote>
 
-No. We welcome students from a wide range of majors, including design, architecture, computer science, and various engineering fields. A formal background in design is not required.
+No. We welcome students from a wide range of majors, including design, architecture, computer science, and various engineering fields. A formal background in design is not required as we ourselves work at the intersection of design and computing. However, we remain a design lab, and I expect students to be able to articulate why they are interested in working in this field and what draws them to topics such as interaction, creativity, and making.
 
+<blockquote class="question-quote">Do you have any book recommendation about design?</blockquote>
 
+Here a few that I personally like:
+  
+- [The Craftsman](https://www.goodreads.com/book/show/1931426.The_Craftsman)
+- [Sketching User Experiences](https://www.goodreads.com/book/show/980280)
+- [The reflcetice practitioner](https://www.goodreads.com/book/show/134454)
+- [Frame Innivation](https://www.goodreads.com/book/show/23461421)
+- [Design Thinking](https://www.goodreads.com/book/show/11528708)
+ 
+ 
 ### Ph.D. program
 
 <blockquote class="question-quote">What are the expectations for Ph.D. applicants?</blockquote>
 
-Ideal candidates should have prior research experience (preferably in HCI) and proven technical capabilities such as:
+Ideal candidates should have prior research experience (preferably in HCI) and some proven technical capabilities in any of these:
 
 - Programming  
 - Electronics  
@@ -93,7 +106,7 @@ Yes. The MS program is research-oriented. In addition to coursework, students ar
 
 <blockquote class="question-quote">How often are Master’s positions available?</blockquote>
 
-We offer a fully funded Master’s position every Spring and Fall semester.
+We offer a fully funded Master’s position every spring and fall semester (typically two positions total per year).
 
 <blockquote class="question-quote">Is there an integrated Master’s + Ph.D. option?</blockquote>
 
