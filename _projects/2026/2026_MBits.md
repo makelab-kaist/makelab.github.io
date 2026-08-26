@@ -12,7 +12,7 @@ authors: [Atul Chaudhary, Andrea Bianchi, Daniel Ashbrook, Valkyrie Savage]
 # Paper links
 # pdf: ChaudharyA_MBits_UIST26.pdf # put file in the directory FILES
 # doi: https://doi.org/
-# video: iXEGsJGh2bs?si=kJUw6OMwtQkGBqqj
+video: ElFv-0JHoXE?si=5dprVaKWjJXBS7g3
 ---
 
 <!-- Video -->
