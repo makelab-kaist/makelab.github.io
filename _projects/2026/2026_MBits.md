@@ -17,7 +17,7 @@ video: ElFv-0JHoXE?si=5dprVaKWjJXBS7g3
 
 <!-- Video -->
 
-<!-- {% include youtube-video.html %} -->
+{% include youtube-video.html %}
 
 <!-- Abstract -->
 
