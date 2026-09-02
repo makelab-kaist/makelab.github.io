@@ -50,7 +50,8 @@ Current research topics are related to **novel tools for electronics**, **digita
                     <a href="https://scholar.google.co.kr/citations?user={{prof.scholar}}"><i class="fas fa-graduation-cap" aria-hidden="true"></i></a>
                     {% endif %}
                     {% if prof.email %}
-                    <a href="#" onclick="(function(){window.open('mailto:{{ prof.email }}');})()"><i class="fas fa-envelope"></i></a>
+                    <!-- <a href="#" onclick="(function(){window.open('mailto:{{ prof.email }}');})()"><i class="fas fa-envelope"></i></a> -->
+                    <a href="mailto: {{prof.email }}"><i>class="fas fa-envelope"></i></a>
                     {% endif %}
                 </div>
             </div>
