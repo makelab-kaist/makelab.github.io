@@ -218,7 +218,7 @@ Seungwoo Je, Hyelip Lee, Myung Jin Kim, Minkyeong Lee, Yoonji Kim, Youngkyung Ch
 
 Hyelip Lee, Myung Jin Kim, Byungjoo Lee, and Andrea Bianchi. 2018. **An Artistic Provocation to Explore Effects and Opportunities of Virtual Surreal Spaces**. In Proceedings of the 2018 ACM Conference Companion Publication on Designing Interactive Systems (_DIS '18 Companion_). Association for Computing Machinery, New York, NY, USA, 81–85. [https://doi.org/10.1145/3197391.3205416](https://doi.org/10.1145/3197391.3205416)
 
-Andrea Bianchi, Seungwoo Je, Hyelip Lee, Ian Oakley. **Enhancing Spatial Input on the Body with a Smart-Ring**. Proceedings of _HCI Korea'18_ [[paper]](https://alsoplantsfly.kaist.id/files/2018/Bianchi_Ring+Touch_KHCI18.pdf) <span class="award">🏆 Best Paper</span>
+Andrea Bianchi, Seungwoo Je, Hyelip Lee, Ian Oakley. **Enhancing Spatial Input on the Body with a Smart-Ring**. Proceedings of _HCI Korea'18_ [[paper]]({{ site.url }}/files/2018/Bianchi_Ring+Touch_KHCI18) <span class="award">🏆 Best Paper</span>
 
 ---
 
