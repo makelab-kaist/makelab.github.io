@@ -52,7 +52,7 @@ author: Make Lab, KAIST
 
 ## 2026
 
-Atul Chaudhary, Andrea Bianchi, Daniel Ashbrook, and Valkyrie Savage. 2026. **MBits: Multi-modality 3D-printed objects via resonance-tunable spring-mass units**. To appear in In Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology (_UIST '26_)
+Atul Chaudhary, Andrea Bianchi, Daniel Ashbrook, and Valkyrie Savage. 2026. **MBits: Multi-modality 3D-printed objects via resonance-tunable spring-mass units**. To appear in Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology (_UIST '26_)
 
 Heeji Jolie Kim, Anam Ahmad Khan, SeungHui Huh, and Andrea Bianchi. 2026. **AtoMix: Fostering Structured Visual Ideation for Remote Groups through Atomic Composition and Cross‑Pollination**. In Proceedings of the 2026 Conference on Creativity and Cognition (_C&C '26_). Association for Computing Machinery, New York, NY, USA, 1092–1107. [https://doi.org/10.1145/3803784.3807530](https://doi.org/10.1145/3803784.3807530)
 
@@ -70,11 +70,11 @@ HyeonBeom Yi, Myung Jin (MJ) Kim, Seungwoo Je, Seungjae Oh, Shuto Takashita, Hon
 
 Hyunyoung Kim, Daniel Ashbrook, Andrea Bianchi, Jack Forman, DPV Joseph Jayakody, Sara Nabil, HyunJoo Oh, Thomas Pietrzak, Thijs Roumen, Valkyrie Savage, Lining Yao, and Clement Zheng. **From Papers to the Real World: Making Fabrication Research Matter**. ([Workshop](https://fabricationresearch.wordpress.com)). In Extended Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (_CHI EA’26_) [[paper]]({{ site.url }}/files/2026/KimH_FabResearch_Workshop_CHI26.pdf).
 
-Haeri Kim, Anam Ahmad Khan, and Andrea Bianchi. 2026. **Understanding XR-Supported Creative Collaboration through a Domain-Specific Lens**. In _HCI Korea 2026_ [[paper]]({{ site.url }}/files/2026/KimH_XRconcert_KHCI26.pdf) (2026.01.26 2025.01.28).
+Haeri Kim, Anam Ahmad Khan, and Andrea Bianchi. 2026. **Understanding XR-Supported Creative Collaboration through a Domain-Specific Lens**. In _HCI Korea 2026_ [[paper]]({{ site.url }}/files/2026/KimH_XRconcert_KHCI26.pdf) (2026.01.26 2026.01.28).
 
-Jee Youn Kim and Andrea Bianchi. 2026. **Dining in XR: empirical study**. In _HCI Korea 2026_ [[paper]]({{ site.url }}/files/2026/KimJY_XRfood_KHCI26.pdf) (2026.01.26 2025.01.28).
+Jee Youn Kim and Andrea Bianchi. 2026. **Dining in XR: empirical study**. In _HCI Korea 2026_ [[paper]]({{ site.url }}/files/2026/KimJY_XRfood_KHCI26.pdf) (2026.01.26 2026.01.28).
 
-Guhn Lee, Anam Ahmad Khan, and Andrea Bianchi. 2026. **Passthrough Interpretive Assistant: Revealing Hidden Intent and Bias in eXtended Reality with AI**. In _HCI Korea 2026_ [[paper]]({{ site.url }}/files/2026/LeeG_Bias_KHCI26.pdf) (2026.01.26 2025.01.28).
+Guhn Lee, Anam Ahmad Khan, and Andrea Bianchi. 2026. **Passthrough Interpretive Assistant: Revealing Hidden Intent and Bias in eXtended Reality with AI**. In _HCI Korea 2026_ [[paper]]({{ site.url }}/files/2026/LeeG_Bias_KHCI26.pdf) (2026.01.26 2026.01.28).
 
 Sally Nagle, Andrea Bianchi. **HaptiConnect: A Shared Haptic Sensing System for Player Dyads in Mixed Reality**. Demo at the _4th Korea Haptics Conference: Haptic Intelligence & Physical AI for Connecting Humans and Machines_ [[paper]({{ site.url }}/files/2026/NagleS_HaptiConnect_khc2026.pdf), [video](https://www.youtube.com/watch?v=Jex41MY2i_o)] (Aug. 10-13, 2026).
 
@@ -88,7 +88,7 @@ Hongyu Zhou, Tom Kip, Yihao Dong, Andrea Bianchi, Zhanna Sarsenbayeva, and Anush
 
 Hyung Il Yi, Kun-Woo Song, Nihar Sabnis, Andrea Bianchi, and Sang Ho Yoon. 2025. **InvisiBow: Finger-Held Device for Bimanual Haptic Illusions during Virtual Archery**. In Proceedings of the 2025 ACM International Symposium on Wearable Computers (_ISWC '25_). Association for Computing Machinery, New York, NY, USA, 207–210. [https://doi.org/10.1145/3715071.3750428](https://doi.org/10.1145/3715071.3750428)
 
-Josh Andres, Chris Danta, Andrea Bianchi, Sahar Farzanfar, Gloria Milena Fernandez-Nieto, Alexa Becker, Tara Capel, Frances Liddell, Shelby Hagemann, Ned Cooper, Sungyeon Hong, Li Lin, Eduardo Benitez Sandoval, Anna Brynskov, Hubert Dariusz Zając, Zhuying Li, Tianyi Zhang, and Arngeir Berge. 2025. **A Scenario-Based Design Pack for Exploring Multimodal Human–GenAI Relations**. Proceedings of the 27th International Conference on Multimodal Interaction. Association for Computing Machinery (_ICMI '26_), New York, NY, USA, 145–154. [https://doi.org/10.1145/3716553.3750749](https://doi.org/10.1145/3716553.3750749)
+Josh Andres, Chris Danta, Andrea Bianchi, Sahar Farzanfar, Gloria Milena Fernandez-Nieto, Alexa Becker, Tara Capel, Frances Liddell, Shelby Hagemann, Ned Cooper, Sungyeon Hong, Li Lin, Eduardo Benitez Sandoval, Anna Brynskov, Hubert Dariusz Zając, Zhuying Li, Tianyi Zhang, and Arngeir Berge. 2025. **A Scenario-Based Design Pack for Exploring Multimodal Human–GenAI Relations**. Proceedings of the 27th International Conference on Multimodal Interaction. Association for Computing Machinery (_ICMI '25_), New York, NY, USA, 145–154. [https://doi.org/10.1145/3716553.3750749](https://doi.org/10.1145/3716553.3750749)
 
 Hyewon Lee, Christopher Bannon, and Andrea Bianchi. 2025. **CamARa: Exploring and Creating Camera Movements with Spatial Reference in Augmented Reality**. In Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (_CHI EA '25_). Association for Computing Machinery, New York, NY, USA, Article 703, 1–5. [https://doi.org/10.1145/3706599.3721180](https://doi.org/10.1145/3706599.3721180)
 
@@ -194,7 +194,7 @@ Yoonji Kim, Youngkyung Choi, Daye Kang, Minkyeong Lee, Tek-Jin Nam, and Andrea B
 
 Hyelip Lee, Seungwoo Je, Rachael Kim, Himanshu Verma, Hamed Alavi, Andrea Bianchi. 2019. **Partitioning Open-plan Workspaces via Augmented Reality**. In _Personal and Ubiquitous Computing_ (pp. 1-16) [https://doi.org/10.1007/s00779-019-01306-0](https://doi.org/10.1007/s00779-019-01306-0)
 
-Minkyeong Lee, Seungwoo Je, Woojin Lee, Daniel Ashbrook, and Andrea Bianchi. **ActivEarring: Spatiotemporal Haptic Cues on the Ears**, in IEEE Transactions on Haptics. In _IEEE Transactions on Haptics_. [https://doi.org/10.1109/TOH.2019.2925799](https://doi.org/10.1109/TOH.2019.2925799)
+Minkyeong Lee, Seungwoo Je, Woojin Lee, Daniel Ashbrook, and Andrea Bianchi. **ActivEarring: Spatiotemporal Haptic Cues on the Ears**. In _IEEE Transactions on Haptics_. [https://doi.org/10.1109/TOH.2019.2925799](https://doi.org/10.1109/TOH.2019.2925799)
 
 Seungwoo Je, Yekaterina Abileva, Andrea Bianchi, Jean-Charles Bazin. 2019. **A Computational Approach for Spider Web Inspired Fabrication of String Art**. In _Computer Animation and Virtual Worlds_ 2019;30:e1904. [https://doi.org/10.1002/cav.1904](https://doi.org/10.1002/cav.1904)
 
@@ -282,7 +282,7 @@ Andrea Bianchi, 유능, 이우진, 김명진. **Apparatus and method for renderi
 
 Andrea Bianchi, 유능, 이우진, 김명진. **Apparatus and method for rendering dynamic haptic response of flexible object**. (No. 10-2637690-0000, South Korea) 2024.02.13. _Issued_.
 
-Andrea Bianchi, 유능, 최영경, 김명진, Artem Dementyev. **Method and apparatus for printing electrical circuit directly on target surface having 3-dimensional shape, 3D printer used for the same and electical device having electrical circuit printed by the same**. (No. 10-2472806-0000, South Korea) 2022.11.28. _Issued_.
+Andrea Bianchi, 유능, 최영경, 김명진, Artem Dementyev. **Method and apparatus for printing electrical circuit directly on target surface having 3-dimensional shape, 3D printer used for the same and electrical device having electrical circuit printed by the same**. (No. 10-2472806-0000, South Korea) 2022.11.28. _Issued_.
 
 Andrea Bianchi, 유능, 이우진, 김명진. **Apparatus and method for rendering dynamic haptic response of flexible object**. (No. 10-2020-0189658, South Korea) 2020.12.31. _Pending_.
 

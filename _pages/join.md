@@ -26,7 +26,7 @@ Please refer to the official KAIST [admission site](https://admission.kaist.ac.k
 
 <blockquote class="question-quote">What research areas does the lab focus on?</blockquote>
 
-We are interested in building tools that support **creativity**, **physical computaitonal interaction**, and **making practices** by _blending software and hardware_. Our work often involves technologies such as _AI_, Extended Reality (_XR_), _digital fabrication_, _physical computing_, _haptics_, and _robotics_. Please check our latest projects to get a sense of our current research direction.
+We are interested in building tools that support **creativity**, **physical computational interaction**, and **making practices** by _blending software and hardware_. Our work often involves technologies such as _AI_, Extended Reality (_XR_), _digital fabrication_, _physical computing_, _haptics_, and _robotics_. Please check our latest projects to get a sense of our current research direction.
 
 <blockquote class="question-quote">Are graduate students funded?</blockquote>
 
@@ -50,14 +50,14 @@ Knowledge of Korean is not required (though appreciated).
 
 No. We welcome students from a wide range of majors, including design, architecture, computer science, and various engineering fields. A formal background in design is not required as we ourselves work at the intersection of design and computing. However, we remain a design lab, and I expect students to be able to articulate why they are interested in working in this field and what draws them to topics such as interaction, creativity, and making.
 
-<blockquote class="question-quote">Do you have any book recommendation about design?</blockquote>
+<blockquote class="question-quote">Do you have any book recommendations about design?</blockquote>
 
-Here a few that I personally like:
+Here are a few that I personally like:
   
 - [The Craftsman](https://www.goodreads.com/book/show/1931426.The_Craftsman)
 - [Sketching User Experiences](https://www.goodreads.com/book/show/980280)
-- [The reflcetice practitioner](https://www.goodreads.com/book/show/134454)
-- [Frame Innivation](https://www.goodreads.com/book/show/23461421)
+- [The reflective practitioner](https://www.goodreads.com/book/show/134454)
+- [Frame Innovation](https://www.goodreads.com/book/show/23461421)
 - [Design Thinking](https://www.goodreads.com/book/show/11528708)
  
  
@@ -149,7 +149,7 @@ No. English is the official language for courses and research. Korean may be hel
 If you are currently registered at KAIST (including exchange students), please fill out the interest  
 [form](https://forms.gle/i1aJLuJLCiLXvmGL7).
 
-Please note that students are generally expected to have taken my courses ([Software Prototyping](https::/software.prototyping.id), [Designing Interaction with AI]((https::/ai.prototyping.id)), [Designing Interaction with Hardware]((https::/hardware.prototyping.id))) or to have a comparable background before starting the internship.
+Please note that students are generally expected to have taken my courses ([Software Prototyping](https://software.prototyping.id), [Designing Interaction with AI](https://ai.prototyping.id), [Designing Interaction with Hardware](https://hardware.prototyping.id)) or to have a comparable background before starting the internship.
 
 
 ### For visitors

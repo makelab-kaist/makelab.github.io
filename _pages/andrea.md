@@ -91,9 +91,9 @@ I served as **Paper Co-Chair** at [UIST 2025](https://uist.acm.org/2025) and **S
 
 I have an [Erdős number](https://en.wikipedia.org/wiki/Erdős_number) of 3 and collect [eyeglasses](https://www.dropbox.com/scl/fi/gqnzkks4o9whyvgar3tth/glasses.pdf?rlkey=qcpytc9f10otdj135vbwahrl9&dl=0).
 
-<blockquote class="no-gradient large-quote">For a complete list of my publications, patents, services, awards, and talks, etc... please visit my <a href="http://andrea.kaist.id"><em>personal page</em></a>. For my old projects of when I was still a PhD student and then an Assistant Professor at Sungkyungkwan University, please refer to <a href="https://alsoplantsfly.netlify.app"><em>this repository</em>.</a></blockquote>
+<blockquote class="no-gradient large-quote">For a complete list of my publications, patents, services, awards, and talks, etc... please visit my <a href="http://andrea.kaist.id"><em>personal page</em></a>. For my old projects of when I was still a PhD student and then an Assistant Professor at Sungkyunkwan University, please refer to <a href="https://alsoplantsfly.netlify.app"><em>this repository</em>.</a></blockquote>
 
-## Reserach interest
+## Research interest
 
 I research in the field of Human-Computer Interaction (_HCI_), with a focus on _creativity support systems_ (physical computing and fabrication) and _physical interaction_ (mechatronic devices, haptics, and mixed reality).
 
@@ -101,7 +101,7 @@ I research in the field of Human-Computer Interaction (_HCI_), with a focus on _
 
 I am particularly interested in the process of _making_ as a means for creative exploration, problem framing, and knowledge construction. I design systems to support creative making by blending physical experiences (artifacts, materials, and embodiment) with computational interaction. My lab's work has been recognized with 9+ Best Paper and Honorable Mention Awards at premier HCI venues.
 
-## Teaching phylosphy and classes
+## Teaching philosophy and classes
 
 I have tried to explain a little about my teaching philosophy in this [interview](https://youtu.be/bZnS8IFA_OQ):
 
@@ -131,8 +131,8 @@ I have tried to explain a little about my teaching philosophy in this [interview
 <!-- **Program committee and editor**
 
 - UIST 2025 Paper Co-Chair
-- CHI 2026 Subcomittee Chair "Blending Interaction: Engineering Interactive Systems & Tools"
-- CHI 2025 Subcomittee Chair "Blending Interaction: Engineering Interactive Systems & Tools"
+- CHI 2026 Subcommittee Chair "Blending Interaction: Engineering Interactive Systems & Tools"
+- CHI 2025 Subcommittee Chair "Blending Interaction: Engineering Interactive Systems & Tools"
 - CHI 2015/16/18/19/21/22/23/24
 - UIST 2020/23
 - DIS 2018/20

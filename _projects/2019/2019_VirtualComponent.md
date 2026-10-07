@@ -44,7 +44,7 @@ The augmented reality breadboard of the future, [Hackaday (May 27, 2019)](https:
   pages = {1–13},
   numpages = {13},
   keywords = {toolkit, physical computing, component tuning, circuits},
-  location = {Glasgow, Scotland Uk},
+  location = {Glasgow, Scotland UK},
   series = {CHI '19}
 }
 {% endcapture %}
