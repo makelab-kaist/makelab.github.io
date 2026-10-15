@@ -16,6 +16,7 @@ SeungHui Huh:
     name: SeungHui Huh,
     url: 'https://www.linkedin.com/in/seunghui-huh-68795a16b',
   }
+Guhn Lee: { name: Guhn Lee, url: 'https://leeguhn.github.io' }
 
 # alumni
 DaYe Kang: { name: DaYe Kang, url: 'https://www.dayekang.info' }
@@ -47,6 +48,7 @@ Woojin Lee: { name: Woojin Lee }
 Wooshik Kim: { name: Wooshik Kim }
 Yoonji Kim: { name: Yoonji Kim, url: 'https://www.yoonji-kim.com' }
 Youngkyung Choi: { name: Youngkyung Choi }
+Yumin Jung: { name: Yumin Jung }
 Zhi Lin Yap: { name: Zhi Lin Yap }
 Zofia Marciniak: { name: Zofia Marciniak, url: 'https://zosia-hci.github.io' }
 
@@ -158,6 +160,11 @@ Michel Pahud:
   }
 Mike Sinclair: { name: Mike Sinclair }
 Minsoo Han: { name: Minsoo Han }
+Mustafa Doga Dogan:
+  {
+    name: Mustafa Doga Dogan,
+    url: 'https://www.dogadogan.com',
+  }
 Nadia Bianchi-Berthouze:
   {
     name: Nadia Bianchi-Berthouze,
