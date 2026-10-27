@@ -14,6 +14,7 @@ award: Honorable Mention
 pdf: LertjaturaphatP_RheeJ_WireWay_CHI26.pdf
 doi: https://doi.org/10.1145/3772318.3791371
 video: g0KKqrsPBd8?si=sMru8t6fdrDtUHUj
+github: https://github.com/punnlert/wireway_fritzing
 ---
 
 <!-- Video -->
@@ -30,19 +31,19 @@ The increasing popularity of microcontroller platforms such as Arduino allows a 
 
 {% capture paper_bibtex %}
 @inproceedings{10.1145/3772318.3791371,
-    author = {Lertjaturaphat, Punn and Rhee, Jungwoo and You, Jaewon and Bianchi, Andrea},
-    title = {Wire Your Way: Hardware-Contextualized Guidance and In-situ Tests for Personalized Circuit Prototyping},
-    year = {2026},
-    isbn = {9798400722783},
-    publisher = {Association for Computing Machinery},
-    address = {New York, NY, USA},
-    url = {https://doi.org/10.1145/3772318.3791371},
-    doi = {10.1145/3772318.3791371},
-    booktitle = {Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems},
-    articleno = {1471},
-    numpages = {19},
-    keywords = {Physical computing, Circuit prototyping, Maker tools, Hardware development},
-    series = {CHI '26}
+author = {Lertjaturaphat, Punn and Rhee, Jungwoo and You, Jaewon and Bianchi, Andrea},
+title = {Wire Your Way: Hardware-Contextualized Guidance and In-situ Tests for Personalized Circuit Prototyping},
+year = {2026},
+isbn = {9798400722783},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3772318.3791371},
+doi = {10.1145/3772318.3791371},
+booktitle = {Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems},
+articleno = {1471},
+numpages = {19},
+keywords = {Physical computing, Circuit prototyping, Maker tools, Hardware development},
+series = {CHI '26}
 }
 {% endcapture %}
 {% include bibtex.html bibtex=paper_bibtex %}
