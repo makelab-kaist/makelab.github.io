@@ -54,8 +54,6 @@ author: Make Lab, KAIST
 
 Jungwoo Rhee, Guhn Lee, Yumin Jung, Mustafa Doga Dogan, Kongpyung Justin Moon, Andrea Bianchi. 2026. **AdapTest: Supporting Designers in Authoring and Evaluating Environmentally Responsive User Interfaces for Extended Reality**. To appear in theProc. ACM Hum.-Comput. Interact. (_ISS 2027_).
 
-Guhn Lee, Jaewon You, Haeri Kim, Andrea Bianchi. **ModuFold: Semantic Authoring of Origamic Architecture**. 2026. To appear in Extended Abstracts of the ACM Symposium on Computational Fabrication (_SCF 2026_).
-
 Atul Chaudhary, Andrea Bianchi, Daniel Ashbrook, and Valkyrie Savage. 2026. **MBits: Multi-modality 3D-printed objects via resonance-tunable spring-mass units**. To appear in Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology (_UIST '26_).
 
 Heeji Jolie Kim, Anam Ahmad Khan, SeungHui Huh, and Andrea Bianchi. 2026. **AtoMix: Fostering Structured Visual Ideation for Remote Groups through Atomic Composition and Cross‑Pollination**. In Proceedings of the 2026 Conference on Creativity and Cognition (_C&C '26_). Association for Computing Machinery, New York, NY, USA, 1092–1107. [https://doi.org/10.1145/3803784.3807530](https://doi.org/10.1145/3803784.3807530)
@@ -74,13 +72,17 @@ HyeonBeom Yi, Myung Jin (MJ) Kim, Seungwoo Je, Seungjae Oh, Shuto Takashita, Hon
 
 Hyunyoung Kim, Daniel Ashbrook, Andrea Bianchi, Jack Forman, DPV Joseph Jayakody, Sara Nabil, HyunJoo Oh, Thomas Pietrzak, Thijs Roumen, Valkyrie Savage, Lining Yao, and Clement Zheng. **From Papers to the Real World: Making Fabrication Research Matter**. ([Workshop](https://fabricationresearch.wordpress.com)). In Extended Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (_CHI EA’26_) [[paper]]({{ site.url }}/files/2026/KimH_FabResearch_Workshop_CHI26.pdf).
 
-Haeri Kim, Anam Ahmad Khan, and Andrea Bianchi. 2026. **Understanding XR-Supported Creative Collaboration through a Domain-Specific Lens**. In _HCI Korea 2026_ [[paper]]({{ site.url }}/files/2026/KimH_XRconcert_KHCI26.pdf) (2026.01.26 2026.01.28).
+Guhn Lee, Jaewon You, Haeri Kim, Andrea Bianchi. **ModuFold: Semantic Authoring of Origamic Architecture**. 2026. To appear in Extended Abstracts of the ACM Symposium on Computational Fabrication (_SCF 2026_).
 
-Jee Youn Kim and Andrea Bianchi. 2026. **Dining in XR: empirical study**. In _HCI Korea 2026_ [[paper]]({{ site.url }}/files/2026/KimJY_XRfood_KHCI26.pdf) (2026.01.26 2026.01.28).
+Heeji Kim, Heeju Mun, Ji-Sung Kim, Ki-Uk Kyung, and Andrea Bianchi. **Sketching With Haptics: Authoring Multimodal Soft-Haptic Cues Without Explicit Parameters**. 2026. In Proceedings of _AsiaHaptics 2026_ [[paper]]({{ site.url }}/files/2026/KimHeeji_HapticSketch_AsH2026.pdf) (Nov. 17-20, 2026).
 
-Guhn Lee, Anam Ahmad Khan, and Andrea Bianchi. 2026. **Passthrough Interpretive Assistant: Revealing Hidden Intent and Bias in eXtended Reality with AI**. In _HCI Korea 2026_ [[paper]]({{ site.url }}/files/2026/LeeG_Bias_KHCI26.pdf) (2026.01.26 2026.01.28).
+Haeri Kim, Anam Ahmad Khan, and Andrea Bianchi. **Understanding XR-Supported Creative Collaboration through a Domain-Specific Lens**. 2026. In _HCI Korea 2026_ [[paper]]({{ site.url }}/files/2026/KimH_XRconcert_KHCI26.pdf) (2026.01.26 2026.01.28).
 
-Sally Nagle, Andrea Bianchi. **HaptiConnect: A Shared Haptic Sensing System for Player Dyads in Mixed Reality**. Demo at the _4th Korea Haptics Conference: Haptic Intelligence & Physical AI for Connecting Humans and Machines_ [[paper]({{ site.url }}/files/2026/NagleS_HaptiConnect_khc2026.pdf), [video](https://www.youtube.com/watch?v=Jex41MY2i_o)] (Aug. 10-13, 2026).
+Jee Youn Kim and Andrea Bianchi. 2026. **Dining in XR: empirical study**. 2026. In _HCI Korea 2026_ [[paper]]({{ site.url }}/files/2026/KimJY_XRfood_KHCI26.pdf) (2026.01.26 2026.01.28).
+
+Guhn Lee, Anam Ahmad Khan, and Andrea Bianchi. 2026. **Passthrough Interpretive Assistant: Revealing Hidden Intent and Bias in eXtended Reality with AI**. 2026. In _HCI Korea 2026_ [[paper]]({{ site.url }}/files/2026/LeeG_Bias_KHCI26.pdf) (2026.01.26 2026.01.28).
+
+Sally Nagle, Andrea Bianchi. **HaptiConnect: A Shared Haptic Sensing System for Player Dyads in Mixed Reality**. 2026. Demo at the _4th Korea Haptics Conference: Haptic Intelligence & Physical AI for Connecting Humans and Machines_ [[paper]({{ site.url }}/files/2026/NagleS_HaptiConnect_khc2026.pdf), [video](https://www.youtube.com/watch?v=Jex41MY2i_o)] (Aug. 10-13, 2026).
 
 ---
 
