@@ -76,6 +76,7 @@ author: Andrea Bianchi
 <!-- <a href="{{prof.homepage}}"><i class="fas fa-3x fa-home" aria-hidden="true"></i></a> -->
 <a href="http://andrea.kaist.id"><i class="fas fa-2x fa-id-badge" aria-hidden="true"></i></a>
 <a href="http://github.com/{{prof.github}}"><i class="fab fa-2x fa-github" aria-hidden="true"></i></a>
+<a href="https://medium.com/@andrea_36977" title="Medium"><i class="fab fa-2x fa-medium" aria-hidden="true"></i></a>
 <!-- <a href="https://twitter.com/{{prof.twitter}}"><i class="fab fa-2x fa-x-twitter" aria-hidden="true"></i></a> -->
 <a href="https://scholar.google.co.kr/citations?user={{prof.scholar}}"><i class="fas fa-2x fa-graduation-cap" aria-hidden="true"></i></a>
 <!-- <a href="https://scholar.google.co.kr/citations?user={{prof.linkedin}}"><i class="fab fa-2x fa-linkedin-in" aria-hidden="true"></i></a> -->
