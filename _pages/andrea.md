@@ -28,17 +28,27 @@ author: Andrea Bianchi
     .links {
         flex-direction: row;
         display: flex;
-        justify-content: space-between;
-        width: 60%;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 1em 2.5em;
         margin: auto;
         margin-top: 2em;
         margin-bottom: 3em;
     }
 
     .links a {
-        flex-grow: 1;
         display: flex;
         justify-content: center;
+    }
+
+    /* On small screens, lay out the 6 icons as 2 rows of 3 */
+    @media (max-width: 600px) {
+        .links {
+            display: grid;
+            grid-template-columns: repeat(3, auto);
+            justify-content: center;
+            gap: 1.25em 3em;
+        }
     }
 
     /* Page-specific blockquote styling: remove gradient and enlarge text */
@@ -101,6 +111,8 @@ I research in the field of Human-Computer Interaction (_HCI_), with a focus on _
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/U54PDYC_d4A?si=L9wxsR6aU-G5EycW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
 I am particularly interested in the process of _making_ as a means for creative exploration, problem framing, and knowledge construction. I design systems to support creative making by blending physical experiences (artifacts, materials, and embodiment) with computational interaction. My lab's work has been recognized with 9+ Best Paper and Honorable Mention Awards at premier HCI venues.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m3RzPM8SQnY?si=_wsC1Mv_UBPqoi9V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Teaching philosophy and classes
 
