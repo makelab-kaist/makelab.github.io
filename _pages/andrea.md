@@ -120,24 +120,26 @@ I have tried to explain a little about my teaching philosophy in this [interview
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bZnS8IFA_OQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**ID311 - _Software Prototyping_** ([current](https://software.prototyping.id))
+**ID502 - _Research Methodology_** (graduate, [current](https://research.designware.xyz))
+
+**ID311 - _Software Prototyping_** (undergraduate, [current](https://software.prototyping.id))
 
 - Fall: 2016, 2017
 - Spring: 2016, 2018-2023
 
-**ID499/CS492F - Designing Interaction with _Hardware_** ([current](https://hardware.prototyping.id))
+**ID499/CS492F - Designing Interaction with _Hardware_** (undergraduate/gradudate, [current](https://hardware.prototyping.id))
 
 - Spring: 2026
 
-**ID499/CS492F - Designing Interaction with _AI_** ([archive](https://ai.prototyping.id))
+**ID499/CS492F - Designing Interaction with _AI_** (undergraduate/gradudate, [archive](https://ai.prototyping.id))
 
 - Fall: 2024, 2025
 
-**ID220 - _Interaction Prototyping_** ([archive](https://sites.google.com/view/interaction-prototyping/home))
+**ID220 - _Interaction Prototyping_** (undergraduate, [archive](https://sites.google.com/view/interaction-prototyping/home))
 
 - Fall: 2018-2022
 
-**ID307 - _Interface Design_**
+**ID307 - _Interface Design_** (undergraduate)
 
 - Spring 2016, 2017
 
