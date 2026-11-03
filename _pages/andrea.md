@@ -122,6 +122,13 @@ I have tried to explain a little about my teaching philosophy in this [interview
 
 **ID502 - _Research Methodology_** (graduate, [current](https://research.designware.xyz))
 
+- Fall: 2026
+
+**ID499/CS492F - Designing Interaction with _AI_** (undergraduate/gradudate, [archive](https://ai.prototyping.id))
+
+- Fall: 2024, 2025
+- Spring: 2027
+
 **ID311 - _Software Prototyping_** (undergraduate, [current](https://software.prototyping.id))
 
 - Fall: 2016, 2017
@@ -130,10 +137,6 @@ I have tried to explain a little about my teaching philosophy in this [interview
 **ID499/CS492F - Designing Interaction with _Hardware_** (undergraduate/gradudate, [current](https://hardware.prototyping.id))
 
 - Spring: 2026
-
-**ID499/CS492F - Designing Interaction with _AI_** (undergraduate/gradudate, [archive](https://ai.prototyping.id))
-
-- Fall: 2024, 2025
 
 **ID220 - _Interaction Prototyping_** (undergraduate, [archive](https://sites.google.com/view/interaction-prototyping/home))
 
