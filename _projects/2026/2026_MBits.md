@@ -10,8 +10,8 @@ venue: UIST
 authors: [Atul Chaudhary, Andrea Bianchi, Daniel Ashbrook, Valkyrie Savage]
 
 # Paper links
-# pdf: ChaudharyA_MBits_UIST26.pdf # put file in the directory FILES
-# doi: https://doi.org/
+pdf: ChaudharyA_MBits_UIST26.pdf # put file in the directory FILES
+doi: https://doi.org/10.1145/3830398.3830641
 video: ElFv-0JHoXE?si=5dprVaKWjJXBS7g3
 ---
 
@@ -27,23 +27,22 @@ The geometric customization possible using digital fabrication has unlocked vari
 
 <!-- BibTex -->
 
-<!-- {% capture paper_bibtex %}
-@inproceedings{10.1145/3803784.3807530,
-author = {Kim, Heeji Jolie and Khan, Anam Ahmad and Huh, SeungHui and Bianchi, Andrea},
-title = {AtoMix: Fostering Structured Visual Ideation for Remote Groups through Atomic Composition and Cross‑Pollination},
-year = {2026},
-isbn = {9798400725838},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3803784.3807530},
-doi = {10.1145/3803784.3807530},
-booktitle = {Proceedings of the 2026 Conference on Creativity and Cognition},
-pages = {1092–1107},
-numpages = {16},
-keywords = {Creativity Support Tools (CST), Visual Ideation, Brainwriting, Generative Image},
-location = {
-},
-series = {C&C '26}
+{% capture paper_bibtex %}
+@inproceedings{10.1145/3830398.3830641,
+    author = {Chaudhary, Atul and Bianchi, Andrea and Ashbrook, Daniel and Savage, Valkyrie},
+    title = {MBits: Multi-modality 3D-printed objects via resonance-tunable spring-mass units},
+    year = {2026},
+    isbn = {9798400728563},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3830398.3830641},
+    doi = {10.1145/3830398.3830641},
+    booktitle = {Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology},
+    articleno = {181},
+    numpages = {15},
+    keywords = {fabrication, resonance, springs, vibration, passive, mechanical},
+    location = {Detroit, Michigan, USA},
+    series = {UIST '26}
 }
 {% endcapture %}
-{% include bibtex.html bibtex=paper_bibtex %} -->
+{% include bibtex.html bibtex=paper_bibtex %}
