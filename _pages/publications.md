@@ -72,9 +72,9 @@ HyeonBeom Yi, Myung Jin (MJ) Kim, Seungwoo Je, Seungjae Oh, Shuto Takashita, Hon
 
 Hyunyoung Kim, Daniel Ashbrook, Andrea Bianchi, Jack Forman, DPV Joseph Jayakody, Sara Nabil, HyunJoo Oh, Thomas Pietrzak, Thijs Roumen, Valkyrie Savage, Lining Yao, and Clement Zheng. **From Papers to the Real World: Making Fabrication Research Matter**. ([Workshop](https://fabricationresearch.wordpress.com)). In Extended Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (_CHI EA’26_) [[paper]]({{ site.url }}/files/2026/KimH_FabResearch_Workshop_CHI26.pdf).
 
-Guhn Lee, Jaewon You, Haeri Kim, Andrea Bianchi. **ModuFold: Semantic Authoring of Origamic Architecture**. 2026. To appear in Extended Abstracts of the ACM Symposium on Computational Fabrication (_SCF 2026_).
+Heeji Kim, Heeju Mun, Ji-Sung Kim, Ki-Uk Kyung, and Andrea Bianchi. **Sketching With Haptics: Authoring Multimodal Soft-Haptic Cues Without Explicit Parameters**. 2026. In Proceedings of _AsiaHaptics 2026_ (Nov. 17-20, 2026).
 
-Heeji Kim, Heeju Mun, Ji-Sung Kim, Ki-Uk Kyung, and Andrea Bianchi. **Sketching With Haptics: Authoring Multimodal Soft-Haptic Cues Without Explicit Parameters**. 2026. In Proceedings of _AsiaHaptics 2026_ [[paper]]({{ site.url }}/files/2026/KimHeeji_HapticSketch_AsH2026.pdf) (Nov. 17-20, 2026).
+Guhn Lee, Jaewon You, Haeri Kim, Andrea Bianchi. **ModuFold: Semantic Authoring of Origamic Architecture**. 2026. To appear in Extended Abstracts of the ACM Symposium on Computational Fabrication (_SCF 2026_).
 
 Haeri Kim, Anam Ahmad Khan, and Andrea Bianchi. **Understanding XR-Supported Creative Collaboration through a Domain-Specific Lens**. 2026. In _HCI Korea 2026_ [[paper]]({{ site.url }}/files/2026/KimH_XRconcert_KHCI26.pdf) (2026.01.26 2026.01.28).
 
