@@ -17,7 +17,8 @@ SeungHui Huh:
     url: 'https://www.linkedin.com/in/seunghui-huh-68795a16b',
   }
 Guhn Lee: { name: Guhn Lee, url: 'https://leeguhn.github.io' }
-Haeri Kim: { name: Haeri Kim, url: 'https://www.linkedin.com/in/haeri-kim-6a4398193' }
+Haeri Kim:
+  { name: Haeri Kim, url: 'https://www.linkedin.com/in/haeri-kim-6a4398193' }
 
 # alumni
 DaYe Kang: { name: DaYe Kang, url: 'https://www.dayekang.info' }
@@ -68,6 +69,8 @@ Anusha Withana:
     url: 'https://scholar.google.com/citations?user=y17ckyIAAAAJ&hl=en',
   }
 Artem Dementyev: { name: Artem Dementyev, url: 'https://adementyev.github.io' }
+Atul Chaudhary:
+  { name: Atul Chaudhary, url: 'https://www.linkedin.com/in/aayteeatul' }
 Austin Z. Henley: { name: Austin Z. Henley, url: 'https://austinhenley.com' }
 Bilge Mutlu:
   {
@@ -114,6 +117,7 @@ Hans Gellersen:
     name: Hans Gellersen,
     url: 'https://www.lancaster.ac.uk/scc/about-us/people/hans-gellersen',
   }
+Heeju Mun: { name: Heeju Mun }
 Himani Deshpande:
   { name: Himani Deshpande, url: 'https://hdeshpande11.github.io' }
 Himanshu Verma:
@@ -145,9 +149,15 @@ Jaemin Shin: { name: Jaemin Shin }
 Jarod Bloch: { name: Jarod Bloch }
 Jas Brooks: { name: Jas Brooks, url: 'https://jasbrooks.net' }
 Jeeeun Kim: { name: Jeeeun Kim, url: 'https://www.jeeeunkim.com/bio.html' }
+Ji-Sung Kim: { name: Ji-Sung Kim }
 Joshua Newn:
   { name: Joshua Newn, url: 'https://www.rmit.edu.au/profiles/n/joshua-newn' }
 Juyoung Lee: { name: Juyoung Lee }
+Ki-Uk Kyung:
+  {
+    name: Ki-Uk Kyung,
+    url: 'https://scholar.google.com/citations?user=Z6rIzz8AAAAJ&hl=en',
+  }
 Kyungah Choi: { name: Kyungah Choi }
 Laurenz Seidel: { name: Laurenz Seidel }
 Laurie M. Heller: { name: Laurie M. Heller }
@@ -162,10 +172,7 @@ Michel Pahud:
 Mike Sinclair: { name: Mike Sinclair }
 Minsoo Han: { name: Minsoo Han }
 Mustafa Doga Dogan:
-  {
-    name: Mustafa Doga Dogan,
-    url: 'https://www.dogadogan.com',
-  }
+  { name: Mustafa Doga Dogan, url: 'https://www.dogadogan.com' }
 Nadia Bianchi-Berthouze:
   {
     name: Nadia Bianchi-Berthouze,
@@ -211,4 +218,3 @@ Zhanna Sarsenbayeva:
     name: Zhanna Sarsenbayeva,
     url: 'https://scholar.google.com/citations?user=VJH22RwAAAAJ&hl=en',
   }
-Atul Chaudhary: { name: Atul Chaudhary, url: 'https://www.linkedin.com/in/aayteeatul' }
