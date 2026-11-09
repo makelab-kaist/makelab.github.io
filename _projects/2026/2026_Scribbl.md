@@ -32,12 +32,12 @@ Authoring haptic feedback has traditionally relied on specifying explicit parame
 
 {% capture paper_bibtex %}
 @inproceedings{Kim2026Sketching,
-    author = {Kim, Heeji and Mun, Heeju and Kim, Ji-Sung and Kyung, Ki-Uk and Bianchi, Andrea},
-    title = {Sketching With Haptics: Authoring Multimodal Soft-Haptic Cues Without Explicit Parameters},
-    year = {2026},
-    booktitle = {Proceedings of AsiaHaptics 2026},
-    month = {November },
-    date = {2026-11-17/2026-11-20},
+author = {Kim, Heeji and Mun, Heeju and Kim, Ji-Sung and Kyung, Ki-Uk and Bianchi, Andrea},
+title = {Sketching With Haptics: Authoring Multimodal Soft-Haptic Cues Without Explicit Parameters},
+year = {2026},
+booktitle = {Proceedings of AsiaHaptics 2026},
+month = {November },
+date = {2026-11-17/2026-11-20},
 }
 {% endcapture %}
 {% include bibtex.html bibtex=paper_bibtex %}
