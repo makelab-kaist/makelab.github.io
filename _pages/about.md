@@ -7,7 +7,9 @@ author: Make Lab, KAIST
 
 _make lab_ is a research group working in the field of Human-Computer Interaction (**HCI**), with the objective of creating novel _computationally augmented physical interactions_. We are in the department of [Industrial Design](http://id.kaist.ac.kr) at [KAIST](https://www.kaist.ac.kr/en/) (South Korea) and are a member of the [KAIST HCI group](https://hci.kaist.ac.kr). Our lab is a well-recognized and award-winning HCI lab in Korea working at the intersection of design and engineering. Please see our [publications](./publications.html).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FaTROXhY3-A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/FaTROXhY3-A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m3RzPM8SQnY?si=_wsC1Mv_UBPqoi9V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Rooted in user-centered experience design and with deep understanding and expertise in various engineering fields (computing, mechanical engineering, electronics), we explore emerging technologies aimed to _physically empower creativity_ and processes. As such, we blend physical and digital realms (hardware + software) that result in novel physical interactions with computers to foster creators and makers like us.
 

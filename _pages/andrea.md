@@ -110,9 +110,11 @@ I research in the field of Human-Computer Interaction (_HCI_), with a focus on _
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/U54PDYC_d4A?si=L9wxsR6aU-G5EycW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
-I am particularly interested in the process of _making_ as a means for creative exploration, problem framing, and knowledge construction. I design systems to support creative making by blending physical experiences (artifacts, materials, and embodiment) with computational interaction. My lab's work has been recognized with 9+ Best Paper and Honorable Mention Awards at premier HCI venues.
+I am particularly interested in the process of _making_ as a means for creative exploration, problem framing, and knowledge construction. As I tried to explain in [this talk](https://www.youtube.com/watch?v=m3RzPM8SQnY), I propose a vision of making as a process of decision-making through engagement with the tools and materials at hand—what I call *reflections*. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m3RzPM8SQnY?si=_wsC1Mv_UBPqoi9V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![reflections with making](images/mix/vision.png)
+
+To actualize this vision, I design systems to support creative making by blending physical experiences (artifacts, materials, and embodiment) with computational interaction, resulting in devices and prototyping tools that support embodied and situated interaction, and craft. My lab's work has been recognized with 9+ Best Paper and Honorable Mention Awards at premier HCI venues.
 
 ## Teaching philosophy and classes
 
