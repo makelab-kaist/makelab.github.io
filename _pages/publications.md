@@ -52,7 +52,7 @@ author: Make Lab, KAIST
 
 ## 2026
 
-Jungwoo Rhee, Guhn Lee, Yumin Jung, Mustafa Doga Dogan, Kongpyung Justin Moon, Andrea Bianchi. 2026. **AdapTest: Supporting Designers in Authoring and Evaluating Environmentally Responsive User Interfaces for Extended Reality**. To appear in theProc. ACM Hum.-Comput. Interact. (_ISS 2027_).
+Jungwoo Rhee, Guhn Lee, Yumin Jung, Mustafa Doga Dogan, Kongpyung (Justin) Moon, and Andrea Bianchi. 2026. **AdapTest: Supporting Designers in Authoring and Evaluating Environmentally Responsive User Interfaces for Extended Reality**. Proc. ACM Hum.-Comput. Interact. (_PACM_) 10, 8, Article _ISS_ (November 2026), 29 pages. [https://doi.org/10.1145/3859325](https://doi.org/10.1145/3859325)
 
 Atul Chaudhary, Andrea Bianchi, Daniel Ashbrook, and Valkyrie Savage. 2026. **MBits: Multi-modality 3D-printed objects via resonance-tunable spring-mass units**. In Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology (_UIST '26_). Association for Computing Machinery, New York, NY, USA, Article 181, 1–15. [https://doi.org/10.1145/3830398.3830641](https://doi.org/10.1145/3830398.3830641)
 

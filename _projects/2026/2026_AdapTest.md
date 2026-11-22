@@ -19,8 +19,8 @@ authors:
 equal_authors: [Kongpyung Justin Moon, Andrea Bianchi]
 
 # Paper links
-# pdf: RheeJungwoo_AdapTest_ISS26.pdf # put file in the directory FILES
-# doi: https://doi.org/
+pdf: RheeJungwoo_AdapTest_ISS26.pdf # put file in the directory FILES
+doi: https://doi.org/10.1145/3859325
 video: imBZi7NmE6o?si=EKfui3MQ2vlAUsWG
 ---
 
@@ -36,23 +36,23 @@ Extended Reality (XR) headsets increasingly host familiar 2D user interfaces as 
 
 <!-- BibTex -->
 
-<!-- {% capture paper_bibtex %}
-@inproceedings{10.1145/3803784.3807530,
-author = {Kim, Heeji Jolie and Khan, Anam Ahmad and Huh, SeungHui and Bianchi, Andrea},
-title = {AtoMix: Fostering Structured Visual Ideation for Remote Groups through Atomic Composition and Cross‑Pollination},
-year = {2026},
-isbn = {9798400725838},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3803784.3807530},
-doi = {10.1145/3803784.3807530},
-booktitle = {Proceedings of the 2026 Conference on Creativity and Cognition},
-pages = {1092–1107},
-numpages = {16},
-keywords = {Creativity Support Tools (CST), Visual Ideation, Brainwriting, Generative Image},
-location = {
-},
-series = {C&C '26}
+{% capture paper_bibtex %}
+@article{10.1145/3859325,
+  author = {Rhee, Jungwoo and Lee, Guhn and Jung, Yumin and Dogan, Mustafa Doga and Moon, Kongpyung (Justin) and Bianchi, Andrea},
+  title = {AdapTest: Supporting Designers in Authoring and Evaluating Environmentally Responsive User Interfaces for Extended Reality},
+  year = {2026},
+  issue_date = {November 2026},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  volume = {10},
+  number = {8},
+  url = {https://doi.org/10.1145/3859325},
+  doi = {10.1145/3859325},
+  journal = {Proc. ACM Hum.-Comput. Interact.},
+  month = nov,
+  articleno = {ISS013},
+  numpages = {29},
+  keywords = {XR, Responsive UI, Environmental Adaptation, Interface Design Tools}
 }
 {% endcapture %}
-{% include bibtex.html bibtex=paper_bibtex %} -->
+{% include bibtex.html bibtex=paper_bibtex %}
